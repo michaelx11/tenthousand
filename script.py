@@ -185,6 +185,7 @@ lambda word, args: canAddOneAnagram(word) == args[0],
 lambda word, args: len(word),
 }
 
+# Stores the filters, where the keys are compiled regex, and values are (args, func(word, args)->bool).
 filters = {}
 for instruct in instructions:
     args = re.findall('(\$[a-z]+)', instruct)
@@ -210,32 +211,31 @@ def find_filter(instruct):
                     groups[i] = float(groups[i])
                 elif arg == '$bool':
                     groups[i] = (groups[i] == 'YES')
-            print filt.pattern
+            #print filt.pattern
             return groups, func
 
 words = set()
 
-for line in open('words.txt'):
+for line in open('pyramid/words.txt'):
     words.add(line.strip().upper())
 
 sortedStrings = set(map(lambda x: ''.join(sorted(x)), words))
 
-for line in open('dircontents', 'r'):
-    os.chdir(line.strip())
-    os.system('pwd')
-    filename = line.strip()
-    for filename in os.listdir('.'):
-        if filename == 'words.txt' or 'DS_Store' in filename or 'sw' in filename:
-            continue
-
+for filename in os.listdir('pyramid'):
+    if filename in ('examples', 'words.txt'):
+        continue
+    row_path = 'pyramid/%s' % filename
+    for filename in os.listdir(row_path):
         match = fname_r.search(filename)
         row, col = match.group(1), match.group(2)
+        file_path = '%s/%s' % (row_path, filename)
 
-        print filename
+        # Narrow down the valid words.
         valid_words = list(words)
-        for line in open(filename).readlines():
-            if len(line.strip()) == 0:
-                continue
+        for line in open(file_path).readlines():
+            if line[-1] != '\n':
+                raise
+            print line[:-1]
             result = find_filter(line)
             if not result:
                 print 'Error: not found', line
@@ -244,4 +244,4 @@ for line in open('dircontents', 'r'):
             valid_words = filter(lambda x: func(x, groups), valid_words)
             print len(valid_words)
         print valid_words
-    os.chdir('..')
+        break
