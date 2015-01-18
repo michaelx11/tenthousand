@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Contains at least one doubled letter: YES
+Contains at least two nonoverlapping occurrences of the same doubled letter: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 084
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 137 and 187 (inclusive)

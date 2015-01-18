@@ -1,0 +1,5 @@
+Contains: Y
+Distinct consonants: 4
+Most common letter(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 225
+Sum of letters (A=1, B=2, etc): between 68 and 98 (inclusive)

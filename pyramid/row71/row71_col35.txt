@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: ST
+Vowels: between 46.6% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

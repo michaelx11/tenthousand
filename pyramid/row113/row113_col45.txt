@@ -1,0 +1,7 @@
+Base Scrabble score: 10 points
+Contains: E
+Distinct consonants: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc): between 96 and 100 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

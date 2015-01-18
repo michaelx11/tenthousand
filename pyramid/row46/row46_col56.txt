@@ -1,0 +1,3 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 84.6% and 85.8% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+Starts with: DEMI

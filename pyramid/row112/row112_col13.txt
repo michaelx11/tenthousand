@@ -1,0 +1,4 @@
+Base Scrabble score: 10 points
+Contains: GA
+Length: 4 letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

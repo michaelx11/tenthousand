@@ -1,0 +1,5 @@
+Contains: RI
+Distinct letters: 8
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 578
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

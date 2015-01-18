@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Letters located in the bottom row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C98
+Vowels: 1
+
+This is NOT a word with property UNAS.

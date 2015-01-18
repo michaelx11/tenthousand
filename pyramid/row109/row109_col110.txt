@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Contains: ON
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 68.4% and 70.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 22.7% and 23.9% (inclusive) of the letters
+Vowels: 4

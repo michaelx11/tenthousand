@@ -1,0 +1,2 @@
+Contains: SKE
+Letters located in the bottom row on a QWERTY keyboard: between 8.3% and 8.4% (inclusive) of the letters

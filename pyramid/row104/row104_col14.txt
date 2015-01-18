@@ -1,0 +1,3 @@
+Contains: TAL
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 30.7% and 33.4% (inclusive) of the letters
+Vowels: between 16.6% and 16.7% (inclusive) of the letters

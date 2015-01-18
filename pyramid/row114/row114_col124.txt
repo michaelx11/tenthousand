@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 14E
+Starts with: MASO
+
+This is NOT a word with property MENKAURE.

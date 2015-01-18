@@ -1,0 +1,7 @@
+Base Scrabble score: 18 points
+Contains at least one doubled letter: YES
+Ends with: S
+Letters located in the middle row on a QWERTY keyboard: between 3 and 4 (inclusive)
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 99 and 106 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

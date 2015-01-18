@@ -1,0 +1,6 @@
+Contains at least one doubled letter: NO
+Most common letter(s) each appear(s): between 4 and 6 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

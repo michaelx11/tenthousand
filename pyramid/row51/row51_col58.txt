@@ -1,0 +1,3 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Starts with: ENSL

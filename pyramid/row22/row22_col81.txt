@@ -1,0 +1,8 @@
+Contains at least one doubled letter: NO
+Distinct letters: 7
+Letters located in the bottom row on a QWERTY keyboard: 2
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 111 and 112 (inclusive)
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

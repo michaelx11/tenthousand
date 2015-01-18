@@ -1,0 +1,5 @@
+Contains: FF
+Has property AMENYQEMAU: YES
+Letters located in the middle row on a QWERTY keyboard: between 80.0% and 90.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

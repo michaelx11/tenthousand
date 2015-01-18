@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: YES
+Contains: SU
+Length: 7 letters
+Vowels: 2

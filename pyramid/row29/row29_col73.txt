@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+Letters located in the middle row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 63
+
+This is a word with property QAKAREIBI.

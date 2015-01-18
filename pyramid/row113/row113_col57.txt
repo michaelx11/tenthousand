@@ -1,0 +1,10 @@
+Base Scrabble score: 14 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: U
+Distinct vowels: 3
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 8 and 19 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+
+This is NOT a word with property SOBEKNEFERU.

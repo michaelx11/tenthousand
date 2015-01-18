@@ -1,0 +1,3 @@
+Contains: GFU
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+Most common letter(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters

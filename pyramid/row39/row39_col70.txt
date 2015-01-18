@@ -1,0 +1,8 @@
+Base Scrabble score: between 16 and 49 (inclusive) points
+Distinct consonants: 5
+Has property PEPI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Letters located in the top row on a QWERTY keyboard: 6
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 123 and 308 (inclusive)

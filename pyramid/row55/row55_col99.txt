@@ -1,0 +1,4 @@
+Distinct letters: 9
+Has property HAWARA: YES
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 9F3

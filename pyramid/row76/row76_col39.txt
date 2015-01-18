@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Contains: B
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 03D
+Sum of letters (A=1, B=2, etc): between 43 and 44 (inclusive)

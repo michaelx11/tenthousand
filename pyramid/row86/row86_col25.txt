@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Has at least one anagram that is also in the word list: NO
+Has property BIKHERIS: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Most common vowel(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 77

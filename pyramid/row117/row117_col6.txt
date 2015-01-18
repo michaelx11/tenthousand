@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Contains: FA
+Most common consonant(s) each account(s) for: between 17.6% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 7

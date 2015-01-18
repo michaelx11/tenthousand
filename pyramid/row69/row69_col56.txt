@@ -1,0 +1,6 @@
+Contains: PES
+Distinct consonants: between 1 and 4 (inclusive)
+Letters located in the top row on a QWERTY keyboard: between 75.0% and 87.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 70 and 92 (inclusive)

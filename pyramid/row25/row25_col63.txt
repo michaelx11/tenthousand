@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Contains: D
+Distinct vowels: 2
+Sum of letters (A=1, B=2, etc): between 140 and 141 (inclusive)
+Vowels: between 31.2% and 33.4% (inclusive) of the letters

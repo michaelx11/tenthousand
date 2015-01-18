@@ -1,0 +1,4 @@
+Base Scrabble score: between 14 and 16 (inclusive) points
+Contains: ID
+Length: 4 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,5 @@
+Contains: RES
+Distinct consonants: 5
+Has property SETHKA: YES
+Most common letter(s) each account(s) for: exactly 30.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A9

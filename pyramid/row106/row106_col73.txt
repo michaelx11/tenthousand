@@ -1,0 +1,8 @@
+Base Scrabble score: 11 points
+Distinct consonants: 5
+Letters located in the middle row on a QWERTY keyboard: between 29.4% and 30.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F
+Sum of letters (A=1, B=2, etc): between 124 and 308 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is NOT a word with property LISHT.

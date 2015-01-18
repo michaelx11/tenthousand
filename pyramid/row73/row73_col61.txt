@@ -1,0 +1,6 @@
+Base Scrabble score: between 17 and 48 (inclusive) points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 53.3% and 55.6% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 2 (inclusive)
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 122 and 123 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

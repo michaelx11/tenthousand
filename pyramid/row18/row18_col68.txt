@@ -1,0 +1,6 @@
+Base Scrabble score: 9 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: ED
+Has at least one anagram that is also in the word list: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

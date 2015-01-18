@@ -1,0 +1,4 @@
+Contains: M
+Most common consonant(s) each account(s) for: between 21.0% and 23.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 4DC
+Sum of letters (A=1, B=2, etc): between 102 and 103 (inclusive)

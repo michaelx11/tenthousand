@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Distinct consonants: 3
+Letters located in the top row on a QWERTY keyboard: between 30.7% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F64
+Sum of letters (A=1, B=2, etc): between 85 and 108 (inclusive)

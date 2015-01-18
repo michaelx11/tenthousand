@@ -1,0 +1,9 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Distinct vowels: 3
+Ends with: S
+Letters located in the bottom row on a QWERTY keyboard: 2
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 128 and 174 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

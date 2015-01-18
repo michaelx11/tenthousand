@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 5 letters
+Most common letter(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 113 and 122 (inclusive)

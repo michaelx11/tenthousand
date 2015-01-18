@@ -1,0 +1,4 @@
+Has property SETHKA: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 50.0% of the letters
+Letters located in the top row on a QWERTY keyboard: exactly 75.0% of the letters
+Sum of letters (A=1, B=2, etc): 82

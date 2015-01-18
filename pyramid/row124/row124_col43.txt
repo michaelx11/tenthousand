@@ -1,0 +1,5 @@
+Distinct vowels: 2
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 87.5% of the letters
+Letters located in the top row on a QWERTY keyboard: exactly 62.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6
+Sum of letters (A=1, B=2, etc): between 117 and 123 (inclusive)

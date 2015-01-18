@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct consonants: 7
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 9 and 12 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 121 and 126 (inclusive)
+Vowels: exactly 30.0% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: between 9 and 17 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: L
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 15.3% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Vowels: 5

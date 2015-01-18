@@ -1,0 +1,4 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+Contains: SIN
+Letters located in the bottom row on a QWERTY keyboard: 3
+Sum of letters (A=1, B=2, etc): between 106 and 110 (inclusive)

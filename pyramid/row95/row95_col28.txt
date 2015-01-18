@@ -1,0 +1,5 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 5 and 6 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 23.5% and 25.0% (inclusive) of the letters
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A42
+Sum of letters (A=1, B=2, etc): between 108 and 115 (inclusive)

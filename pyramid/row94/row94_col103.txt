@@ -1,0 +1,2 @@
+Length: between 2 and 4 (inclusive) letters
+Starts with: HAV

@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Has at least one anagram that is also in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: between 9.0% and 10.0% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 17.3% and 19.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA

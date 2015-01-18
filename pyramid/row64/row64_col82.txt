@@ -1,0 +1,4 @@
+Base Scrabble score: between 19 and 48 (inclusive) points
+Contains: GL
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 64.7% and 66.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 22.2% and 25.0% (inclusive) of the letters

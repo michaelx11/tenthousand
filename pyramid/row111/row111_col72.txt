@@ -1,0 +1,4 @@
+Distinct letters: 4
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 2 letters
+Letters located in the middle row on a QWERTY keyboard: 0
+Sum of letters (A=1, B=2, etc): 53

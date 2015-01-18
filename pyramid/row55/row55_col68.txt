@@ -1,0 +1,2 @@
+Starts with: SHO
+Sum of letters (A=1, B=2, etc): 91

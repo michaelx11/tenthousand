@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Contains: ES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D
+Sum of letters (A=1, B=2, etc): 93

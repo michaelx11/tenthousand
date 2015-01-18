@@ -1,0 +1,5 @@
+Distinct vowels: 1
+Most common letter(s) each appear(s): between 4 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

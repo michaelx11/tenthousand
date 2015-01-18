@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Contains: OS
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CE8
+Vowels: between 0 and 2 (inclusive)

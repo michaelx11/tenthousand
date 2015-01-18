@@ -1,0 +1,5 @@
+Base Scrabble score: 27 points
+Letters located in the bottom row on a QWERTY keyboard: 1
+Sum of letters (A=1, B=2, etc): 150
+
+This is NOT a word with property BIKHERIS.

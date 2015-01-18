@@ -1,0 +1,3 @@
+Base Scrabble score: between 31 and 32 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: 3
+Sum of letters (A=1, B=2, etc): 188

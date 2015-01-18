@@ -1,0 +1,9 @@
+Base Scrabble score: 12 points
+Contains at least two different doubled letters: NO
+Distinct consonants: between 4 and 5 (inclusive)
+Ends with: S
+Letters located in the middle row on a QWERTY keyboard: between 39.1% and 40.0% (inclusive) of the letters
+Most common letter(s) each appear(s): between 3 and 5 (inclusive) times
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

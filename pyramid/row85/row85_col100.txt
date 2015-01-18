@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: 1
+Most common vowel(s) each account(s) for: exactly 50.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7
+Sum of letters (A=1, B=2, etc): between 55 and 59 (inclusive)

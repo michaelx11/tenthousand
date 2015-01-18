@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: DBB9
+Vowels: between 4 and 7 (inclusive)
+
+This is a word with property SETHKA.

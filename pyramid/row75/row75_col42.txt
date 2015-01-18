@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 2 and 4 (inclusive) letters
+Sum of letters (A=1, B=2, etc): 95
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

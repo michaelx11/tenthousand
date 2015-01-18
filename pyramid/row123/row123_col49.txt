@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Ends with: S
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Sum of letters (A=1, B=2, etc): 72
+Vowels: between 27.2% and 28.6% (inclusive) of the letters

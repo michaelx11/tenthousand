@@ -1,0 +1,11 @@
+Base Scrabble score: 10 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct vowels: 2
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+Letters located in the top row on a QWERTY keyboard: 2
+Most common letter(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: between 1 and 2 (inclusive)
+
+This is a word with property MAZGHUNA.

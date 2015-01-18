@@ -1,0 +1,9 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: Y
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 0 and 3 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 21.4% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO
+
+This is NOT a word with property MAZGHUNA.

@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Letters located in the top row on a QWERTY keyboard: 7
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 209
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

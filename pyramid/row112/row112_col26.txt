@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Contains: F
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 93
+Sum of letters (A=1, B=2, etc): 52

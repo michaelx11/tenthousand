@@ -1,0 +1,5 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 42.8% and 42.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 8 and 16 (inclusive)
+Most common vowel(s) each appear(s): between 4 and 6 (inclusive) times
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO

@@ -1,0 +1,7 @@
+Some statements that uniquely identify BUDS:
+
+Contains: DS
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 0.0% of the letters
+Length: between 3 and 4 (inclusive) letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

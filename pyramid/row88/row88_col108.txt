@@ -1,0 +1,7 @@
+Base Scrabble score: between 16 and 18 (inclusive) points
+Contains: T
+Distinct consonants: 6
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 42.1% and 47.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 72 and 115 (inclusive)

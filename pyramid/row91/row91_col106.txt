@@ -1,0 +1,4 @@
+Sum of letters (A=1, B=2, etc): 79
+Vowels: exactly 0.0% of the letters
+
+This is a word with property LISHT.

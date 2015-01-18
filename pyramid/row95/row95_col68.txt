@@ -1,0 +1,5 @@
+Base Scrabble score: 25 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 76.9% and 77.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 5.2% and 8.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 154 and 308 (inclusive)
+Vowels: between 38.4% and 38.5% (inclusive) of the letters

@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Distinct vowels: 4
+Length: 11 letters
+Letters located in the bottom row on a QWERTY keyboard: 3
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 120 and 129 (inclusive)

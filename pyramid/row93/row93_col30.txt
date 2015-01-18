@@ -1,0 +1,5 @@
+Most common vowel(s) each account(s) for: between 30.0% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7615
+Sum of letters (A=1, B=2, etc): between 57 and 61 (inclusive)
+
+This is a word with property NEFEREFRE.

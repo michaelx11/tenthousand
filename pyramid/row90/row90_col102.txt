@@ -1,0 +1,6 @@
+Contains: MM
+Length: between 6 and 8 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 30.0% and 33.4% (inclusive) of the letters
+Most common vowel(s) each appear(s): 2 times
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

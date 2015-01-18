@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Ends with: C
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5D
+Sum of letters (A=1, B=2, etc): 77

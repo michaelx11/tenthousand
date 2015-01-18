@@ -1,0 +1,4 @@
+Base Scrabble score: 4 points
+Ends with: RAS
+
+This is a word with property SOBEKNEFERU.

@@ -1,0 +1,6 @@
+Contains: U
+Letters located in the top row on a QWERTY keyboard: between 45.4% and 46.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BA4
+Sum of letters (A=1, B=2, etc): between 137 and 141 (inclusive)
+
+This is NOT a word with property MENKAURE.

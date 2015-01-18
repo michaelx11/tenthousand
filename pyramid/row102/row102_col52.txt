@@ -1,0 +1,2 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 75.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7A1E

@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 228
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 82 and 84 (inclusive)

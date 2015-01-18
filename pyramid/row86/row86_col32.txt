@@ -1,0 +1,6 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 95.0% and 100.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: exactly 40.0% of the letters
+Starts with: HO
+Sum of letters (A=1, B=2, etc): 80
+
+This is NOT a word with property PEPI.

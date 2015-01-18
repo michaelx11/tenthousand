@@ -1,0 +1,5 @@
+Base Scrabble score: 20 points
+Contains: IO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the middle row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2

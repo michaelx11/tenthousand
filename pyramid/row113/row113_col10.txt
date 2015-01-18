@@ -1,0 +1,7 @@
+Base Scrabble score: 7 points
+Contains: AT
+Length: 5 letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 38 and 47 (inclusive)
+
+This is NOT a word with property PEPI.

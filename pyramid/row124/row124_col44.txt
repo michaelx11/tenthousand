@@ -1,0 +1,7 @@
+Contains: AB
+Distinct vowels: 3
+Length: 6 letters
+Letters located in the top row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

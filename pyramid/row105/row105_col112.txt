@@ -1,0 +1,6 @@
+Can be Caesar shifted to produce another word in the word list: NO
+Has at least one anagram that is also in the word list: YES
+Has property MERENRE: YES
+Most common letter(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C17
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

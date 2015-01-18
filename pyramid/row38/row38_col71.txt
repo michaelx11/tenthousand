@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F8DF
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

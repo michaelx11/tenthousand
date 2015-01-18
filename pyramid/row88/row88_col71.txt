@@ -1,0 +1,3 @@
+Base Scrabble score: 9 points
+Contains: UM
+Letters located in the top row on a QWERTY keyboard: exactly 25.0% of the letters

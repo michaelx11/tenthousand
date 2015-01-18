@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: ER
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 22.2% and 22.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 108 and 109 (inclusive)

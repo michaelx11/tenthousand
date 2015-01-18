@@ -1,0 +1,7 @@
+Base Scrabble score: between 19 and 48 (inclusive) points
+Distinct consonants: 5
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 89.4% and 90.0% (inclusive) of the letters
+Starts with: L
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is NOT a word with property NEFEREFRE.

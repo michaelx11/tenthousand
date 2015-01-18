@@ -1,0 +1,6 @@
+Contains: INF
+Most common vowel(s) each account(s) for: between 23.0% and 23.1% (inclusive) of the letters
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is NOT a word with property MEIDUM.

@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: between 21.0% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Vowels: 5
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

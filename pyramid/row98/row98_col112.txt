@@ -1,0 +1,6 @@
+Base Scrabble score: 18 points
+Contains: IS
+Length: between 10 and 29 (inclusive) letters
+Vowels: between 11.1% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

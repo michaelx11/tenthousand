@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Has property BIKHERIS: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 18.1% and 18.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 96 and 97 (inclusive)

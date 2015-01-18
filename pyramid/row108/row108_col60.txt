@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 9 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 0D
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: between 21.4% and 23.6% (inclusive) of the letters

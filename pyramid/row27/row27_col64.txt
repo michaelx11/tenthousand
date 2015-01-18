@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Contains: N
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 3
+Sum of letters (A=1, B=2, etc): 74
+Vowels: 3

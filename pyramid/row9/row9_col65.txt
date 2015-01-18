@@ -1,0 +1,8 @@
+Base Scrabble score: 14 points
+Contains: T
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+
+This is NOT a word with property MERENRE.
+This is NOT a word with property KHUI.

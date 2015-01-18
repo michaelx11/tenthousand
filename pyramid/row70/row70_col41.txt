@@ -1,0 +1,6 @@
+Base Scrabble score: between 18 and 48 (inclusive) points
+Ends with: CE
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 434
+
+This is NOT a word with property LISHT.

@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: E
+Sum of letters (A=1, B=2, etc): between 137 and 140 (inclusive)
+Vowels: between 45.4% and 45.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

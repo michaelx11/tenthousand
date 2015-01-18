@@ -1,0 +1,4 @@
+Ends with: ES
+Most common consonant(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C23
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

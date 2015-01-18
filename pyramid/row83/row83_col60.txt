@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Contains: ON
+Letters located in the bottom row on a QWERTY keyboard: between 26.6% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AAE
+Vowels: between 42.1% and 42.9% (inclusive) of the letters

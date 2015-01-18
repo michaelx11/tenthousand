@@ -1,0 +1,4 @@
+Base Scrabble score: between 9 and 11 (inclusive) points
+Contains: ME
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3
+Sum of letters (A=1, B=2, etc): 92

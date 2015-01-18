@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Length: 10 letters
+Starts with: PERE
+Vowels: 4

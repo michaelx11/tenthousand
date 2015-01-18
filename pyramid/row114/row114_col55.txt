@@ -1,0 +1,5 @@
+Contains: C
+Length: 8 letters
+Letters located in the top row on a QWERTY keyboard: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B
+Sum of letters (A=1, B=2, etc): 70

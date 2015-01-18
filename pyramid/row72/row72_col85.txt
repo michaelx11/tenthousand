@@ -1,0 +1,6 @@
+Base Scrabble score: between 18 and 20 (inclusive) points
+Distinct letters: between 11 and 13 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 14 and 19 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+
+This is a word with property HAWARA.

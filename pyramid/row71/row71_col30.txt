@@ -1,0 +1,5 @@
+Base Scrabble score: 9 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Letters located in the top row on a QWERTY keyboard: between 55.5% and 55.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Vowels: between 55.5% and 55.6% (inclusive) of the letters

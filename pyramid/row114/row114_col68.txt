@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: TR
+Most common vowel(s) each account(s) for: between 9.0% and 11.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 139 and 142 (inclusive)
+Vowels: exactly 30.0% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

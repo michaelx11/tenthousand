@@ -1,0 +1,7 @@
+Contains: CH
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Sum of letters (A=1, B=2, etc): between 61 and 62 (inclusive)
+Vowels: between 1 and 3 (inclusive)
+
+This is a word with property DJOSER.

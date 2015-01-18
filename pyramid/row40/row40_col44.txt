@@ -1,0 +1,5 @@
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 19E9
+
+This is a word with property MEIDUM.
+This word is associated with the color SNEFERU.

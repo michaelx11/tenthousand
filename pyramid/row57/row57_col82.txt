@@ -1,0 +1,4 @@
+Has property BIKHERIS: YES
+Has property MAZGHUNA: YES
+Sum of letters (A=1, B=2, etc): 135
+Vowels: between 22.2% and 22.3% (inclusive) of the letters

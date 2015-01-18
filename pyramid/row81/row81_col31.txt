@@ -1,0 +1,5 @@
+Letters located in the middle row on a QWERTY keyboard: between 21.0% and 21.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7B5
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: NO
+
+This is NOT a word with property MENKAURE.

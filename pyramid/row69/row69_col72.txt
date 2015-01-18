@@ -1,0 +1,5 @@
+Contains: UN
+Has property SETHKA: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Most common consonant(s) each account(s) for: exactly 12.5% of the letters
+Sum of letters (A=1, B=2, etc): 83

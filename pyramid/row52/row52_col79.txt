@@ -1,0 +1,4 @@
+Base Scrabble score: between 20 and 49 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 1 and 3 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2F7

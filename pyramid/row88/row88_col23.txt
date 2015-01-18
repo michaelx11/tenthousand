@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 37.5% and 38.5% (inclusive) of the letters
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7C5
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

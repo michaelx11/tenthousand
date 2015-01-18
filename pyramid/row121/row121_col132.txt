@@ -1,0 +1,5 @@
+Base Scrabble score: 5 points
+Letters located in the middle row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 54
+
+This word is associated with the color KHAFRA.

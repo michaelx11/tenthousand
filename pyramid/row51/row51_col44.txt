@@ -1,0 +1,5 @@
+Contains: OR
+Most common vowel(s) each appear(s): between 2 and 3 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FAA
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 106 and 110 (inclusive)

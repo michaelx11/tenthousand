@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1CE
+Vowels: between 30.7% and 30.8% (inclusive) of the letters
+
+This is a word with property PEPI.

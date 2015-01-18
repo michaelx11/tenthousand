@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Letters located in the bottom row on a QWERTY keyboard: between 11.1% and 11.2% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

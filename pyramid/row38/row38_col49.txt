@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2CFF
+Vowels: exactly 30.0% of the letters

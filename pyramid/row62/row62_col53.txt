@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Distinct letters: between 8 and 10 (inclusive)
+Letters located in the bottom row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 69E
+
+This is a word with property KHUI.

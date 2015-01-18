@@ -1,0 +1,4 @@
+Contains: SL
+Letters located in the top row on a QWERTY keyboard: 3
+Most common consonant(s) each account(s) for: between 23.0% and 25.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 103 and 106 (inclusive)

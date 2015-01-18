@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: CB32
+Vowels: exactly 20.0% of the letters

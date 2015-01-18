@@ -1,0 +1,8 @@
+Contains at least one doubled letter: NO
+Contains: B
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 15.3% and 18.2% (inclusive) of the letters
+Length: between 13 and 17 (inclusive) letters
+Most common consonant(s) each account(s) for: between 15.0% and 17.7% (inclusive) of the letters
+Vowels: between 30.7% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

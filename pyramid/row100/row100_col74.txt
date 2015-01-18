@@ -1,0 +1,8 @@
+Base Scrabble score: between 11 and 14 (inclusive) points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Length: 7 letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES

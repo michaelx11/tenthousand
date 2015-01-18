@@ -1,0 +1,2 @@
+Distinct letters: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: BA56

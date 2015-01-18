@@ -1,0 +1,5 @@
+Base Scrabble score: 6 points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 38.0% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CC1D
+
+This is NOT a word with property HAWARA.

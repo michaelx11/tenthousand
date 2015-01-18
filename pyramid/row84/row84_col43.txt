@@ -1,0 +1,4 @@
+Base Scrabble score: 17 points
+Contains at least one doubled letter: YES
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F43

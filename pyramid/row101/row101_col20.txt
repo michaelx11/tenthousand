@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: C
+Letters located in the bottom row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C
+Vowels: between 26.6% and 27.3% (inclusive) of the letters

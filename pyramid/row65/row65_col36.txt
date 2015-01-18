@@ -1,0 +1,3 @@
+Base Scrabble score: 14 points
+Contains: VIS
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B

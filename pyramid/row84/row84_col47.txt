@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Has property QAKAREIBI: YES
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F8C

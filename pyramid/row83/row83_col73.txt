@@ -1,0 +1,5 @@
+Contains: HED
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C36
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+
+This is NOT a word with property KHUI.

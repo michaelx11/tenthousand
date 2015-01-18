@@ -1,0 +1,4 @@
+Base Scrabble score: between 14 and 28 (inclusive) points
+Contains: M
+Has property AMENEMHAT: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

@@ -1,0 +1,7 @@
+Base Scrabble score: between 18 and 23 (inclusive) points
+Has property MERENRE: YES
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

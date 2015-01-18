@@ -1,0 +1,5 @@
+Contains: RL
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BB
+Sum of letters (A=1, B=2, etc): 102
+
+This is a word with property DJOSER.

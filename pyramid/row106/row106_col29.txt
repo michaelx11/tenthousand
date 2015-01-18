@@ -1,0 +1,6 @@
+Base Scrabble score: between 19 and 26 (inclusive) points
+Contains: SC
+Length: between 9 and 14 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D6D
+
+This is NOT a word with property PEPI.

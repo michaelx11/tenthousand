@@ -1,0 +1,5 @@
+Base Scrabble score: between 7 and 9 (inclusive) points
+Contains: UI
+Distinct consonants: 4
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

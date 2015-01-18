@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 286
+Sum of letters (A=1, B=2, etc): 33
+
+This is NOT a word with property MEIDUM.

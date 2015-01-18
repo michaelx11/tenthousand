@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 68.4% and 71.5% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 38.8% and 40.0% (inclusive) of the letters
+Starts with a vowel: YES

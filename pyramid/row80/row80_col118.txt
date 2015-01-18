@@ -1,0 +1,3 @@
+Ends with: TE
+Length: between 10 and 13 (inclusive) letters
+Vowels: 2

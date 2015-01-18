@@ -1,0 +1,4 @@
+Distinct consonants: 3
+Ends with: Y
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 10
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

@@ -1,0 +1,5 @@
+Has property SOBEKNEFERU: YES
+Length: 5 letters
+Letters located in the top row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Starts with: C

@@ -1,0 +1,6 @@
+Base Scrabble score: between 23 and 48 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: IZ
+Most common vowel(s) each appear(s): between 3 and 5 (inclusive) times
+Starts with a vowel: YES
+Vowels: 4

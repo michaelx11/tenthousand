@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: Y
+Distinct consonants: 5
+Most common letter(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

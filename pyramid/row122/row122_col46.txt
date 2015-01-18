@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Contains: INE
+Distinct letters: 7
+Length: between 8 and 9 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

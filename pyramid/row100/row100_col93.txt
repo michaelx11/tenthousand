@@ -1,0 +1,8 @@
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Distinct letters: 7
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 7 and 8 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 5.2% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 00
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 113 and 118 (inclusive)

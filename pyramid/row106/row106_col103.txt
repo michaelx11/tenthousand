@@ -1,0 +1,7 @@
+Length: between 11 and 28 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Most common letter(s) each account(s) for: between 19.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 57B
+
+This is a word with property BIKHERIS.
+This is a word with property HAWARA.

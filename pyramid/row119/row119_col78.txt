@@ -1,0 +1,6 @@
+Base Scrabble score: 16 points
+Contains: O
+Has property MAZGHUNA: YES
+Most common vowel(s) each account(s) for: between 9.0% and 9.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 149 and 153 (inclusive)

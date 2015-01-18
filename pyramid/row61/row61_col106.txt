@@ -1,0 +1,5 @@
+Base Scrabble score: between 20 and 21 (inclusive) points
+Contains at least one doubled letter: NO
+Distinct consonants: 4
+Letters located in the top row on a QWERTY keyboard: between 8 and 9 (inclusive)
+Sum of letters (A=1, B=2, etc): between 123 and 128 (inclusive)

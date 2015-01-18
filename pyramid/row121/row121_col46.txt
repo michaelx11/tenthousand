@@ -1,0 +1,4 @@
+Contains: UMB
+Letters located in the bottom row on a QWERTY keyboard: exactly 50.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B
+Sum of letters (A=1, B=2, etc): between 86 and 88 (inclusive)

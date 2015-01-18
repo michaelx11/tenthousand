@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Distinct consonants: 4
+Ends with: Y
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BDD

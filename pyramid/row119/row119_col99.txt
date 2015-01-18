@@ -1,0 +1,4 @@
+Most common consonant(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: FEA3
+
+This is a word with property PEPI.

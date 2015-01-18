@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Distinct consonants: 3
+Starts with: AN
+Vowels: 2

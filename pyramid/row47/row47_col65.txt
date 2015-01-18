@@ -1,0 +1,7 @@
+Contains: PH
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 77.7% and 77.8% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: 0
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 114 and 121 (inclusive)
+
+This is NOT a word with property AMENYQEMAU.

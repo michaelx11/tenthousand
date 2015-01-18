@@ -1,0 +1,8 @@
+Base Scrabble score: between 12 and 17 (inclusive) points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 93.7% and 100.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Sum of letters (A=1, B=2, etc): between 67 and 70 (inclusive)
+Vowels: between 27.7% and 28.6% (inclusive) of the letters
+
+This is NOT a word with property UNAS.
+This is NOT a word with property QAKAREIBI.

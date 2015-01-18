@@ -1,0 +1,5 @@
+Has at least one anagram that is also in the word list: YES
+Letters located in the top row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 80
+Sum of letters (A=1, B=2, etc): between 70 and 71 (inclusive)
+Vowels: between 18.7% and 20.0% (inclusive) of the letters

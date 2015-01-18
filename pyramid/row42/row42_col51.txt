@@ -1,0 +1,2 @@
+Contains: AWT
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 76.1% and 77.8% (inclusive) of the letters

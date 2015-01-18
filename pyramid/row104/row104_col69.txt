@@ -1,0 +1,5 @@
+Has property MAZGHUNA: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 80.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 30.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D96
+Vowels: 3

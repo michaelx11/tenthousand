@@ -1,0 +1,7 @@
+Some statements that uniquely identify STANDPIPES:
+
+Base Scrabble score: 15 points
+Contains: PI
+Distinct letters: 8
+Sum of letters (A=1, B=2, etc): between 123 and 124 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

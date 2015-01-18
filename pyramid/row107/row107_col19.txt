@@ -1,0 +1,6 @@
+Base Scrabble score: 16 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 87.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Sum of letters (A=1, B=2, etc): 79
+
+This is NOT a word with property ABUSIR.

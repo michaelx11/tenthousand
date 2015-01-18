@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: M
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 484
+Sum of letters (A=1, B=2, etc): between 143 and 153 (inclusive)

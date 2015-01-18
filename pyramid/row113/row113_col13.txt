@@ -1,0 +1,5 @@
+Base Scrabble score: 6 points
+Contains: RAS
+Vowels: exactly 25.0% of the letters
+
+This is NOT a word with property LISHT.

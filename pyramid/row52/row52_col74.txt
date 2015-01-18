@@ -1,0 +1,5 @@
+Contains: UL
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 22.2% and 22.3% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 10.5% and 11.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 121 and 124 (inclusive)

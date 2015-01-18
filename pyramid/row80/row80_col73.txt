@@ -1,0 +1,4 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Contains: TTE
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 26.6% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06

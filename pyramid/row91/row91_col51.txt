@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 89.4% and 90.0% (inclusive) of the letters
+Most common consonant(s) each appear(s): between 3 and 6 (inclusive) times
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

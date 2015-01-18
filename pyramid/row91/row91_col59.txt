@@ -1,0 +1,4 @@
+Base Scrabble score: 21 points
+Ends with: S
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 25.0% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,2 @@
+Most common consonant(s) each account(s) for: exactly 40.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 62D4

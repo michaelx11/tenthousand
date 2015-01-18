@@ -1,0 +1,5 @@
+Contains: ES
+Letters located in the middle row on a QWERTY keyboard: exactly 37.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 601
+
+This is a word with property KHUI.

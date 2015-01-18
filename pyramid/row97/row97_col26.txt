@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Ends with: LY
+Letters located in the bottom row on a QWERTY keyboard: between 38.4% and 41.7% (inclusive) of the letters
+
+This is NOT a word with property MERENRE.

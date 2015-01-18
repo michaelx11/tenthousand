@@ -1,0 +1,5 @@
+Contains: Y
+Distinct letters: 6
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 2 and 3 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: exactly 62.5% of the letters
+Sum of letters (A=1, B=2, etc): between 74 and 81 (inclusive)

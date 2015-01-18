@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: AN
+Distinct vowels: 2
+Has property KHUI: YES
+Letters located in the top row on a QWERTY keyboard: 4
+Most common consonant(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+Starts with a vowel: YES
+Vowels: between 30.0% and 33.4% (inclusive) of the letters

@@ -1,0 +1,4 @@
+Contains: SN
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 70.0% of the letters
+Sum of letters (A=1, B=2, etc): between 130 and 134 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: IT
+Distinct consonants: 5
+Has property PEPI: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2
+Vowels: between 36.3% and 36.4% (inclusive) of the letters

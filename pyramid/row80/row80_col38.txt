@@ -1,0 +1,5 @@
+Has property SETHKA: YES
+Most common vowel(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: ADE
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: between 1 and 2 (inclusive)

@@ -1,0 +1,9 @@
+Some statements that uniquely identify LUNGER:
+
+Base Scrabble score: 7 points
+Contains: NG
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

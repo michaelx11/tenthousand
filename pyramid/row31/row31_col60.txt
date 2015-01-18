@@ -1,0 +1,4 @@
+Contains: UL
+Has property MEIDUM: YES
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Most common consonant(s) each appear(s): between 3 and 5 (inclusive) times

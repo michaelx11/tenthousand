@@ -1,0 +1,4 @@
+Contains: AU
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc): between 139 and 140 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

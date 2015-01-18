@@ -1,0 +1,2 @@
+Base Scrabble score: between 2 and 9 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A9F3

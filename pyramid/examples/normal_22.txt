@@ -1,0 +1,9 @@
+Some statements that uniquely identify COVERLIDS:
+
+Base Scrabble score: between 15 and 20 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: ER
+Distinct letters: 9
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 61.5% and 66.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): between 103 and 108 (inclusive)

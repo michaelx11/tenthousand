@@ -1,0 +1,9 @@
+Base Scrabble score: 12 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: N
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 51 and 84 (inclusive)
+Vowels: between 1 and 3 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

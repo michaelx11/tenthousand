@@ -1,0 +1,4 @@
+Base Scrabble score: 6 points
+Has property MEIDUM: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C9
+Sum of letters (A=1, B=2, etc): 36

@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: CTI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 64.7% and 66.7% (inclusive) of the letters

@@ -1,0 +1,4 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 23.5% and 26.7% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Starts with: LO

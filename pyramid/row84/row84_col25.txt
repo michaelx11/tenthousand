@@ -1,0 +1,5 @@
+Base Scrabble score: between 20 and 24 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 313
+Sum of letters (A=1, B=2, etc): 125
+
+This is NOT a word with property UNAS.

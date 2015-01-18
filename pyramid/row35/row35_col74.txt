@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Contains: BE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1
+Vowels: between 26.6% and 28.6% (inclusive) of the letters

@@ -1,0 +1,5 @@
+Contains: CO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+Letters located in the bottom row on a QWERTY keyboard: between 5 and 6 (inclusive)
+Sum of letters (A=1, B=2, etc): between 107 and 124 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

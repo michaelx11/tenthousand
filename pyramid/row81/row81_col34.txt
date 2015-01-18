@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 10 and 12 (inclusive) letters
+Most common letter(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+Starts with: RED
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 100.0% of the letters
+Most common vowel(s) each account(s) for: between 0.0% and 11.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: FE
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

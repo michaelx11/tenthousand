@@ -1,0 +1,4 @@
+Base Scrabble score: between 5 and 8 (inclusive) points
+Contains: G
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EC2
+Sum of letters (A=1, B=2, etc): 72

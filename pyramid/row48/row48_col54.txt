@@ -1,0 +1,5 @@
+Base Scrabble score: between 13 and 17 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 9 and 12 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+Sum of letters (A=1, B=2, etc): 146
+Vowels: 3

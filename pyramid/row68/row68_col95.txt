@@ -1,0 +1,8 @@
+Contains at least one doubled letter: YES
+Distinct consonants: between 3 and 4 (inclusive)
+Most common letter(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 71
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 109 and 115 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

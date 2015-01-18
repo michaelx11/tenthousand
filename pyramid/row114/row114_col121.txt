@@ -1,0 +1,8 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 75.0% of the letters
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common consonant(s) each account(s) for: between 10.0% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 101 and 307 (inclusive)

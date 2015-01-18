@@ -1,0 +1,3 @@
+Base Scrabble score: 16 points
+Sum of letters (A=1, B=2, etc): 115
+Vowels: between 57.1% and 57.2% (inclusive) of the letters

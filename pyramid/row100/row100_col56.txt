@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Contains: DUC
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Starts with a vowel: YES

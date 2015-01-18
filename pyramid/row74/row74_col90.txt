@@ -1,0 +1,4 @@
+Distinct consonants: 5
+Length: 9 letters
+Letters located in the top row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Sum of letters (A=1, B=2, etc): between 97 and 100 (inclusive)

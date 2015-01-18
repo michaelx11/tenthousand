@@ -1,0 +1,6 @@
+Base Scrabble score: between 15 and 48 (inclusive) points
+Contains at least one doubled letter: NO
+Ends with: E
+Letters located in the bottom row on a QWERTY keyboard: 3
+Most common consonant(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 45 and 49 (inclusive)

@@ -1,0 +1,6 @@
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 88
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is a word with property SETHKA.

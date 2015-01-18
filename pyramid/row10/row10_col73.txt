@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Contains: C
+Distinct letters: 5
+Letters located in the top row on a QWERTY keyboard: between 4 and 5 (inclusive)
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

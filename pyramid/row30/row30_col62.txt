@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Contains: F
+Letters located in the bottom row on a QWERTY keyboard: between 23.0% and 25.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 69

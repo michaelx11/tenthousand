@@ -1,0 +1,5 @@
+Base Scrabble score: 20 points
+Distinct consonants: 5
+Has property DJOSER: YES
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B

@@ -1,0 +1,4 @@
+Base Scrabble score: between 19 and 22 (inclusive) points
+Ends with: NESS
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8A8
+Vowels: 4

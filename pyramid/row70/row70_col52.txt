@@ -1,0 +1,5 @@
+Contains: S
+Distinct vowels: between 2 and 4 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EBA
+Starts with a vowel: YES
+Vowels: between 46.1% and 46.2% (inclusive) of the letters

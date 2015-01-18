@@ -1,0 +1,5 @@
+Contains: ONI
+Has at least one anagram that is also in the word list: NO
+Length: 10 letters
+Letters located in the top row on a QWERTY keyboard: between 6 and 15 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55

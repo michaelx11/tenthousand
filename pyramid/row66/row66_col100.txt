@@ -1,0 +1,7 @@
+Contains: TI
+Distinct vowels: 3
+Has property PEPI: YES
+Has property SOBEKNEFERU: YES
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): 162
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

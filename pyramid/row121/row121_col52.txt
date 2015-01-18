@@ -1,0 +1,6 @@
+Contains: AN
+Has property HAWARA: YES
+Has property KHUI: YES
+Most common vowel(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D
+Sum of letters (A=1, B=2, etc): between 146 and 307 (inclusive)

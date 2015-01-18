@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: between 28.5% and 30.8% (inclusive) of the letters
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

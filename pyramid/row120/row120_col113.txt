@@ -1,0 +1,5 @@
+Distinct letters: between 7 and 14 (inclusive)
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 12 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 0D4

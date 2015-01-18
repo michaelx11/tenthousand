@@ -1,0 +1,6 @@
+Base Scrabble score: between 17 and 20 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 50.0% of the letters
+Sum of letters (A=1, B=2, etc): 117
+Vowels: exactly 30.0% of the letters
+
+This word is associated with the concept SENUSRET.

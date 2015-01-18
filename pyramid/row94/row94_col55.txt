@@ -1,0 +1,6 @@
+Contains: CA
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Sum of letters (A=1, B=2, etc): 92
+Vowels: between 44.4% and 44.5% (inclusive) of the letters
+
+This is NOT a word with property KHUI.

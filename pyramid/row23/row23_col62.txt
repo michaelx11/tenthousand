@@ -1,0 +1,4 @@
+Contains: JUG
+Sum of letters (A=1, B=2, etc): 121
+
+This is a word with property SETHKA.

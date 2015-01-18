@@ -1,0 +1,9 @@
+Base Scrabble score: between 11 and 18 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Ends with: S
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+Vowels: between 41.1% and 42.9% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

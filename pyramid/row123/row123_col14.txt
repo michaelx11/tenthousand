@@ -1,0 +1,3 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 58.3% and 58.4% (inclusive) of the letters
+Most common letter(s) each appear(s): 1 time
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

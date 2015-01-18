@@ -1,0 +1,6 @@
+Contains at least one doubled letter: NO
+Contains: A
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 22.2% and 25.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 55.5% and 57.2% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

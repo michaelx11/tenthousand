@@ -1,0 +1,5 @@
+Distinct letters: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A3B
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+
+This is a word with property MENKAURE.

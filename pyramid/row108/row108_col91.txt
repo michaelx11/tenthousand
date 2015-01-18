@@ -1,0 +1,4 @@
+Most common letter(s) each account(s) for: between 45.4% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C84F
+
+This is a word with property MENKAURE.

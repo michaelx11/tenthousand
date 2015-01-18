@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Contains: P
+Distinct vowels: between 3 and 5 (inclusive)
+Letters located in the top row on a QWERTY keyboard: exactly 37.5% of the letters
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

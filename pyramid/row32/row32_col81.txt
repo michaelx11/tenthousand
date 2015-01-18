@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: YES
+Ends with: IER
+Letters located in the bottom row on a QWERTY keyboard: 0
+Sum of letters (A=1, B=2, etc): between 90 and 114 (inclusive)

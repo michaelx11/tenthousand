@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 8 letters
+Letters located in the middle row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 99 and 108 (inclusive)
+Vowels: between 44.4% and 44.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

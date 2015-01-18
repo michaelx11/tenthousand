@@ -1,0 +1,7 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 19.0% and 23.6% (inclusive) of the letters
+Length: 9 letters
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E

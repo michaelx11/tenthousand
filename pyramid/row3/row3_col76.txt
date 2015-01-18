@@ -1,0 +1,5 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 71.4% and 71.5% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 89
+Vowels: between 57.1% and 57.2% (inclusive) of the letters

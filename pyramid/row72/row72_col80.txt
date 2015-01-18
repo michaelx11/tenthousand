@@ -1,0 +1,6 @@
+Contains: W
+Most common vowel(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55
+Starts with a vowel: YES
+Vowels: between 1 and 2 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

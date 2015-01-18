@@ -1,0 +1,4 @@
+Has property MAZGHUNA: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 60.0% of the letters
+Letters located in the middle row on a QWERTY keyboard: 4
+Sum of letters (A=1, B=2, etc): 133

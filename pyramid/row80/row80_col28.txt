@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Has property KHUI: YES
+Has property SOBEKNEFERU: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 40.0% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Contains: LA
+Distinct consonants: 2
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 8 letters

@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Starts with: TUSK

@@ -1,0 +1,5 @@
+Base Scrabble score: between 6 and 8 (inclusive) points
+Distinct consonants: 4
+Length: 5 letters
+Letters located in the middle row on a QWERTY keyboard: between 57.1% and 80.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 272

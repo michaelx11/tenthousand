@@ -1,0 +1,5 @@
+Contains: ES
+Distinct consonants: between 1 and 5 (inclusive)
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 50.0% and 54.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 7
+Vowels: 6

@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Has property SOBEKNEFERU: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the bottom row on a QWERTY keyboard: between 2 and 4 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 323

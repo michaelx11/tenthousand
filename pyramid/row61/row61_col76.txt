@@ -1,0 +1,8 @@
+Base Scrabble score: between 21 and 22 (inclusive) points
+Contains: F
+Distinct letters: 8
+Most common letter(s) each account(s) for: between 15.3% and 18.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+
+This is a word with property AMENEMHAT.

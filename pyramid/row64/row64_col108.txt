@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 98E
+Sum of letters (A=1, B=2, etc): 133
+
+This is a word with property SOBEKNEFERU.

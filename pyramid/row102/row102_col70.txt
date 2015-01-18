@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: P
+Distinct consonants: 5
+Has property KHUI: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Vowels: between 22.2% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

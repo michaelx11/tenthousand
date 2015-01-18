@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Distinct consonants: between 1 and 4 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 63.6% and 66.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

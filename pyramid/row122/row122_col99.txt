@@ -1,0 +1,4 @@
+Contains: LA
+Letters located in the top row on a QWERTY keyboard: exactly 20.0% of the letters
+Most common consonant(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): 79

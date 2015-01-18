@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Has property AMENYQEMAU: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5F
+Sum of letters (A=1, B=2, etc): 56
+
+This word is associated with the color DAHSHUR.

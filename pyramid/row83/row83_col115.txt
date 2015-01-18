@@ -1,0 +1,4 @@
+Base Scrabble score: 10 points
+Has property KHUI: YES
+Letters located in the top row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 935

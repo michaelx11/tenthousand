@@ -1,0 +1,8 @@
+Base Scrabble score: 9 points
+Contains: RE
+Has at least one anagram that is also in the word list: NO
+Letters located in the middle row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 77 and 105 (inclusive)
+Vowels: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

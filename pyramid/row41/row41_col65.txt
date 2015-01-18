@@ -1,0 +1,4 @@
+Base Scrabble score: 11 points
+Length: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E66
+Starts with: CL

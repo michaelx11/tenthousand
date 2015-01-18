@@ -1,0 +1,3 @@
+Ends with: RD
+Letters located in the bottom row on a QWERTY keyboard: 0
+Sum of letters (A=1, B=2, etc): 113

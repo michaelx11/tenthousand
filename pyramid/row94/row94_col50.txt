@@ -1,0 +1,5 @@
+Has property KHUI: YES
+Has property MAZGHUNA: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 75 and 77 (inclusive)
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

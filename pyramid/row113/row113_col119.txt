@@ -1,0 +1,5 @@
+Contains: IS
+Distinct letters: 10
+Has property MAZGHUNA: YES
+Length: 12 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

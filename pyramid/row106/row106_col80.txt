@@ -1,0 +1,6 @@
+Base Scrabble score: between 13 and 17 (inclusive) points
+Contains: C
+Distinct consonants: 4
+Most common vowel(s) each account(s) for: between 23.0% and 26.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Sum of letters (A=1, B=2, etc): 84

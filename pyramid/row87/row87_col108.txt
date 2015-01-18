@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Contains: ME
+Letters located in the top row on a QWERTY keyboard: exactly 40.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 6E1

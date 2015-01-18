@@ -1,0 +1,2 @@
+Ends with: HUN
+Vowels: exactly 25.0% of the letters

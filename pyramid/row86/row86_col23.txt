@@ -1,0 +1,3 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E54D
+
+This is a word with property AMENEMHAT.

@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Contains: H
+Has property HAWARA: YES
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

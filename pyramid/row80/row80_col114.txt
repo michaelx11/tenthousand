@@ -1,0 +1,8 @@
+Base Scrabble score: between 8 and 12 (inclusive) points
+Contains: ES
+Length: 8 letters
+Letters located in the top row on a QWERTY keyboard: 4
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc): between 75 and 82 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

@@ -1,0 +1,4 @@
+Base Scrabble score: 24 points
+Vowels: between 27.7% and 27.8% (inclusive) of the letters
+
+This is a word with property HAWARA.

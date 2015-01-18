@@ -1,0 +1,4 @@
+Base Scrabble score: between 3 and 8 (inclusive) points
+Distinct consonants: 3
+Starts with: CAD
+Vowels: 1

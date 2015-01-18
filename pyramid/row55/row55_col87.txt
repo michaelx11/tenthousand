@@ -1,0 +1,4 @@
+Base Scrabble score: between 17 and 22 (inclusive) points
+Contains: CAR
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Most common consonant(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters

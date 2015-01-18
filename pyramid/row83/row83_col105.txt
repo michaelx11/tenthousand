@@ -1,0 +1,6 @@
+Contains: C
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E376
+Sum of letters (A=1, B=2, etc): between 35 and 44 (inclusive)
+
+This is NOT a word with property DJOSER.
+This word is associated with the color DJEDEFRE.

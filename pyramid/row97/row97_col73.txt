@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Ends with: OTED
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

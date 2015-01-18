@@ -1,0 +1,5 @@
+Base Scrabble score: between 19 and 24 (inclusive) points
+Contains: ALL
+Letters located in the top row on a QWERTY keyboard: 5
+Vowels: between 26.3% and 29.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

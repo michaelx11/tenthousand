@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least two different doubled letters: YES
+Has property NEFEREFRE: YES
+Vowels: 3

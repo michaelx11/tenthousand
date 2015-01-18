@@ -1,0 +1,4 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 75.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7A1
+Sum of letters (A=1, B=2, etc): between 80 and 103 (inclusive)
+Vowels: exactly 62.5% of the letters

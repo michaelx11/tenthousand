@@ -1,0 +1,4 @@
+Length: 14 letters
+Letters located in the top row on a QWERTY keyboard: between 7 and 16 (inclusive)
+Most common consonant(s) each appear(s): between 3 and 5 (inclusive) times
+Sum of letters (A=1, B=2, etc): 167

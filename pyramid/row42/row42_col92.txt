@@ -1,0 +1,5 @@
+Base Scrabble score: 21 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: BB
+Vowels: between 26.6% and 27.3% (inclusive) of the letters
+
+This is a word with property BIKHERIS.

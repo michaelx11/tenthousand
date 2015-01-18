@@ -1,0 +1,5 @@
+Contains: DI
+Distinct consonants: 6
+Letters located in the middle row on a QWERTY keyboard: between 1 and 3 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 856
+Vowels: 5

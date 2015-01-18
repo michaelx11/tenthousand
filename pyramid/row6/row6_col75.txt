@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: OR
+Has property BIKHERIS: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 50.0% of the letters
+Length: 8 letters

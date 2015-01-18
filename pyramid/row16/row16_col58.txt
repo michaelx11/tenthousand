@@ -1,0 +1,7 @@
+Base Scrabble score: 20 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 60.0% and 66.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+Most common letter(s) each account(s) for: exactly 20.0% of the letters
+Sum of letters (A=1, B=2, etc): 130
+
+This is NOT a word with property SETHKA.

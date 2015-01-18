@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Distinct letters: 6
+Most common consonant(s) each account(s) for: between 12.0% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7C3

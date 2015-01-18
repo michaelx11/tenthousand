@@ -1,0 +1,4 @@
+Contains: OW
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8B2D
+
+This word is associated with the concept KHUFU.

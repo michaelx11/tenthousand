@@ -1,0 +1,5 @@
+Base Scrabble score: 5 points
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 0 and 4 (inclusive) letters
+Most common letter(s) each account(s) for: exactly 40.0% of the letters
+Sum of letters (A=1, B=2, etc): 65

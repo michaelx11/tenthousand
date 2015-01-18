@@ -1,0 +1,6 @@
+Length: between 2 and 3 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1C9
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+
+This is a word with property LISHT.
+This is a word with property MENKAURE.

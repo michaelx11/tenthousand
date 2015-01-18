@@ -1,0 +1,7 @@
+Base Scrabble score: 11 points
+Distinct vowels: 2
+Ends with: R
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 91 and 99 (inclusive)

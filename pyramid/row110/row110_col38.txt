@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6C
+Sum of letters (A=1, B=2, etc): between 107 and 108 (inclusive)
+Vowels: 3

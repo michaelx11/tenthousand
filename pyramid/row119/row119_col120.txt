@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 446
+Sum of letters (A=1, B=2, etc): between 123 and 130 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

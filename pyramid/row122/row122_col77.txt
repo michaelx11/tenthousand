@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+Starts with: RE
+Sum of letters (A=1, B=2, etc): between 72 and 77 (inclusive)
+Vowels: exactly 37.5% of the letters

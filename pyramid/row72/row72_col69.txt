@@ -1,0 +1,5 @@
+Base Scrabble score: between 19 and 48 (inclusive) points
+Contains at least one doubled letter: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc): between 94 and 95 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

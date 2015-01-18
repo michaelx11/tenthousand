@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Distinct consonants: 5
+Has property KHUI: YES
+Length: 11 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 323
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

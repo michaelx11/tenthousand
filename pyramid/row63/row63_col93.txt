@@ -1,0 +1,4 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 63.6% and 63.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 36.3% and 36.4% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 27.2% and 27.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 132

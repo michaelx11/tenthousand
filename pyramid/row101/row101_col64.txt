@@ -1,0 +1,5 @@
+Contains: C
+Has property MERENRE: YES
+Most common consonant(s) each account(s) for: between 40.0% and 42.9% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 17 and 24 (inclusive)

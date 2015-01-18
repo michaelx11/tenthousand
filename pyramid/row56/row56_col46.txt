@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Distinct consonants: 4
+Has property PEPI: YES
+Length: 13 letters
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

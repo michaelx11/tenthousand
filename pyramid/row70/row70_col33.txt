@@ -1,0 +1,4 @@
+Has property SETHKA: YES
+Has property SOBEKNEFERU: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7
+Sum of letters (A=1, B=2, etc): 43

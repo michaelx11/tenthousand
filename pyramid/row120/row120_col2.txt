@@ -1,0 +1,4 @@
+Base Scrabble score: between 24 and 27 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 440
+Sum of letters (A=1, B=2, etc): 129
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

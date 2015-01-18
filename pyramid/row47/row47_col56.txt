@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4
+Starts with: ATON
+
+This is NOT a word with property SETHKA.

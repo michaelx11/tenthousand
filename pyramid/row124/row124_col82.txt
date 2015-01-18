@@ -1,0 +1,4 @@
+Contains: K
+Distinct letters: between 1 and 4 (inclusive)
+Length: 5 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 26C

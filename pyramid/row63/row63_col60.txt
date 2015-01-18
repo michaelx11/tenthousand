@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: IZE
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Most common vowel(s) each account(s) for: between 26.6% and 27.3% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

@@ -1,0 +1,8 @@
+Base Scrabble score: 13 points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 68.4% and 70.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Vowels: between 5 and 8 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

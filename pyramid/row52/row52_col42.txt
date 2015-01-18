@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Contains at least one doubled letter: YES
+Contains: TO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AC7

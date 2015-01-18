@@ -1,0 +1,5 @@
+Letters located in the top row on a QWERTY keyboard: between 57.1% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2B4
+Starts with a vowel: YES
+Vowels: between 57.1% and 57.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

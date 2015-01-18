@@ -1,0 +1,5 @@
+Ends with: RE
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 8B
+Sum of letters (A=1, B=2, etc): between 72 and 73 (inclusive)
+
+This is a word with property NEFEREFRE.

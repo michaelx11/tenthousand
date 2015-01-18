@@ -1,0 +1,5 @@
+Has property AMENEMHAT: YES
+Has property PEPI: YES
+Letters located in the top row on a QWERTY keyboard: between 35.7% and 37.5% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

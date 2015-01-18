@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Distinct consonants: 5
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 10 and 14 (inclusive) letters
+Vowels: between 46.1% and 46.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is NOT a word with property PEPI.
+This is a word with property UNAS.

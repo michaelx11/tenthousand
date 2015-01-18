@@ -1,0 +1,3 @@
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C411
+Vowels: exactly 30.0% of the letters

@@ -1,0 +1,6 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 46.6% and 50.0% (inclusive) of the letters
+Length: 10 letters
+Most common consonant(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 808
+
+This is NOT a word with property QAKAREIBI.

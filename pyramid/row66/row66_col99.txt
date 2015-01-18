@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 914E
+Sum of letters (A=1, B=2, etc): 58
+
+This word is associated with the color SNEFERU.

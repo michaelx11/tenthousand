@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EBA
+Vowels: between 52.9% and 60.0% (inclusive) of the letters

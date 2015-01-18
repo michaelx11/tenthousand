@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct vowels: 3
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B9F
+Vowels: exactly 37.5% of the letters

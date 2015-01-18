@@ -1,0 +1,2 @@
+Contains: NBL
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F

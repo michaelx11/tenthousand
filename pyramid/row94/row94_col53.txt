@@ -1,0 +1,6 @@
+Base Scrabble score: 19 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Letters located in the top row on a QWERTY keyboard: between 4 and 6 (inclusive)
+Most common letter(s) each account(s) for: between 21.4% and 23.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Vowels: between 22.2% and 22.3% (inclusive) of the letters

@@ -1,0 +1,5 @@
+Contains: GO
+Length: between 10 and 13 (inclusive) letters
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 69E
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

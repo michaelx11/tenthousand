@@ -1,0 +1,8 @@
+Base Scrabble score: 10 points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 4 letters
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 50.0% of the letters
+Letters located in the top row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

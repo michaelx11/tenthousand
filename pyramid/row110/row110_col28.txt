@@ -1,0 +1,7 @@
+Base Scrabble score: 12 points
+Letters located in the top row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3E
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES
+
+This is a word with property QAKAREIBI.

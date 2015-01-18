@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: STH
+Distinct letters: between 7 and 8 (inclusive)
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 16.7% (inclusive) of the letters

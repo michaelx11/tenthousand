@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Contains: FU
+Length: 8 letters
+Letters located in the top row on a QWERTY keyboard: between 2 and 3 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

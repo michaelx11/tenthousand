@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2A
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 81 and 91 (inclusive)
+
+This is a word with property AMENEMHAT.
+This is NOT a word with property DJOSER.

@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+Contains: W
+Distinct vowels: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 3
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 101 and 108 (inclusive)

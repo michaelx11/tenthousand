@@ -1,0 +1,3 @@
+Contains: SUA
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 644
+Vowels: between 42.8% and 42.9% (inclusive) of the letters

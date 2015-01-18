@@ -1,0 +1,3 @@
+Distinct vowels: 4
+Ends with: T
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 59

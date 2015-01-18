@@ -1,0 +1,4 @@
+Has property SOBEKNEFERU: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 73.6% and 75.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Sum of letters (A=1, B=2, etc): 72

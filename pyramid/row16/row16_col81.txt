@@ -1,0 +1,9 @@
+Base Scrabble score: 11 points
+Contains: D
+Length: 6 letters
+Letters located in the middle row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: between 46.6% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

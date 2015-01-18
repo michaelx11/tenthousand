@@ -1,0 +1,4 @@
+Can be Caesar shifted to produce another word in the word list: YES
+Sum of letters (A=1, B=2, etc): 50
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

@@ -1,0 +1,2 @@
+Has property HAWARA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4E4

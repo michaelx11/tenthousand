@@ -1,0 +1,8 @@
+Base Scrabble score: between 3 and 10 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: C
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 71.4% and 71.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: between 42.8% and 42.9% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

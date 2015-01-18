@@ -1,0 +1,12 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains: IL
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 42.8% and 44.5% (inclusive) of the letters
+Most common vowel(s) each appear(s): 1 time
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+
+This is NOT a word with property LISHT.

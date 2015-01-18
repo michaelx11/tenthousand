@@ -1,0 +1,4 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Letters located in the top row on a QWERTY keyboard: between 76.4% and 79.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 350
+Sum of letters (A=1, B=2, etc): between 127 and 135 (inclusive)

@@ -1,0 +1,4 @@
+Distinct letters: 10
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 648C
+
+This is NOT a word with property UNAS.

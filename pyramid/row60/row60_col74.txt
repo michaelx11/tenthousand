@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Distinct consonants: 6
+Starts with: ME
+Sum of letters (A=1, B=2, etc): between 118 and 122 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

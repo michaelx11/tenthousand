@@ -1,0 +1,6 @@
+Base Scrabble score: between 12 and 16 (inclusive) points
+Has property HAWARA: YES
+Has property SETHKA: YES
+Letters located in the middle row on a QWERTY keyboard: between 23.0% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

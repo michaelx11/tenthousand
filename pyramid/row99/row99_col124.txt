@@ -1,0 +1,5 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Letters located in the top row on a QWERTY keyboard: between 55.5% and 55.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CE0
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

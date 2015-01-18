@@ -1,0 +1,6 @@
+Distinct vowels: between 5 and 6 (inclusive)
+Ends with: ABLE
+Length: 10 letters
+Letters located in the top row on a QWERTY keyboard: between 38.8% and 40.0% (inclusive) of the letters
+
+This is a word with property UNAS.

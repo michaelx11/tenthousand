@@ -1,0 +1,4 @@
+Letters located in the bottom row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Starts with: P
+Sum of letters (A=1, B=2, etc): between 136 and 141 (inclusive)

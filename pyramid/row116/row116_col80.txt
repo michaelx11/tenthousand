@@ -1,0 +1,5 @@
+Distinct vowels: 1
+Has property MAZGHUNA: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+Letters located in the top row on a QWERTY keyboard: between 77.7% and 80.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

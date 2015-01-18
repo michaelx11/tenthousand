@@ -1,0 +1,5 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 34.7% and 38.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1144
+Vowels: between 45.4% and 45.5% (inclusive) of the letters
+
+This is a word with property SETHKA.

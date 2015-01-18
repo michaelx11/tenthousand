@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Contains: C
+Letters located in the middle row on a QWERTY keyboard: between 4 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): 57

@@ -1,0 +1,4 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+Most common letter(s) each account(s) for: exactly 40.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: ECC
+Starts with: M

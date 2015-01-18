@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Most common letter(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BB
+Starts with: CH

@@ -1,0 +1,7 @@
+Contains: IZ
+Distinct letters: 6
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+
+This is a word with property PEPI.

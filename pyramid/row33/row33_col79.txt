@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: SC
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 8 letters
+Most common consonant(s) each account(s) for: between 18.1% and 18.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

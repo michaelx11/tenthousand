@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: IN
+Distinct consonants: 6
+Letters located in the top row on a QWERTY keyboard: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Vowels: exactly 30.0% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,7 @@
+Base Scrabble score: between 2 and 9 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 80.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 53 and 78 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

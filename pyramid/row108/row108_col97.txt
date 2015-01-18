@@ -1,0 +1,7 @@
+Has property KHUI: YES
+Length: 10 letters
+Letters located in the top row on a QWERTY keyboard: between 1 and 3 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 91 and 99 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,7 @@
+Base Scrabble score: 9 points
+Contains: RI
+Distinct vowels: 3
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 5 and 6 (inclusive) letters
+Length: between 8 and 11 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 109 and 116 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

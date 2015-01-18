@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Contains: P
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 5 letters
+Sum of letters (A=1, B=2, etc): 124

@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Contains: FO
+Letters located in the middle row on a QWERTY keyboard: between 2 and 3 (inclusive)
+Sum of letters (A=1, B=2, etc): between 128 and 136 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

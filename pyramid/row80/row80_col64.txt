@@ -1,0 +1,4 @@
+Contains: SEN
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 00
+Sum of letters (A=1, B=2, etc): between 83 and 93 (inclusive)

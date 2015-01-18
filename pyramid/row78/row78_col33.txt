@@ -1,0 +1,6 @@
+Distinct consonants: between 6 and 9 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 10 letters
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

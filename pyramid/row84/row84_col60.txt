@@ -1,0 +1,6 @@
+Contains: U
+Distinct vowels: between 3 and 4 (inclusive)
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 2 and 4 (inclusive) letters
+Length: 7 letters
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 95

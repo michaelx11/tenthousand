@@ -1,0 +1,2 @@
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3BBD

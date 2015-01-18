@@ -1,0 +1,4 @@
+Base Scrabble score: between 20 and 21 (inclusive) points
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 50
+Vowels: 4

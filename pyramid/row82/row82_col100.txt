@@ -1,0 +1,4 @@
+Letters located in the bottom row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B654
+
+This is NOT a word with property SOBEKNEFERU.

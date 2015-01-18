@@ -1,0 +1,5 @@
+Base Scrabble score: between 20 and 21 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 27.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc): between 108 and 138 (inclusive)
+Vowels: between 26.6% and 27.3% (inclusive) of the letters

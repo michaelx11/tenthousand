@@ -1,0 +1,5 @@
+Most common vowel(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F
+Starts with: M
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: 3

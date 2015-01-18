@@ -1,0 +1,5 @@
+Base Scrabble score: between 10 and 11 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: exactly 37.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: CD
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Vowels: 2

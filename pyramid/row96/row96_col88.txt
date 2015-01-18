@@ -1,0 +1,2 @@
+Has property KHUI: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 72AF

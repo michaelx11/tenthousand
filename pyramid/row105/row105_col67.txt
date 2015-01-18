@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Contains: ALI
+Distinct letters: between 9 and 10 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

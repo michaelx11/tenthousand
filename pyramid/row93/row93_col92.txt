@@ -1,0 +1,4 @@
+Contains: OME
+Letters located in the top row on a QWERTY keyboard: between 68.1% and 77.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 37 and 52 (inclusive)

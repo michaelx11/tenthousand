@@ -1,0 +1,7 @@
+Base Scrabble score: between 15 and 48 (inclusive) points
+Distinct consonants: 4
+Length: 9 letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+Sum of letters (A=1, B=2, etc): between 105 and 115 (inclusive)
+Vowels: 4

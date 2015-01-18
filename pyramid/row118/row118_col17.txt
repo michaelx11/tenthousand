@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: OS
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the bottom row on a QWERTY keyboard: between 19.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3

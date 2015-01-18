@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Ends with: ES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 7 and 8 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc): between 3 and 63 (inclusive)

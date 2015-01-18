@@ -1,0 +1,4 @@
+Contains at least two different doubled letters: YES
+Distinct letters: 6
+Has property KHUI: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 53.3% and 57.2% (inclusive) of the letters

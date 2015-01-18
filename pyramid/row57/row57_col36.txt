@@ -1,0 +1,4 @@
+Base Scrabble score: 20 points
+Has property BIKHERIS: YES
+Has property PEPI: YES
+Sum of letters (A=1, B=2, etc): 99

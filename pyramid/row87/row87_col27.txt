@@ -1,0 +1,7 @@
+Base Scrabble score: 14 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: EN
+Distinct vowels: 2
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Starts with a vowel: NO
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

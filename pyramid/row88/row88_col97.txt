@@ -1,0 +1,8 @@
+Base Scrabble score: between 8 and 10 (inclusive) points
+Distinct consonants: 4
+Ends with: S
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 45
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 103 and 114 (inclusive)

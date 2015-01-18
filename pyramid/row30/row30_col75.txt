@@ -1,0 +1,2 @@
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D6B

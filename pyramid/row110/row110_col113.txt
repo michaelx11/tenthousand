@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct consonants: 4
+Sum of letters (A=1, B=2, etc): 88
+Vowels: between 33.3% and 33.4% (inclusive) of the letters

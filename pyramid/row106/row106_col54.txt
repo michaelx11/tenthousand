@@ -1,0 +1,5 @@
+Contains: BES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 77.7% and 77.8% (inclusive) of the letters
+Most common consonant(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

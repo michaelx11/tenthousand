@@ -1,0 +1,2 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 3C51

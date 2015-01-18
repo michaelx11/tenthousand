@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 92.8% and 100.0% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7
+Vowels: between 36.8% and 37.5% (inclusive) of the letters

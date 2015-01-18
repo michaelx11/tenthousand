@@ -1,0 +1,4 @@
+Base Scrabble score: 8 points
+Contains: UEL
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 2 and 4 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 42.8% and 42.9% (inclusive) of the letters

@@ -1,0 +1,4 @@
+Distinct letters: 8
+Letters located in the bottom row on a QWERTY keyboard: between 4 and 9 (inclusive)
+Most common letter(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 89 and 93 (inclusive)

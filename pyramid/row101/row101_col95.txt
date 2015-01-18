@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Distinct letters: 6
+Most common letter(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 935
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

@@ -1,0 +1,6 @@
+Contains: EN
+Length: 5 letters
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+
+This is NOT a word with property MERENRE.

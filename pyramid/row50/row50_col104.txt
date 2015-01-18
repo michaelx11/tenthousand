@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: EAR
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 10 and 23 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Sum of letters (A=1, B=2, etc): between 105 and 308 (inclusive)
+
+This is NOT a word with property DJOSER.

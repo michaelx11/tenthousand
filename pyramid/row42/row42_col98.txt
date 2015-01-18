@@ -1,0 +1,9 @@
+Base Scrabble score: 14 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Ends with: S
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 53.3% and 57.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is a word with property DJOSER.

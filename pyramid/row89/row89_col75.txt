@@ -1,0 +1,6 @@
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 236
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 104 and 130 (inclusive)
+Vowels: 3

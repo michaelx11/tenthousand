@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: O
+Letters located in the bottom row on a QWERTY keyboard: between 19.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 21
+Starts with a vowel: YES

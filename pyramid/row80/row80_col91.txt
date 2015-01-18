@@ -1,0 +1,7 @@
+Contains: V
+Length: between 2 and 6 (inclusive) letters
+Most common vowel(s) each appear(s): between 0 and 1 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A8
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+
+This is NOT a word with property HAWARA.

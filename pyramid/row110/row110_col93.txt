@@ -1,0 +1,6 @@
+Contains: LAT
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 323
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Ends with: ED
+Letters located in the bottom row on a QWERTY keyboard: between 17.3% and 19.1% (inclusive) of the letters
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5

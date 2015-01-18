@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8A
+Starts with: FIRE
+
+This is NOT a word with property DJOSER.

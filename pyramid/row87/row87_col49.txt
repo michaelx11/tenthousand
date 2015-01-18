@@ -1,0 +1,11 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct letters: between 5 and 6 (inclusive)
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+Length: 7 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1C
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 80 and 128 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

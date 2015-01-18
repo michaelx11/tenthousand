@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: YES
+Distinct consonants: 5
+Letters located in the top row on a QWERTY keyboard: between 76.9% and 77.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EE
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

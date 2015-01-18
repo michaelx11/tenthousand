@@ -1,0 +1,4 @@
+Base Scrabble score: 20 points
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Sum of letters (A=1, B=2, etc): 126

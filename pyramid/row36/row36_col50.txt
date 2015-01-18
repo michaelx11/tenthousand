@@ -1,0 +1,4 @@
+Contains: AM
+Distinct letters: 8
+Has property MERENRE: YES
+Most common consonant(s) each account(s) for: between 19.0% and 20.0% (inclusive) of the letters

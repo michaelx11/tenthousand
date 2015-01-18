@@ -1,0 +1,9 @@
+Base Scrabble score: 14 points
+Distinct vowels: 3
+Ends with: NT
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 19.0% and 21.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 96 and 133 (inclusive)
+Vowels: 4
+
+This is a word with property AMENEMHAT.

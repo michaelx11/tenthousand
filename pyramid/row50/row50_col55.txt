@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains: B
+Letters located in the middle row on a QWERTY keyboard: 0
+Sum of letters (A=1, B=2, etc): between 3 and 63 (inclusive)

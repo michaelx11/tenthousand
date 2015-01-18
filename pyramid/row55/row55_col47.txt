@@ -1,0 +1,7 @@
+Base Scrabble score: 17 points
+Letters located in the bottom row on a QWERTY keyboard: 3
+Most common letter(s) each appear(s): between 3 and 7 (inclusive) times
+Sum of letters (A=1, B=2, etc): between 98 and 99 (inclusive)
+Vowels: between 36.3% and 36.4% (inclusive) of the letters
+
+This is NOT a word with property LISHT.

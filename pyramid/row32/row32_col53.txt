@@ -1,0 +1,4 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Most common vowel(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0B
+Vowels: between 1 and 3 (inclusive)

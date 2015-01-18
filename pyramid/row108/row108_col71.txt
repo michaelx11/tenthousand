@@ -1,0 +1,5 @@
+Base Scrabble score: between 23 and 26 (inclusive) points
+Contains: PA
+Distinct consonants: 4
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

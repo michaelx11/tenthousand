@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 52.3% and 54.6% (inclusive) of the letters
+Most common vowel(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc): 148
+Vowels: between 26.3% and 27.8% (inclusive) of the letters

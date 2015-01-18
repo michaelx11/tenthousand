@@ -1,0 +1,7 @@
+Base Scrabble score: 17 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Distinct vowels: 3
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 038

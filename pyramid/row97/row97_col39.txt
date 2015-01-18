@@ -1,0 +1,4 @@
+Contains: RAT
+Distinct letters: 8
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 15.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 161 and 165 (inclusive)

@@ -1,0 +1,8 @@
+Contains: SA
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES
+
+This is NOT a word with property AMENEMHAT.

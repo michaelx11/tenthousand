@@ -1,0 +1,7 @@
+Has at least one anagram that is also in the word list: YES
+Length: between 8 and 9 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 3
+Starts with: W
+Vowels: between 0 and 2 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Length: 7 letters
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

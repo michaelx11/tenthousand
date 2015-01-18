@@ -1,0 +1,4 @@
+Distinct letters: 8
+Has property MAZGHUNA: YES
+Letters located in the middle row on a QWERTY keyboard: between 15.7% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 376

@@ -1,0 +1,7 @@
+Base Scrabble score: between 21 and 48 (inclusive) points
+Distinct letters: between 9 and 10 (inclusive)
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 38.4% and 38.5% (inclusive) of the letters

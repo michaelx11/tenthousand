@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Letters located in the bottom row on a QWERTY keyboard: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 71
+Sum of letters (A=1, B=2, etc): 118

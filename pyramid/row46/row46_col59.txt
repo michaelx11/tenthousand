@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Distinct consonants: 3
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 60.0% and 66.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Starts with a vowel: NO

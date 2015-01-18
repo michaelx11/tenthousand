@@ -1,0 +1,5 @@
+Has property MAZGHUNA: YES
+Has property PEPI: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 10 letters
+Most common letter(s) each account(s) for: between 21.4% and 21.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 166

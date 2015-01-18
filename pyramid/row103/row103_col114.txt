@@ -1,0 +1,5 @@
+Contains: LES
+Distinct letters: between 6 and 7 (inclusive)
+Letters located in the bottom row on a QWERTY keyboard: between 13.3% and 15.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Sum of letters (A=1, B=2, etc): between 80 and 96 (inclusive)

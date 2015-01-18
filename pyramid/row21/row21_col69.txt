@@ -1,0 +1,3 @@
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 233

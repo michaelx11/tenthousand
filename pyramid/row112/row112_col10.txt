@@ -1,0 +1,5 @@
+Base Scrabble score: 9 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 3 letters
+Letters located in the middle row on a QWERTY keyboard: between 30.0% and 33.4% (inclusive) of the letters
+Most common consonant(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): 86

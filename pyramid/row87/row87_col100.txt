@@ -1,0 +1,4 @@
+Ends with: LOPS
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 551
+
+This is NOT a word with property BIKHERIS.

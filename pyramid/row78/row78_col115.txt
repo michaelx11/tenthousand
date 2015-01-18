@@ -1,0 +1,8 @@
+Base Scrabble score: between 14 and 15 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Contains: U
+Has property HAWARA: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 2 and 11 (inclusive) letters
+Length: 10 letters

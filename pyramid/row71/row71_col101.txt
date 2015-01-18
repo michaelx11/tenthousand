@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Contains: B
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 68.1% and 70.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

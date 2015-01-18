@@ -1,0 +1,6 @@
+Base Scrabble score: between 37 and 41 (inclusive) points
+Contains at least one doubled letter: YES
+Length: between 14 and 28 (inclusive) letters
+Vowels: between 3 and 4 (inclusive)
+
+This is a word with property DJOSER.

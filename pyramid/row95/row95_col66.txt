@@ -1,0 +1,4 @@
+Base Scrabble score: 20 points
+Contains at least one doubled letter: YES
+Contains: EN
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EDC

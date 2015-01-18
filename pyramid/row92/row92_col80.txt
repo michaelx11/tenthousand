@@ -1,0 +1,4 @@
+Base Scrabble score: 17 points
+Contains: EL
+Sum of letters (A=1, B=2, etc): 120
+Vowels: exactly 30.0% of the letters

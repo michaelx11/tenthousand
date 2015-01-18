@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains: L
+Distinct consonants: 4
+Most common letter(s) each account(s) for: between 33.3% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 95 and 137 (inclusive)
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

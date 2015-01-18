@@ -1,0 +1,2 @@
+Starts with: DROL
+Sum of letters (A=1, B=2, etc): 109

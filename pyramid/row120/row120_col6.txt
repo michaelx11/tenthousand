@@ -1,0 +1,9 @@
+Contains at least one doubled letter: NO
+Letters located in the bottom row on a QWERTY keyboard: between 14.2% and 14.3% (inclusive) of the letters
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Sum of letters (A=1, B=2, etc): between 75 and 77 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+
+This is NOT a word with property MERENRE.

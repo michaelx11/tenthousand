@@ -1,0 +1,8 @@
+Base Scrabble score: 13 points
+Contains: ED
+Distinct consonants: 3
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 20.0% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 11
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+
+This is a word with property SETHKA.

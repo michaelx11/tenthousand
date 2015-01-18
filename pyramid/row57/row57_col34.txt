@@ -1,0 +1,9 @@
+Base Scrabble score: between 13 and 18 (inclusive) points
+Contains: P
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Length: 8 letters
+Letters located in the top row on a QWERTY keyboard: 4
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 77 and 89 (inclusive)

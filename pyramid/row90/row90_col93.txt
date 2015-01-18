@@ -1,0 +1,7 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+Distinct consonants: 4
+Most common letter(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): 102
+Vowels: between 40.9% and 43.8% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

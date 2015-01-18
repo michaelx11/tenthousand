@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 3 and 7 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+Starts with: CARO

@@ -1,0 +1,4 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 6 letters
+Most common vowel(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters
+Starts with: AI
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

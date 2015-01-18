@@ -1,0 +1,6 @@
+Contains: TOR
+Has property MEIDUM: YES
+Most common consonant(s) each account(s) for: between 19.0% and 20.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

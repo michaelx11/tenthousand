@@ -1,0 +1,8 @@
+Distinct consonants: 6
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 55.5% and 55.6% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: 0
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This is NOT a word with property MAZGHUNA.

@@ -1,0 +1,3 @@
+Base Scrabble score: 8 points
+Starts with: STR
+Sum of letters (A=1, B=2, etc): 83

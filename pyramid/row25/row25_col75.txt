@@ -1,0 +1,7 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: L
+Distinct consonants: 6
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 27.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 161 and 307 (inclusive)
+Vowels: 4

@@ -1,0 +1,5 @@
+Base Scrabble score: between 14 and 15 (inclusive) points
+Contains: LE
+Has property SETHKA: YES
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 99 and 101 (inclusive)

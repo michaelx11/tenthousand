@@ -1,0 +1,5 @@
+Contains: EC
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 95.0% and 100.0% (inclusive) of the letters
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

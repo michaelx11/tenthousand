@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Distinct letters: 8
+Length: 14 letters
+Most common vowel(s) each appear(s): between 2 and 4 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Starts with a vowel: NO
+Vowels: 6

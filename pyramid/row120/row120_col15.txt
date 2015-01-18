@@ -1,0 +1,4 @@
+Base Scrabble score: between 15 and 17 (inclusive) points
+Distinct consonants: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 45
+Vowels: exactly 30.0% of the letters

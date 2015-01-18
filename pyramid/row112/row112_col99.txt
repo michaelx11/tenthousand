@@ -1,0 +1,6 @@
+Contains at least one doubled letter: NO
+Contains: ET
+Distinct letters: 6
+Letters located in the middle row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

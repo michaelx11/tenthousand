@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: LTI
+Has property PEPI: YES
+Most common letter(s) each appear(s): 3 times
+Vowels: between 6 and 9 (inclusive)

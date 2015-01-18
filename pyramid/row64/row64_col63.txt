@@ -1,0 +1,5 @@
+Contains: B
+Distinct consonants: 4
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 81.2% and 81.9% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 33
+Starts with a vowel: YES

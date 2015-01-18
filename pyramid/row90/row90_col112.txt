@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Contains: H
+Letters located in the middle row on a QWERTY keyboard: 5
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 87 and 124 (inclusive)
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

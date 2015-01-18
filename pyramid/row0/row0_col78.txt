@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 63.6% and 66.7% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 90

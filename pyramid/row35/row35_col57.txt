@@ -1,0 +1,7 @@
+Distinct letters: between 2 and 7 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Length: 10 letters
+Sum of letters (A=1, B=2, etc): between 115 and 125 (inclusive)
+Vowels: between 0 and 2 (inclusive)
+
+This is NOT a word with property SETHKA.

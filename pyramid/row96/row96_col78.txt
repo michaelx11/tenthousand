@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct vowels: 2
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 3 and 4 (inclusive) letters
+Most common letter(s) each appear(s): between 3 and 5 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9
+Sum of letters (A=1, B=2, etc): between 91 and 103 (inclusive)

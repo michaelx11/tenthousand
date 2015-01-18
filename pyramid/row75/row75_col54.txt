@@ -1,0 +1,7 @@
+Base Scrabble score: between 17 and 19 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Letters located in the top row on a QWERTY keyboard: 4
+Starts with: H
+Vowels: exactly 37.5% of the letters

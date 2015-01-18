@@ -1,0 +1,5 @@
+Contains: TE
+Distinct consonants: between 0 and 2 (inclusive)
+Has property MAZGHUNA: YES
+Most common letter(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 50 and 54 (inclusive)

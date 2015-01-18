@@ -1,0 +1,4 @@
+Contains: GH
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 88.2% and 88.9% (inclusive) of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

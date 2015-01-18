@@ -1,0 +1,4 @@
+Length: between 14 and 15 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 856
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

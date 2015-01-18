@@ -1,0 +1,4 @@
+Base Scrabble score: between 13 and 15 (inclusive) points
+Contains: GE
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CE0

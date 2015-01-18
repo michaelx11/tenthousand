@@ -1,0 +1,2 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Starts with: SONN

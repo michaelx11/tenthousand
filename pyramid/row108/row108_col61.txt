@@ -1,0 +1,5 @@
+Contains: ER
+Has property AMENEMHAT: YES
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Vowels: between 1 and 3 (inclusive)

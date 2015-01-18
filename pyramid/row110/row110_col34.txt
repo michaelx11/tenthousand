@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Length: between 12 and 15 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Vowels: between 26.6% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

@@ -1,0 +1,6 @@
+Base Scrabble score: between 22 and 24 (inclusive) points
+Contains: P
+Most common consonant(s) each appear(s): between 3 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: between 6 and 9 (inclusive)

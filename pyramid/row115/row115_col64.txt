@@ -1,0 +1,6 @@
+Base Scrabble score: between 13 and 18 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 9 and 10 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 8 and 9 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 25F
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

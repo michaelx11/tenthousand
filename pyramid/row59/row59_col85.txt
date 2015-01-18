@@ -1,0 +1,8 @@
+Base Scrabble score: 16 points
+Distinct vowels: 2
+Length: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 82 and 86 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,5 @@
+Distinct vowels: 4
+Has property SETHKA: YES
+Letters located in the bottom row on a QWERTY keyboard: between 11.1% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1
+Sum of letters (A=1, B=2, etc): between 126 and 139 (inclusive)

@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Contains: ARA
+Distinct consonants: 3
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 4 and 8 (inclusive) letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

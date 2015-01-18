@@ -1,0 +1,4 @@
+Contains: HR
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 100.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 16.7% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters

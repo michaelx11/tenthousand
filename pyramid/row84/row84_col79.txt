@@ -1,0 +1,2 @@
+Base Scrabble score: between 18 and 20 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2054

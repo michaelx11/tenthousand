@@ -1,0 +1,5 @@
+Contains: ILL
+Most common vowel(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+Has property HAWARA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D1C
+Vowels: between 28.5% and 28.6% (inclusive) of the letters

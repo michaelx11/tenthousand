@@ -1,0 +1,6 @@
+Contains: AB
+Length: 8 letters
+Letters located in the top row on a QWERTY keyboard: between 61.1% and 63.2% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

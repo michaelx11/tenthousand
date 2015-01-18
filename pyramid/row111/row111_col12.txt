@@ -1,0 +1,4 @@
+Distinct letters: 8
+Starts with: CAL
+Sum of letters (A=1, B=2, etc): between 99 and 109 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

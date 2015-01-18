@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: between 58.3% and 66.7% (inclusive) of the letters

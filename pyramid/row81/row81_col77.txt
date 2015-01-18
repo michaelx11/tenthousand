@@ -1,0 +1,8 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Distinct letters: 6
+Has at least one anagram that is also in the word list: YES
+Has property KHUI: YES
+Has property MERENRE: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

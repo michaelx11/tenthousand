@@ -1,0 +1,4 @@
+Base Scrabble score: between 23 and 48 (inclusive) points
+Ends with: NT
+Most common consonant(s) each account(s) for: between 9.5% and 11.2% (inclusive) of the letters
+Starts with a vowel: YES

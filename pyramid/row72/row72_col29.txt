@@ -1,0 +1,5 @@
+Contains: U
+Distinct consonants: between 0 and 4 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 89.4% and 90.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1
+Sum of letters (A=1, B=2, etc): 106

@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Distinct consonants: between 1 and 3 (inclusive)
+Ends with: E
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: 3

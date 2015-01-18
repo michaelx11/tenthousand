@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Contains: RU
+Distinct vowels: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 75A
+Starts with a vowel: NO

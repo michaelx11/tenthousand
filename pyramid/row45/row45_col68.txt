@@ -1,0 +1,4 @@
+Base Scrabble score: 7 points
+Letters located in the middle row on a QWERTY keyboard: between 14.2% and 14.3% (inclusive) of the letters
+Most common letter(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: DD

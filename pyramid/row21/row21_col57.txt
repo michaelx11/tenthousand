@@ -1,0 +1,6 @@
+Length: between 3 and 6 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 5 and 9 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Sum of letters (A=1, B=2, etc): 74
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

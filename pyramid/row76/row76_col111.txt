@@ -1,0 +1,3 @@
+Contains: AZO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 40.0% of the letters
+Vowels: between 50.0% and 66.7% (inclusive) of the letters

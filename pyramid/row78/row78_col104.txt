@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 45.4% and 50.0% (inclusive) of the letters
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

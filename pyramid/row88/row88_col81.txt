@@ -1,0 +1,6 @@
+Contains: RU
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Most common consonant(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): between 96 and 102 (inclusive)
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

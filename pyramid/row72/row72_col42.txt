@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 8849
+Vowels: exactly 30.0% of the letters
+
+This is NOT a word with property MERENRE.

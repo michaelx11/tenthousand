@@ -1,0 +1,4 @@
+Base Scrabble score: 22 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 4A40
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

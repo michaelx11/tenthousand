@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Letters located in the middle row on a QWERTY keyboard: between 4 and 12 (inclusive)
+Most common consonant(s) each appear(s): between 3 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E2C
+Starts with a vowel: YES

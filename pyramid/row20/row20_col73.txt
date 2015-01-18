@@ -1,0 +1,4 @@
+Base Scrabble score: between 13 and 14 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Starts with: AU
+Vowels: 4

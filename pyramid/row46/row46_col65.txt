@@ -1,0 +1,7 @@
+Base Scrabble score: 18 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 52.6% and 56.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): between 89 and 98 (inclusive)
+
+This is NOT a word with property UNAS.

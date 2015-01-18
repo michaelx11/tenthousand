@@ -1,0 +1,6 @@
+Base Scrabble score: 18 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Starts with a vowel: YES
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

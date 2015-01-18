@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Contains: FUL
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 71.4% and 71.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

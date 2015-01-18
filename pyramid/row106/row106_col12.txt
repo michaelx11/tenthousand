@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Ends with: Y
+Has property BIKHERIS: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Letters located in the middle row on a QWERTY keyboard: exactly 60.0% of the letters

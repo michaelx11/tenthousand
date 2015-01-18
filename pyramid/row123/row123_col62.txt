@@ -1,0 +1,3 @@
+Contains: TI
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7776

@@ -1,0 +1,5 @@
+Letters located in the middle row on a QWERTY keyboard: exactly 20.0% of the letters
+Starts with: LO
+Sum of letters (A=1, B=2, etc): 83
+
+This is a word with property MENKAURE.

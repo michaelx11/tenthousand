@@ -1,0 +1,4 @@
+Contains: G
+Most common letter(s) each appear(s): between 4 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CE8
+Vowels: between 31.2% and 33.4% (inclusive) of the letters

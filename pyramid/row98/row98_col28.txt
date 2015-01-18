@@ -1,0 +1,9 @@
+Base Scrabble score: 16 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct consonants: 6
+Has property MAZGHUNA: YES
+Letters located in the top row on a QWERTY keyboard: between 4 and 6 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 80
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

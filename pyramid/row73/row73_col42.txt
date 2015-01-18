@@ -1,0 +1,5 @@
+Base Scrabble score: between 17 and 18 (inclusive) points
+Contains: STR
+Most common vowel(s) each appear(s): between 3 and 5 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc): between 152 and 163 (inclusive)

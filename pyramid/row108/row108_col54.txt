@@ -1,0 +1,8 @@
+Base Scrabble score: between 24 and 49 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: ON
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E6
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

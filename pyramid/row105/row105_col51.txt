@@ -1,0 +1,5 @@
+Contains: U
+Distinct letters: between 1 and 4 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B
+Vowels: 1
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

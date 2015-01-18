@@ -1,0 +1,29 @@
+True statements about INTERTERRITORIAL:
+
+Base Scrabble score: 16 points
+Can be Caesar shifted to produce another word in the word list: NO
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Contains at least two nonoverlapping occurrences of the same doubled letter: NO
+Contains: TER
+Distinct letters: 8
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 62.5% and 66.7% (inclusive) of the letters
+Length: between 14 and 28 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 81.2% and 81.3% (inclusive) of the letters
+Most common letter(s) each account(s) for: exactly 25.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9E
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 206 and 216 (inclusive)
+Vowels: between 43.7% and 43.8% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: NO

@@ -1,0 +1,4 @@
+Contains: NF
+Length: between 10 and 12 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 22
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

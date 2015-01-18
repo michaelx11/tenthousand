@@ -1,0 +1,8 @@
+Base Scrabble score: 11 points
+Contains: K
+Distinct consonants: 3
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+
+This is a word with property MEIDUM.

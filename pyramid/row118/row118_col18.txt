@@ -1,0 +1,4 @@
+Base Scrabble score: 7 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 3 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D1C
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

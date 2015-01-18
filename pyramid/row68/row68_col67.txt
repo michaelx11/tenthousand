@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Contains at least two different doubled letters: NO
+Distinct letters: 7
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 6 and 10 (inclusive) letters
+Vowels: between 26.6% and 28.6% (inclusive) of the letters

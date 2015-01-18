@@ -1,0 +1,5 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 32.0% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 474
+Sum of letters (A=1, B=2, etc): 119
+
+This is a word with property NEFEREFRE.

@@ -1,0 +1,5 @@
+Base Scrabble score: between 23 and 24 (inclusive) points
+Contains: AT
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FAA
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

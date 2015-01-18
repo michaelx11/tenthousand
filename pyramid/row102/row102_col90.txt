@@ -1,0 +1,5 @@
+Base Scrabble score: between 7 and 8 (inclusive) points
+Contains: LA
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 60.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

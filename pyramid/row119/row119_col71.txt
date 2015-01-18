@@ -1,0 +1,2 @@
+Ends with: INTS
+Letters located in the bottom row on a QWERTY keyboard: between 29.4% and 30.8% (inclusive) of the letters

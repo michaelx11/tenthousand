@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: YES
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A3

@@ -1,0 +1,4 @@
+Contains: ND
+Length: 11 letters
+Letters located in the middle row on a QWERTY keyboard: between 5 and 7 (inclusive)
+Sum of letters (A=1, B=2, etc): 114

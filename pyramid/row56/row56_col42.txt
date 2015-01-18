@@ -1,0 +1,2 @@
+Base Scrabble score: 17 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C4D8

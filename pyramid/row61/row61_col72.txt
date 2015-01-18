@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Contains: US
+Distinct letters: 8
+Has property SETHKA: YES
+Length: between 10 and 11 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1
+Sum of letters (A=1, B=2, etc): between 159 and 307 (inclusive)

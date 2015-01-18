@@ -1,0 +1,5 @@
+Contains: PR
+Distinct consonants: 5
+Sum of letters (A=1, B=2, etc): 102
+Vowels: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

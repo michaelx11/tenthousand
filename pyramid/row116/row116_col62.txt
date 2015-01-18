@@ -1,0 +1,4 @@
+Contains: ED
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8
+Sum of letters (A=1, B=2, etc): 50

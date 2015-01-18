@@ -1,0 +1,2 @@
+Ends with: M
+Sum of letters (A=1, B=2, etc): 17

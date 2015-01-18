@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Has property HAWARA: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 81.8% and 81.9% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 1 and 3 (inclusive)
+Sum of letters (A=1, B=2, etc): between 160 and 176 (inclusive)

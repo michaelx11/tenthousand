@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 25.0% of the letters
+Most common vowel(s) each account(s) for: exactly 37.5% of the letters
+Sum of letters (A=1, B=2, etc): between 83 and 86 (inclusive)

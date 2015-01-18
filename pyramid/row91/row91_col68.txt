@@ -1,0 +1,6 @@
+Base Scrabble score: 16 points
+Contains at least one doubled letter: YES
+Contains: PR
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 8
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

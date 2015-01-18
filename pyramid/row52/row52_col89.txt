@@ -1,0 +1,6 @@
+Base Scrabble score: between 2 and 11 (inclusive) points
+Distinct consonants: 4
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 4 letters
+Letters located in the top row on a QWERTY keyboard: between 66.6% and 66.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 93
+Sum of letters (A=1, B=2, etc): 91

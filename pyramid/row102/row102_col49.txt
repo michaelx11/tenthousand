@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: YES
+Starts with: AL
+Sum of letters (A=1, B=2, etc): between 65 and 83 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

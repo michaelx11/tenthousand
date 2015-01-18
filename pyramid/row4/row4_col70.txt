@@ -1,0 +1,3 @@
+Contains: BAK
+Letters located in the top row on a QWERTY keyboard: between 4 and 5 (inclusive)
+Sum of letters (A=1, B=2, etc): between 62 and 74 (inclusive)

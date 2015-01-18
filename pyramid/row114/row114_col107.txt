@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 666
+Vowels: between 36.3% and 36.4% (inclusive) of the letters

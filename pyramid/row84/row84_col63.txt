@@ -1,0 +1,6 @@
+Distinct consonants: 6
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 102 and 103 (inclusive)
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

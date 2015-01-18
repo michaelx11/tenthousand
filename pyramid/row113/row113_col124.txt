@@ -1,0 +1,10 @@
+Base Scrabble score: between 10 and 11 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: O
+Has at least one anagram that is also in the word list: NO
+Letters located in the bottom row on a QWERTY keyboard: between 11.7% and 13.7% (inclusive) of the letters
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 91 and 106 (inclusive)

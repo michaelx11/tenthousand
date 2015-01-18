@@ -1,0 +1,5 @@
+Contains: IVE
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C1E
+Vowels: between 35.2% and 36.4% (inclusive) of the letters
+
+This is NOT a word with property BIKHERIS.

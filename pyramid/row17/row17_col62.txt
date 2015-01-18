@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Distinct letters: 6
+Letters located in the top row on a QWERTY keyboard: between 4 and 5 (inclusive)
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 102 and 307 (inclusive)
+Vowels: between 47.3% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

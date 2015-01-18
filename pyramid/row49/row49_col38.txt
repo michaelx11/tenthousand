@@ -1,0 +1,4 @@
+Base Scrabble score: between 3 and 13 (inclusive) points
+Contains: IL
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 80.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 19

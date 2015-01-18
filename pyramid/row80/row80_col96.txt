@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Distinct consonants: between 5 and 6 (inclusive)
+Has property HAWARA: YES
+Letters located in the top row on a QWERTY keyboard: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 17

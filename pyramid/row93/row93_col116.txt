@@ -1,0 +1,4 @@
+Has property KHUI: YES
+Letters located in the bottom row on a QWERTY keyboard: between 33.3% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D
+Sum of letters (A=1, B=2, etc): 69

@@ -1,0 +1,6 @@
+Distinct letters: 8
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 35.2% and 36.4% (inclusive) of the letters
+Most common letter(s) each appear(s): between 3 and 7 (inclusive) times
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 138 and 141 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

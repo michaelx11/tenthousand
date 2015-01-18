@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: EC
+Starts with: M
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

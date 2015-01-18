@@ -1,0 +1,4 @@
+Has property QAKAREIBI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Most common vowel(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 600

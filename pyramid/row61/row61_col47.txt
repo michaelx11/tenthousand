@@ -1,0 +1,6 @@
+Contains: S
+Distinct letters: 8
+Has property QAKAREIBI: YES
+Letters located in the top row on a QWERTY keyboard: 5
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

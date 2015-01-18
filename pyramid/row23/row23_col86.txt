@@ -1,0 +1,6 @@
+Contains: LA
+Distinct vowels: between 4 and 6 (inclusive)
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 2 letters
+Most common vowel(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters
+
+This word is associated with the color GIZA.

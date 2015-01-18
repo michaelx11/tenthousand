@@ -1,0 +1,7 @@
+Base Scrabble score: 22 points
+Distinct letters: 9
+Letters located in the top row on a QWERTY keyboard: between 47.6% and 50.0% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 21.4% and 21.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 141 and 168 (inclusive)
+
+This is a word with property HAWARA.

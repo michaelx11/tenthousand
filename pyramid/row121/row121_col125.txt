@@ -1,0 +1,5 @@
+Base Scrabble score: 22 points
+Contains: ARK
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 87.5% and 93.4% (inclusive) of the letters
+
+This is a word with property DJOSER.

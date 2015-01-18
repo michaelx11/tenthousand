@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Has property MERENRE: YES
+Letters located in the middle row on a QWERTY keyboard: exactly 30.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CC
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

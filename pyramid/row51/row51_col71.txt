@@ -1,0 +1,4 @@
+Base Scrabble score: 17 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: ECF2
+
+This is NOT a word with property AMENEMHAT.

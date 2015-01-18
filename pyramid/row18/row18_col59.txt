@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: between 11.1% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C3B4
+
+This is NOT a word with property PEPI.

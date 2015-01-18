@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Contains: RS
+Has property KHUI: YES
+Most common letter(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

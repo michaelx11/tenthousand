@@ -1,0 +1,4 @@
+Base Scrabble score: between 11 and 13 (inclusive) points
+Contains: P
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 40.0% and 42.9% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA7

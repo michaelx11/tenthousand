@@ -1,0 +1,4 @@
+Base Scrabble score: 21 points
+Contains: RTC
+
+This is NOT a word with property NURI.

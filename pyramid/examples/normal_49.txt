@@ -1,0 +1,8 @@
+Some statements that uniquely identify BLISSFUL:
+
+Base Scrabble score: 13 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Letters located in the middle row on a QWERTY keyboard: between 4 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A9
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES

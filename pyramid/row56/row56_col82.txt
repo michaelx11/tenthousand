@@ -1,0 +1,5 @@
+Base Scrabble score: 22 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Sum of letters (A=1, B=2, etc): between 92 and 98 (inclusive)
+Vowels: between 38.4% and 40.0% (inclusive) of the letters

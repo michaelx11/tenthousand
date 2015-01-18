@@ -1,0 +1,5 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Most common letter(s) each account(s) for: between 11.7% and 13.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 11
+Sum of letters (A=1, B=2, etc): 91

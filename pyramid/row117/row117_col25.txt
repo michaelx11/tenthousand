@@ -1,0 +1,5 @@
+Contains: CRA
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 8 and 9 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Vowels: exactly 37.5% of the letters

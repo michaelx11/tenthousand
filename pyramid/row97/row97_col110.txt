@@ -1,0 +1,3 @@
+Base Scrabble score: 7 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 58.8% and 60.0% (inclusive) of the letters
+Starts with: BUS

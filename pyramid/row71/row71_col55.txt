@@ -1,0 +1,6 @@
+Base Scrabble score: between 13 and 14 (inclusive) points
+Contains: PL
+Distinct vowels: 2
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 72.7% and 72.8% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

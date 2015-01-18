@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Contains: ID
+Distinct letters: 9
+Has property KHUI: YES
+Sum of letters (A=1, B=2, etc): between 134 and 151 (inclusive)

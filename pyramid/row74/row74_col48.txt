@@ -1,0 +1,6 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Letters located in the middle row on a QWERTY keyboard: between 30.0% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 81 and 87 (inclusive)

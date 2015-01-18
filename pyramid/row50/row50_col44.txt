@@ -1,0 +1,7 @@
+Base Scrabble score: between 3 and 6 (inclusive) points
+Can be Caesar shifted to produce another word in the word list: YES
+Letters located in the top row on a QWERTY keyboard: between 72.7% and 77.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: 1

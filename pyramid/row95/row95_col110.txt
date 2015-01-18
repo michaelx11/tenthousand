@@ -1,0 +1,5 @@
+Base Scrabble score: 5 points
+Letters located in the bottom row on a QWERTY keyboard: between 33.3% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 688
+
+This is NOT a word with property BIKHERIS.

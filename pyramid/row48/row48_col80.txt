@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 993
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: 2

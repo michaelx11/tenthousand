@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: ENT
+Has property AMENYQEMAU: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 8 letters
+Vowels: exactly 30.0% of the letters

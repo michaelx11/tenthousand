@@ -1,0 +1,9 @@
+Base Scrabble score: 15 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Contains: S
+Letters located in the middle row on a QWERTY keyboard: between 3 and 4 (inclusive)
+Most common vowel(s) each account(s) for: between 16.6% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

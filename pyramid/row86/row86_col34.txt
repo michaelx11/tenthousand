@@ -1,0 +1,7 @@
+Base Scrabble score: 14 points
+Contains at least one doubled letter: NO
+Contains: L
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Vowels: 2

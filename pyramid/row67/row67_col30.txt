@@ -1,0 +1,5 @@
+Letters located in the top row on a QWERTY keyboard: between 61.5% and 62.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 6B
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc): between 95 and 97 (inclusive)

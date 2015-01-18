@@ -1,0 +1,4 @@
+Base Scrabble score: between 16 and 19 (inclusive) points
+Most common vowel(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Sum of letters (A=1, B=2, etc): 62

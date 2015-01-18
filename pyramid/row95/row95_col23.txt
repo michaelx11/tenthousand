@@ -1,0 +1,4 @@
+Base Scrabble score: between 23 and 25 (inclusive) points
+Distinct vowels: 2
+Letters located in the middle row on a QWERTY keyboard: between 18.1% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EBA

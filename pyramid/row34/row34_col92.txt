@@ -1,0 +1,5 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 77.7% and 77.8% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Starts with: T

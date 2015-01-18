@@ -1,0 +1,9 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct consonants: between 5 and 6 (inclusive)
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 35.2% and 40.0% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: 6

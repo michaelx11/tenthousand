@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Contains at least one doubled letter: NO
+Has property QAKAREIBI: YES
+Most common consonant(s) each account(s) for: between 12.0% and 12.5% (inclusive) of the letters
+Vowels: between 62.5% and 75.0% (inclusive) of the letters

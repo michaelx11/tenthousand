@@ -1,0 +1,2 @@
+Contains: SLY
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A93

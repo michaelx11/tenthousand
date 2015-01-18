@@ -1,0 +1,5 @@
+Contains: RN
+Has at least one anagram that is also in the word list: NO
+Has property SETHKA: YES
+Most common consonant(s) each appear(s): between 0 and 1 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1

@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 89.4% and 90.0% (inclusive) of the letters
+Starts with: PENS
+
+This is a word with property HAWARA.

@@ -1,0 +1,6 @@
+Base Scrabble score: 21 points
+Contains: CH
+Distinct consonants: 5
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 107 and 113 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

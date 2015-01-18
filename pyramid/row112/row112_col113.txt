@@ -1,0 +1,4 @@
+Base Scrabble score: 6 points
+Contains at least one doubled letter: YES
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8F7

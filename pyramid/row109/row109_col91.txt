@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 28.6% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9C
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

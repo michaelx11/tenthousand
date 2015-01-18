@@ -1,0 +1,8 @@
+Contains: TER
+Most common consonant(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+Starts with a vowel: YES
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO
+
+This is a word with property MERENRE.

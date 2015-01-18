@@ -1,0 +1,5 @@
+Distinct vowels: 4
+Has property KHUI: YES
+Has property SOBEKNEFERU: YES
+Letters located in the bottom row on a QWERTY keyboard: 3
+Sum of letters (A=1, B=2, etc): 167

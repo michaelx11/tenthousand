@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Length: between 11 and 18 (inclusive) letters
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

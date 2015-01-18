@@ -1,0 +1,3 @@
+Contains: Y
+Letters located in the middle row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 929

@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Distinct vowels: 3
+Has at least one anagram that is also in the word list: NO
+Letters located in the bottom row on a QWERTY keyboard: 2
+Starts with: M
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

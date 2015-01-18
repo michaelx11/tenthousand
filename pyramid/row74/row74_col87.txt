@@ -1,0 +1,4 @@
+Ends with: S
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 56F4
+
+This is NOT a word with property UNAS.

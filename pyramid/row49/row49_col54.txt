@@ -1,0 +1,4 @@
+Distinct vowels: 4
+Letters located in the middle row on a QWERTY keyboard: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2D6
+Starts with: C

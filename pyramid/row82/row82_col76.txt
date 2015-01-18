@@ -1,0 +1,7 @@
+Base Scrabble score: between 14 and 22 (inclusive) points
+Contains: LLE
+Distinct letters: between 7 and 8 (inclusive)
+Length: 9 letters
+Letters located in the middle row on a QWERTY keyboard: 5
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

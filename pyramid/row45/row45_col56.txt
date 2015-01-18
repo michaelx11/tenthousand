@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Distinct consonants: 4
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 20.0% of the letters
+Letters located in the middle row on a QWERTY keyboard: 5
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 141 and 155 (inclusive)
+
+This is a word with property HAWARA.

@@ -1,0 +1,4 @@
+Base Scrabble score: 6 points
+Distinct consonants: between 0 and 2 (inclusive)
+Has property MAZGHUNA: YES
+Sum of letters (A=1, B=2, etc): 49

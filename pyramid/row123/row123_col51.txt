@@ -1,0 +1,3 @@
+Base Scrabble score: 7 points
+Contains: MA
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D2

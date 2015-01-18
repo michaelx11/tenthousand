@@ -1,0 +1,4 @@
+Contains: FI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 3 and 4 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 76.9% and 80.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

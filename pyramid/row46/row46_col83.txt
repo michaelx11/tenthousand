@@ -1,0 +1,2 @@
+Starts with: MADD
+Sum of letters (A=1, B=2, etc): between 65 and 69 (inclusive)

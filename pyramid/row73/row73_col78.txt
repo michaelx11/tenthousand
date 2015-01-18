@@ -1,0 +1,2 @@
+Contains: ELI
+Sum of letters (A=1, B=2, etc): between 41 and 43 (inclusive)

@@ -1,0 +1,4 @@
+Contains: ATO
+Distinct letters: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 8
+Vowels: 2

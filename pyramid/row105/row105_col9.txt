@@ -1,0 +1,5 @@
+Base Scrabble score: 17 points
+Contains: AC
+Letters located in the top row on a QWERTY keyboard: exactly 37.5% of the letters
+Most common consonant(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 28

@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Letters located in the top row on a QWERTY keyboard: between 14.2% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 773
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

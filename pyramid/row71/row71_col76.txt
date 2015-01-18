@@ -1,0 +1,6 @@
+Base Scrabble score: between 3 and 10 (inclusive) points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 73.6% and 75.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 75F

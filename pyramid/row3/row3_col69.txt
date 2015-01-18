@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Contains: ED
+Letters located in the bottom row on a QWERTY keyboard: 1
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C36
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,7 @@
+Base Scrabble score: between 2 and 6 (inclusive) points
+Ends with: SE
+Letters located in the top row on a QWERTY keyboard: exactly 75.0% of the letters
+Sum of letters (A=1, B=2, etc): between 56 and 58 (inclusive)
+
+This is NOT a word with property KHUI.
+This word is associated with the color SAQQARA.

@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+Letters located in the top row on a QWERTY keyboard: 7
+Sum of letters (A=1, B=2, etc): 115

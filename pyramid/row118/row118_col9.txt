@@ -1,0 +1,5 @@
+Has property DJOSER: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Starts with: SE
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Letters located in the middle row on a QWERTY keyboard: between 46.1% and 46.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 143
+
+This is NOT a word with property LISHT.

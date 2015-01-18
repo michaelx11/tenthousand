@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 61.5% and 62.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Starts with: DR
+Sum of letters (A=1, B=2, etc): between 37 and 67 (inclusive)

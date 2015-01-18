@@ -1,0 +1,6 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+Contains: RI
+Has property KHUI: YES
+Length: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Sum of letters (A=1, B=2, etc): between 3 and 66 (inclusive)

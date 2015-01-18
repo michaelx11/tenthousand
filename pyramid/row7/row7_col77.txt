@@ -1,0 +1,6 @@
+Base Scrabble score: 5 points
+Contains: T
+Distinct letters: 5
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 80.0% of the letters
+Letters located in the top row on a QWERTY keyboard: between 76.4% and 81.9% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 62 and 67 (inclusive)

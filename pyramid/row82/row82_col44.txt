@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Contains: C
+Letters located in the top row on a QWERTY keyboard: exactly 37.5% of the letters
+Most common letter(s) each account(s) for: exactly 12.5% of the letters
+Sum of letters (A=1, B=2, etc): 82

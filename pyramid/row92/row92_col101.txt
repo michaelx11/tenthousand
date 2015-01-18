@@ -1,0 +1,5 @@
+Has property HAWARA: YES
+Has property KHUI: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 6 and 8 (inclusive)
+Sum of letters (A=1, B=2, etc): 173

@@ -1,0 +1,8 @@
+Base Scrabble score: between 11 and 14 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct consonants: 5
+Ends with: ED
+Most common consonant(s) each appear(s): 2 times
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO
+
+This is NOT a word with property ABUSIR.

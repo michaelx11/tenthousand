@@ -1,0 +1,6 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Distinct letters: 6
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 93.3% and 100.0% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A85
+Vowels: between 28.5% and 28.6% (inclusive) of the letters

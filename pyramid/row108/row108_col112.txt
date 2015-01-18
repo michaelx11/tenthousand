@@ -1,0 +1,8 @@
+Contains at least one doubled letter: YES
+Distinct vowels: 4
+Letters located in the middle row on a QWERTY keyboard: 4
+Most common consonant(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

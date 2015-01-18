@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Distinct letters: between 9 and 11 (inclusive)
+Length: between 11 and 28 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BFF
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

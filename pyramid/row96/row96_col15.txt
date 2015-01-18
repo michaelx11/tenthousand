@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: UI
+Distinct vowels: 2
+Letters located in the top row on a QWERTY keyboard: between 38.8% and 40.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Distinct vowels: 4
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 4 and 7 (inclusive) letters
+Sum of letters (A=1, B=2, etc): 100

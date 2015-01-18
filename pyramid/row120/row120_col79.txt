@@ -1,0 +1,5 @@
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 0 and 2 (inclusive) letters
+Length: between 7 and 8 (inclusive) letters
+Starts with: B
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

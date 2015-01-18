@@ -1,0 +1,5 @@
+Base Scrabble score: between 7 and 17 (inclusive) points
+Distinct letters: 7
+Letters located in the top row on a QWERTY keyboard: between 0 and 2 (inclusive)
+Sum of letters (A=1, B=2, etc): between 110 and 112 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

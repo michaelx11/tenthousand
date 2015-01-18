@@ -1,0 +1,4 @@
+Contains: RO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 2 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1CD
+Vowels: between 33.3% and 33.4% (inclusive) of the letters

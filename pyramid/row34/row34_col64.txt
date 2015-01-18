@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Starts with: SLOG

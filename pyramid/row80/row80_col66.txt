@@ -1,0 +1,2 @@
+Most common vowel(s) each account(s) for: between 26.3% and 30.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E6D9

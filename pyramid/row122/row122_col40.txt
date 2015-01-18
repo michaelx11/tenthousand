@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 8 and 9 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 191 and 307 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

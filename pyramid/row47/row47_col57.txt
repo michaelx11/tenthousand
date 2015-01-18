@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: IE
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BD9

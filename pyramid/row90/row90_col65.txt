@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Contains: ED
+Distinct letters: 7
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

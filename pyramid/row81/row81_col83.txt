@@ -1,0 +1,7 @@
+Base Scrabble score: 18 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: EX
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5F
+Sum of letters (A=1, B=2, etc): between 34 and 76 (inclusive)
+
+This is a word with property ABUSIR.

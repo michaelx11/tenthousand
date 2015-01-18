@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Ends with: CE
+Most common letter(s) each account(s) for: between 21.0% and 23.6% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

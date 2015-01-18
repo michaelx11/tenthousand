@@ -1,0 +1,7 @@
+Starts with: EX
+Sum of letters (A=1, B=2, etc): between 134 and 137 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO
+
+This is NOT a word with property NURI.
+This is a word with property ABUSIR.

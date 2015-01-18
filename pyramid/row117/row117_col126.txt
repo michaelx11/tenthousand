@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Letters located in the middle row on a QWERTY keyboard: between 23.8% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Sum of letters (A=1, B=2, etc): 107
+
+This word is associated with the color DJEDKAREISESI.

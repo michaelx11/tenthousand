@@ -1,0 +1,2 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 75.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: DA6E

@@ -1,0 +1,6 @@
+Distinct consonants: 4
+Letters located in the top row on a QWERTY keyboard: between 61.5% and 62.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 5
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 59 and 77 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

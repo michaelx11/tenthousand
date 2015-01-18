@@ -1,0 +1,5 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Contains: TIN
+Distinct consonants: 5
+Most common letter(s) each appear(s): 1 time
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

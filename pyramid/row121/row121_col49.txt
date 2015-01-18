@@ -1,0 +1,3 @@
+Has property MAZGHUNA: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 8 letters
+Most common letter(s) each account(s) for: between 38.4% and 38.5% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Contains: GE
+Distinct letters: 6
+Has property QAKAREIBI: YES
+Most common vowel(s) each appear(s): between 3 and 5 (inclusive) times
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

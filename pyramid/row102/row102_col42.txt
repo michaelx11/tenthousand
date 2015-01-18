@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct vowels: between 3 and 4 (inclusive)
+Ends with: C
+Most common letter(s) each account(s) for: between 26.6% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

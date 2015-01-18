@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: IMI
+Distinct letters: 5
+Letters located in the top row on a QWERTY keyboard: between 57.1% and 57.2% (inclusive) of the letters

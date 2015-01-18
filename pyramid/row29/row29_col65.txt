@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Length: 14 letters
+Letters located in the middle row on a QWERTY keyboard: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

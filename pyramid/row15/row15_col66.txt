@@ -1,0 +1,5 @@
+Can be Caesar shifted to produce another word in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 286
+Starts with a vowel: YES
+
+This is NOT a word with property MERENRE.

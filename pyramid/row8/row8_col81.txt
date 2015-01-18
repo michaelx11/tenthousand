@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Contains: LED
+Letters located in the bottom row on a QWERTY keyboard: between 15.0% and 17.7% (inclusive) of the letters
+Vowels: between 47.3% and 50.0% (inclusive) of the letters

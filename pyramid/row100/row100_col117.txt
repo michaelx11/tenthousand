@@ -1,0 +1,7 @@
+Base Scrabble score: between 18 and 20 (inclusive) points
+Contains at least one doubled letter: NO
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 3 (inclusive)
+Starts with: CR
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: 3

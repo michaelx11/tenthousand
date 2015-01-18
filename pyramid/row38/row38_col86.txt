@@ -1,0 +1,6 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Contains: ND
+Distinct consonants: 5
+Letters located in the bottom row on a QWERTY keyboard: 1
+Most common consonant(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8A

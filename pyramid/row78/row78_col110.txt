@@ -1,0 +1,3 @@
+Contains: ZED
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

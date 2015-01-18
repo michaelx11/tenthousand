@@ -1,0 +1,7 @@
+Distinct letters: 7
+Ends with: ER
+Letters located in the top row on a QWERTY keyboard: between 6 and 15 (inclusive)
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 100 and 114 (inclusive)
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

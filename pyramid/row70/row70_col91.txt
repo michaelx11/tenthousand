@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Contains: K
+Distinct vowels: 2
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 40.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC

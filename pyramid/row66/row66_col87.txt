@@ -1,0 +1,7 @@
+Contains: P
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 90.9% and 91.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 6 and 7 (inclusive)
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 128 and 129 (inclusive)
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

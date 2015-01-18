@@ -1,0 +1,6 @@
+Base Scrabble score: between 17 and 23 (inclusive) points
+Contains at least two nonoverlapping occurrences of the same doubled letter: YES
+Contains: U
+Has property KHUI: YES
+Has property QAKAREIBI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters

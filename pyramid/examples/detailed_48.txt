@@ -1,0 +1,29 @@
+True statements about REIMPORTED:
+
+Base Scrabble score: 15 points
+Can be Caesar shifted to produce another word in the word list: NO
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Distinct letters: 8
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 20.0% of the letters
+Length: 10 letters
+Letters located in the top row on a QWERTY keyboard: 8
+Most common letter(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6DE5
+Starts with a vowel: NO
+Starts with: REIM
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 122 and 123 (inclusive)
+Vowels: between 39.2% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: 23 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 92.3% and 92.4% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 30.7% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 128
+
+This is a word with property AMENYQEMAU.

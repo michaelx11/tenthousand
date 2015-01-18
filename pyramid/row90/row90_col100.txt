@@ -1,0 +1,6 @@
+Base Scrabble score: 21 points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 28.5% and 28.6% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 21.4% and 21.5% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 21.0% and 21.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 151 and 165 (inclusive)
+Vowels: between 42.8% and 42.9% (inclusive) of the letters

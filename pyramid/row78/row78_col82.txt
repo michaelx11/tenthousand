@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 80
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 107

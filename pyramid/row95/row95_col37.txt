@@ -1,0 +1,9 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 4 and 10 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc): between 4 and 56 (inclusive)
+Vowels: between 1 and 2 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

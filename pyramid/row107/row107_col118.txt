@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Contains: DS
+Most common letter(s) each appear(s): between 3 and 7 (inclusive) times
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,8 @@
+Base Scrabble score: 14 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: W
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Length: 9 letters
+Most common letter(s) each appear(s): between 1 and 2 (inclusive) times
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

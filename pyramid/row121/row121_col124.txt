@@ -1,0 +1,6 @@
+Contains: I
+Most common consonant(s) each account(s) for: between 27.2% and 27.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 122
+Vowels: between 26.3% and 27.8% (inclusive) of the letters
+
+This is a word with property BIKHERIS.

@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Letters located in the top row on a QWERTY keyboard: 2
+Starts with: CARD
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO
+
+This word is associated with the color SAQQARA.

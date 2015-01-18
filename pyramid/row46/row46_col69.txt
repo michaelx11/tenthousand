@@ -1,0 +1,3 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 5 and 7 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 4 and 6 (inclusive)
+Starts with: VIT

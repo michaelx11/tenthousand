@@ -1,0 +1,5 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Contains: ES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AEA
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 100 and 108 (inclusive)

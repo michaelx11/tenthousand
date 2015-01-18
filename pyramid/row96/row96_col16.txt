@@ -1,0 +1,9 @@
+Base Scrabble score: 19 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct vowels: 2
+Most common vowel(s) each account(s) for: between 26.3% and 27.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 76 and 118 (inclusive)
+
+This is NOT a word with property KHUI.

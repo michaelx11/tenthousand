@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Contains: S
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Vowels: between 5 and 7 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

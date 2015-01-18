@@ -1,0 +1,6 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 935
+Sum of letters (A=1, B=2, etc): between 115 and 116 (inclusive)
+Vowels: between 4 and 12 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+
+This is a word with property AMENEMHAT.

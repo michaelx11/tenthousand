@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+Most common consonant(s) each account(s) for: between 37.5% and 100.0% (inclusive) of the letters
+Starts with: BR
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

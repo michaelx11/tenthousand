@@ -1,0 +1,7 @@
+Distinct letters: 6
+Has at least one anagram that is also in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Sum of letters (A=1, B=2, etc): between 3 and 62 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

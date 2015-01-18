@@ -1,0 +1,3 @@
+Base Scrabble score: 33 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 0.0% of the letters
+Most common vowel(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters

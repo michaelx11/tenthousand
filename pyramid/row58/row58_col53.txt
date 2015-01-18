@@ -1,0 +1,4 @@
+Base Scrabble score: between 18 and 22 (inclusive) points
+Contains: ISQ
+Has property KHUI: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO

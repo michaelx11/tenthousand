@@ -1,0 +1,6 @@
+Ends with: OUS
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 10 letters
+Letters located in the bottom row on a QWERTY keyboard: between 9.0% and 9.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+
+This is a word with property ABUSIR.

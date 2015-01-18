@@ -1,0 +1,9 @@
+Base Scrabble score: 16 points
+Contains: K
+Distinct consonants: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3
+Vowels: between 22.2% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This word is associated with the color DAHSHUR.

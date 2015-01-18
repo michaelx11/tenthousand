@@ -1,0 +1,4 @@
+Contains: CRI
+Distinct letters: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Vowels: between 38.4% and 40.0% (inclusive) of the letters

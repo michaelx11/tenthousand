@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 78.5% and 80.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 58.3% and 60.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

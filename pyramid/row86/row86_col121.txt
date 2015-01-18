@@ -1,0 +1,11 @@
+Base Scrabble score: between 20 and 22 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Contains: D
+Distinct letters: 9
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the top row on a QWERTY keyboard: 5
+Most common vowel(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+Starts with a vowel: NO

@@ -1,0 +1,2 @@
+Contains: JOB
+Letters located in the bottom row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters

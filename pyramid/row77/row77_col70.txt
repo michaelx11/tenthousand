@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 55.0% and 55.6% (inclusive) of the letters
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Sum of letters (A=1, B=2, etc): between 91 and 92 (inclusive)

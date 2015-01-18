@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct consonants: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Vowels: between 26.3% and 27.8% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+
+This is NOT a word with property ABUSIR.

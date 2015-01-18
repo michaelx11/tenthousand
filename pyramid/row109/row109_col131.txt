@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Distinct letters: 8
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 210
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Has property KHUI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 4 and 8 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 5
+Starts with a vowel: YES
+Vowels: between 35.2% and 36.4% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Length: 7 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+Most common letter(s) each appear(s): 1 time
+Vowels: between 57.1% and 60.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

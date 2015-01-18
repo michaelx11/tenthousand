@@ -1,0 +1,30 @@
+True statements about INGENIOUSNESS:
+
+Base Scrabble score: 14 points
+Can be Caesar shifted to produce another word in the word list: NO
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Contains at least two nonoverlapping occurrences of the same doubled letter: NO
+Contains: SNE
+Distinct consonants: 3
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 13 letters
+Length: 13 letters
+Letters located in the bottom row on a QWERTY keyboard: between 23.0% and 23.1% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 23.0% and 23.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FB2
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 170 and 171 (inclusive)
+Vowels: between 46.1% and 46.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Ends with: IED
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+Sum of letters (A=1, B=2, etc): between 57 and 59 (inclusive)

@@ -1,0 +1,7 @@
+Base Scrabble score: 12 points
+Contains: M
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 10 (inclusive) letters
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

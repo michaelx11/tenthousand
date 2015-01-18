@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Ends with: AL
+Most common consonant(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 83
+Starts with a vowel: NO

@@ -1,0 +1,2 @@
+Sum of letters (A=1, B=2, etc): 216
+Vowels: between 26.3% and 27.8% (inclusive) of the letters

@@ -1,0 +1,4 @@
+Distinct consonants: 3
+Has property DJOSER: YES
+Has property QAKAREIBI: YES
+Sum of letters (A=1, B=2, etc): 55

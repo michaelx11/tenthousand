@@ -1,0 +1,3 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 9 and 11 (inclusive) letters
+Most common letter(s) each account(s) for: between 21.4% and 21.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 139

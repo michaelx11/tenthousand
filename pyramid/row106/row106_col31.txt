@@ -1,0 +1,7 @@
+Base Scrabble score: 13 points
+Contains at least one doubled letter: YES
+Ends with: S
+Has at least one anagram that is also in the word list: YES
+Letters located in the top row on a QWERTY keyboard: between 61.5% and 62.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

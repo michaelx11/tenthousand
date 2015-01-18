@@ -1,0 +1,5 @@
+Contains: EG
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 4 letters
+Letters located in the middle row on a QWERTY keyboard: between 4 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Vowels: exactly 37.5% of the letters

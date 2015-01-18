@@ -1,0 +1,2 @@
+Starts with: ACT
+Vowels: exactly 25.0% of the letters

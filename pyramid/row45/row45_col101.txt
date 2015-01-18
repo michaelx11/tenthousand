@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 2 and 4 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 124 and 149 (inclusive)
+Vowels: between 4 and 7 (inclusive)

@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 80.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: between 1 and 2 (inclusive)

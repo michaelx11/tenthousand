@@ -1,0 +1,6 @@
+Contains: ZE
+Distinct vowels: 2
+Letters located in the middle row on a QWERTY keyboard: between 39.1% and 40.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 3 and 7 (inclusive)

@@ -1,0 +1,6 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 50.0% of the letters
+Sum of letters (A=1, B=2, etc): 25
+Vowels: exactly 25.0% of the letters
+
+This word is associated with the color SAHURE.

@@ -1,0 +1,7 @@
+Contains: RS
+Has property AMENEMHAT: YES
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+
+This word is associated with the concept SEKHEMKHET.

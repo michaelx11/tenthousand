@@ -1,0 +1,6 @@
+Contains: IN
+Distinct vowels: 2
+Has at least one anagram that is also in the word list: YES
+Has property MERENRE: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Most common vowel(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters

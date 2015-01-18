@@ -1,0 +1,6 @@
+Base Scrabble score: 23 points
+Contains: PS
+Distinct vowels: 3
+Most common vowel(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+
+This is NOT a word with property NURI.

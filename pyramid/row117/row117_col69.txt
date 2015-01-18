@@ -1,0 +1,4 @@
+Base Scrabble score: between 10 and 13 (inclusive) points
+Contains: FL
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 60 and 61 (inclusive)

@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 93.7% and 100.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc): between 56 and 57 (inclusive)
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

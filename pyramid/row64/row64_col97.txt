@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Contains: ON
+Distinct letters: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

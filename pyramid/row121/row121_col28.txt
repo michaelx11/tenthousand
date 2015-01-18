@@ -1,0 +1,3 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 64.2% and 66.7% (inclusive) of the letters
+Starts with: RAPT
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

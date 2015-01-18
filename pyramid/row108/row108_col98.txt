@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Has property KHUI: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 88.8% and 88.9% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CC4
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

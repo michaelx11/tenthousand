@@ -1,0 +1,5 @@
+Base Scrabble score: between 14 and 15 (inclusive) points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+Starts with a vowel: YES

@@ -1,0 +1,4 @@
+Contains: ULA
+Most common vowel(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): 89

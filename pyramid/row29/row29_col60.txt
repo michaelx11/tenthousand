@@ -1,0 +1,6 @@
+Base Scrabble score: between 14 and 15 (inclusive) points
+Contains: UP
+Has property SETHKA: YES
+Letters located in the bottom row on a QWERTY keyboard: between 2 and 3 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

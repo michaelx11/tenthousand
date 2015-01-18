@@ -1,0 +1,4 @@
+Contains: GIE
+Distinct letters: 8
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: DD

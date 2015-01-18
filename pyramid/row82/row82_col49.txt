@@ -1,0 +1,6 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Can be Caesar shifted to produce another word in the word list: NO
+Contains: Y
+Letters located in the top row on a QWERTY keyboard: 1
+Most common consonant(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+Vowels: between 31.2% and 33.4% (inclusive) of the letters

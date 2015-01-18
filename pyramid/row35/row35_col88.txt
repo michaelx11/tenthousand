@@ -1,0 +1,2 @@
+Starts with: TWID
+Sum of letters (A=1, B=2, etc): between 102 and 103 (inclusive)

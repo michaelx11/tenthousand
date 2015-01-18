@@ -1,0 +1,9 @@
+Base Scrabble score: between 16 and 19 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: B
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Length: 6 letters
+Most common letter(s) each account(s) for: between 33.3% and 33.4% (inclusive) of the letters
+
+This is NOT a word with property BIKHERIS.

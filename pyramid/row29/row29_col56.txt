@@ -1,0 +1,5 @@
+Contains: E
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 88.8% and 88.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc): 105

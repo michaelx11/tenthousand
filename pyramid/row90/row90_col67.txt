@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: ED
+Has at least one anagram that is also in the word list: NO
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 09

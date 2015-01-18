@@ -1,0 +1,6 @@
+Base Scrabble score: between 26 and 48 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Has property MAZGHUNA: YES
+Most common consonant(s) each account(s) for: between 13.3% and 13.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 175 and 178 (inclusive)

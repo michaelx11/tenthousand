@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Has property PEPI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 9 and 16 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 25.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D

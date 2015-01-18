@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Letters located in the top row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+Vowels: 2

@@ -1,0 +1,5 @@
+Distinct consonants: 6
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): between 178 and 182 (inclusive)
+Vowels: 4

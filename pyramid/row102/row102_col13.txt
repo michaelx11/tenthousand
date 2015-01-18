@@ -1,0 +1,6 @@
+Base Scrabble score: 16 points
+Contains at least one doubled letter: NO
+Ends with: ED
+Letters located in the top row on a QWERTY keyboard: 3
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 94 and 99 (inclusive)

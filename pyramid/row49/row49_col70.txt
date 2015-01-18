@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 57
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is a word with property SETHKA.
+This is NOT a word with property AMENYQEMAU.

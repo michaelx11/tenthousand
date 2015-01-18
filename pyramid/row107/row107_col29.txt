@@ -1,0 +1,2 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 73.6% and 75.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7018

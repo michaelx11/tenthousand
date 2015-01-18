@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Has at least one anagram that is also in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: between 22.2% and 22.3% (inclusive) of the letters
+Most common vowel(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B

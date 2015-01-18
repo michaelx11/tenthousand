@@ -1,0 +1,4 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3
+Starts with: FOR
+Vowels: between 5 and 6 (inclusive)

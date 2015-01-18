@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Starts with: DES
+Vowels: exactly 37.5% of the letters

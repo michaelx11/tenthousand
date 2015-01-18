@@ -1,0 +1,4 @@
+Contains: NS
+Has at least one anagram that is also in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: between 4 and 5 (inclusive)
+Vowels: exactly 30.0% of the letters

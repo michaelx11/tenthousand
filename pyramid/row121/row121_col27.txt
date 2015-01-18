@@ -1,0 +1,6 @@
+Base Scrabble score: 22 points
+Contains at least one doubled letter: YES
+Has property KHUI: YES
+Length: 12 letters
+Most common vowel(s) each appear(s): between 3 and 6 (inclusive) times
+Sum of letters (A=1, B=2, etc): between 132 and 168 (inclusive)

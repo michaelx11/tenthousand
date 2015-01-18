@@ -1,0 +1,5 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 7 and 8 (inclusive) letters
+Sum of letters (A=1, B=2, etc): 119
+Vowels: exactly 60.0% of the letters
+
+This is NOT a word with property KHUI.

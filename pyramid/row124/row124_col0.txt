@@ -1,0 +1,7 @@
+Contains: PE
+Length: 7 letters
+Letters located in the top row on a QWERTY keyboard: 6
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 90 and 115 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

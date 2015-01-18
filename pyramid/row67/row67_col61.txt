@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Letters located in the middle row on a QWERTY keyboard: between 30.0% and 33.4% (inclusive) of the letters
+Starts with: PRO
+Sum of letters (A=1, B=2, etc): between 139 and 140 (inclusive)

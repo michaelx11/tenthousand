@@ -1,0 +1,6 @@
+Base Scrabble score: between 10 and 12 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: TI
+Distinct vowels: between 4 and 6 (inclusive)
+Letters located in the top row on a QWERTY keyboard: between 6 and 8 (inclusive)
+Sum of letters (A=1, B=2, etc): between 148 and 152 (inclusive)

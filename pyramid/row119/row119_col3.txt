@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 66E
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 94
+Vowels: between 31.5% and 33.4% (inclusive) of the letters

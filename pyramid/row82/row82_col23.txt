@@ -1,0 +1,6 @@
+Letters located in the top row on a QWERTY keyboard: between 66.6% and 66.7% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 34 and 35 (inclusive)
+Vowels: between 66.6% and 66.7% (inclusive) of the letters
+
+This word is associated with the concept SENUSRET.

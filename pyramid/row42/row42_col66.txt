@@ -1,0 +1,2 @@
+Contains: MAL
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2AD

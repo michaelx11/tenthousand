@@ -1,0 +1,6 @@
+Ends with: M
+Letters located in the top row on a QWERTY keyboard: between 45.4% and 45.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2AD
+
+This is a word with property PEPI.
+This is a word with property AMENYQEMAU.

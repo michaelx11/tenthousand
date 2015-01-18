@@ -1,0 +1,4 @@
+Has property AMENYQEMAU: YES
+Has property DJOSER: YES
+Sum of letters (A=1, B=2, etc): 119
+Vowels: exactly 30.0% of the letters

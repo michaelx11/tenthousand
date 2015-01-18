@@ -1,0 +1,6 @@
+Base Scrabble score: between 21 and 49 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 68.4% and 70.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 134
+Vowels: between 18.7% and 25.0% (inclusive) of the letters
+
+This is a word with property BIKHERIS.

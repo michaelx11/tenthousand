@@ -1,0 +1,5 @@
+Letters located in the middle row on a QWERTY keyboard: between 30.7% and 30.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

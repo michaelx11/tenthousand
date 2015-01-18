@@ -1,0 +1,4 @@
+Contains: K
+Letters located in the middle row on a QWERTY keyboard: between 35.2% and 36.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 117 and 119 (inclusive)
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

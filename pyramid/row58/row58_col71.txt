@@ -1,0 +1,7 @@
+Base Scrabble score: 14 points
+Distinct vowels: 2
+Has property KHUI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 2 (inclusive)
+Sum of letters (A=1, B=2, etc): between 103 and 104 (inclusive)
+Vowels: exactly 37.5% of the letters

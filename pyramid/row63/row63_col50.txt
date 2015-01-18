@@ -1,0 +1,4 @@
+Ends with: D
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 20.0% of the letters
+Sum of letters (A=1, B=2, etc): 85
+Vowels: exactly 30.0% of the letters

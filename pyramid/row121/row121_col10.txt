@@ -1,0 +1,6 @@
+Base Scrabble score: 18 points
+Letters located in the top row on a QWERTY keyboard: between 5 and 6 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 33
+Starts with: I
+Sum of letters (A=1, B=2, etc): between 118 and 122 (inclusive)
+Vowels: 4

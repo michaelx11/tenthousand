@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Distinct letters: between 9 and 10 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Sum of letters (A=1, B=2, etc): between 130 and 135 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

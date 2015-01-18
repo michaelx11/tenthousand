@@ -1,0 +1,11 @@
+Base Scrabble score: 12 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 51 and 57 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO
+
+This is a word with property MAZGHUNA.

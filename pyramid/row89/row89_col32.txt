@@ -1,0 +1,7 @@
+Contains: GE
+Distinct consonants: 4
+Letters located in the bottom row on a QWERTY keyboard: between 13.6% and 14.3% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 25.0% and 30.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

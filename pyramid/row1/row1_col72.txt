@@ -1,0 +1,5 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the top row on a QWERTY keyboard: between 10 and 12 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EF3
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

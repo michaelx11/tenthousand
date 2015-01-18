@@ -1,0 +1,6 @@
+Base Scrabble score: 9 points
+Contains: AR
+Most common vowel(s) each appear(s): 2 times
+Vowels: between 26.6% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

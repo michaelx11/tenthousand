@@ -1,0 +1,3 @@
+Contains: W
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 678F
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

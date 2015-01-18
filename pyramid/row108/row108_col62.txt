@@ -1,0 +1,5 @@
+Distinct consonants: between 6 and 8 (inclusive)
+Length: between 3 and 9 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 45.4% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1
+Sum of letters (A=1, B=2, etc): between 89 and 90 (inclusive)

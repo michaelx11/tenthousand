@@ -1,0 +1,5 @@
+Contains: GI
+Distinct consonants: 3
+Letters located in the middle row on a QWERTY keyboard: between 3 and 4 (inclusive)
+Sum of letters (A=1, B=2, etc): between 94 and 99 (inclusive)
+Vowels: exactly 37.5% of the letters

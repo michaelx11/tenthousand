@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Ends with: TS
+Most common consonant(s) each appear(s): 1 time
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 74 and 77 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

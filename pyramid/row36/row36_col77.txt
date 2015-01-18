@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 70.0% of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: 2

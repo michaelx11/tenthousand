@@ -1,0 +1,4 @@
+Ends with: ILT
+Sum of letters (A=1, B=2, etc): 48
+
+This is a word with property MENKAURE.

@@ -1,0 +1,8 @@
+Base Scrabble score: between 20 and 22 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Distinct vowels: between 5 and 6 (inclusive)
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+
+This is a word with property UNAS.

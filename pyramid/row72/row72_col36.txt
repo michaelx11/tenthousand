@@ -1,0 +1,4 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Contains at least one doubled letter: NO
+Most common letter(s) each account(s) for: exactly 40.0% of the letters
+Vowels: 5

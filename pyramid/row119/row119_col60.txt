@@ -1,0 +1,5 @@
+Base Scrabble score: between 8 and 9 (inclusive) points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 57.1% and 57.2% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 57.1% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 3
+Sum of letters (A=1, B=2, etc): between 65 and 69 (inclusive)

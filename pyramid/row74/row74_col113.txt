@@ -1,0 +1,4 @@
+Contains: ORI
+Distinct vowels: between 3 and 6 (inclusive)
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 75.0% and 91.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 084

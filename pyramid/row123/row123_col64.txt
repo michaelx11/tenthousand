@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Contains at least one doubled letter: YES
+Contains: GO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 11
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

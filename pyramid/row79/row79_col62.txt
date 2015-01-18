@@ -1,0 +1,2 @@
+Contains: ST
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 13F6

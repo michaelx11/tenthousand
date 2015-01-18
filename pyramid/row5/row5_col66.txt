@@ -1,0 +1,8 @@
+Base Scrabble score: 11 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 6 letters
+Letters located in the top row on a QWERTY keyboard: exactly 37.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 88 and 91 (inclusive)
+
+This is NOT a word with property PEPI.

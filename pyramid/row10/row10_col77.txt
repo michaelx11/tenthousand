@@ -1,0 +1,5 @@
+Contains: LA
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 4 and 5 (inclusive) letters
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Vowels: 4

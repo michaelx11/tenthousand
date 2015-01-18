@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Contains: OI
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc): 71

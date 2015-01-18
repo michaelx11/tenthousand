@@ -1,0 +1,3 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 57.1% and 57.2% (inclusive) of the letters
+Most common letter(s) each appear(s): 1 time
+Starts with: RESO

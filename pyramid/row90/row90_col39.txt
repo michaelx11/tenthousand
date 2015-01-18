@@ -1,0 +1,5 @@
+Contains: NT
+Distinct letters: between 1 and 6 (inclusive)
+Letters located in the middle row on a QWERTY keyboard: between 41.6% and 42.9% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 3

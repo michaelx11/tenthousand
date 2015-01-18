@@ -1,0 +1,5 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+Contains: FR
+Sum of letters (A=1, B=2, etc): 57
+
+This is NOT a word with property AMENYQEMAU.

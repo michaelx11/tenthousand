@@ -1,0 +1,9 @@
+Contains at least one doubled letter: NO
+Contains: I
+Distinct letters: between 8 and 9 (inclusive)
+Has property HAWARA: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 10 and 19 (inclusive) letters
+Most common vowel(s) each account(s) for: between 21.0% and 21.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Starts with a vowel: NO
+Vowels: between 5 and 7 (inclusive)

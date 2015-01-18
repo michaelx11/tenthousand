@@ -1,0 +1,8 @@
+Base Scrabble score: between 12 and 14 (inclusive) points
+Distinct letters: 7
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 33
+Sum of letters (A=1, B=2, etc): between 4 and 63 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

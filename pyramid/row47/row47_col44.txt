@@ -1,0 +1,4 @@
+Contains: MA
+Distinct letters: 5
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 73.6% and 75.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 89

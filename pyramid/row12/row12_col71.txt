@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: AN
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

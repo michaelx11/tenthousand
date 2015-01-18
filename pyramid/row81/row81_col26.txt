@@ -1,0 +1,7 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+Contains: D
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Vowels: between 4 and 6 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

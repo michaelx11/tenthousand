@@ -1,0 +1,6 @@
+Base Scrabble score: between 15 and 23 (inclusive) points
+Distinct consonants: 6
+Letters located in the bottom row on a QWERTY keyboard: between 18.1% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc): 118
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

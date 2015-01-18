@@ -1,0 +1,5 @@
+Contains: D
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 7 and 8 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 36.3% and 36.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1CD
+Vowels: between 35.2% and 36.4% (inclusive) of the letters

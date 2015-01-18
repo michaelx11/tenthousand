@@ -1,0 +1,6 @@
+Base Scrabble score: 20 points
+Contains: ATO
+Most common letter(s) each appear(s): 3 times
+Vowels: between 42.8% and 42.9% (inclusive) of the letters
+
+This is NOT a word with property BIKHERIS.

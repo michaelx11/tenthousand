@@ -1,0 +1,6 @@
+Base Scrabble score: between 27 and 48 (inclusive) points
+Contains at least one doubled letter: YES
+Letters located in the middle row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+Most common vowel(s) each appear(s): 3 times
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

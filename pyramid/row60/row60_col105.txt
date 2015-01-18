@@ -1,0 +1,5 @@
+Letters located in the top row on a QWERTY keyboard: 3
+Most common vowel(s) each account(s) for: between 8.3% and 8.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 136
+
+This is a word with property HAWARA.

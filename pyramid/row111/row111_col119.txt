@@ -1,0 +1,6 @@
+Base Scrabble score: 22 points
+Has property MAZGHUNA: YES
+Has property PEPI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 92.8% and 92.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: exactly 50.0% of the letters
+Sum of letters (A=1, B=2, etc): between 169 and 308 (inclusive)

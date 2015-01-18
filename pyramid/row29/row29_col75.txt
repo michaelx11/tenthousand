@@ -1,0 +1,7 @@
+Contains: XPE
+Sum of letters (A=1, B=2, etc): between 89 and 98 (inclusive)
+Vowels: between 4 and 12 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+
+This is a word with property ABUSIR.
+This is NOT a word with property MERENRE.

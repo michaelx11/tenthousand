@@ -1,0 +1,6 @@
+Base Scrabble score: between 2 and 6 (inclusive) points
+Contains: E
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 38.0% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6
+Sum of letters (A=1, B=2, etc): between 48 and 55 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

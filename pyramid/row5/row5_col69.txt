@@ -1,0 +1,5 @@
+Contains: RED
+Has at least one anagram that is also in the word list: YES
+Length: 8 letters
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

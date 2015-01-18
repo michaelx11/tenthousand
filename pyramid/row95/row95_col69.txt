@@ -1,0 +1,7 @@
+Contains: SU
+Has at least one anagram that is also in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common vowel(s) each appear(s): between 0 and 1 (inclusive) times
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

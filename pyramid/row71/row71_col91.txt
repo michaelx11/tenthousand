@@ -1,0 +1,7 @@
+Base Scrabble score: 13 points
+Contains: T
+Distinct vowels: 3
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 87.5% of the letters
+Sum of letters (A=1, B=2, etc): 78
+
+This is a word with property DJOSER.

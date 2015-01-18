@@ -1,0 +1,6 @@
+Base Scrabble score: between 21 and 48 (inclusive) points
+Distinct letters: 9
+Has property BIKHERIS: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Sum of letters (A=1, B=2, etc): between 120 and 127 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

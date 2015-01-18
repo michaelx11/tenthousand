@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Distinct consonants: 4
+Has property PEPI: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 30
+Starts with a vowel: YES

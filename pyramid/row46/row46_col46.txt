@@ -1,0 +1,6 @@
+Distinct vowels: 2
+Most common consonant(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3CA
+Starts with: F
+
+This is NOT a word with property DJOSER.

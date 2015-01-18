@@ -1,0 +1,2 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 80.0% of the letters
+Starts with: LEVE

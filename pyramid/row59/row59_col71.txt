@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Distinct vowels: between 4 and 5 (inclusive)
+Length: 9 letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 71 and 72 (inclusive)

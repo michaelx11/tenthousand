@@ -1,0 +1,4 @@
+Base Scrabble score: between 16 and 21 (inclusive) points
+Most common letter(s) each account(s) for: between 23.5% and 26.7% (inclusive) of the letters
+Starts with: O
+Sum of letters (A=1, B=2, etc): between 92 and 93 (inclusive)

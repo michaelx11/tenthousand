@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Distinct vowels: 2
+Starts with: WAT
+Sum of letters (A=1, B=2, etc): between 122 and 128 (inclusive)

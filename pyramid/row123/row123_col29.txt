@@ -1,0 +1,4 @@
+Length: 13 letters
+Letters located in the middle row on a QWERTY keyboard: between 4 and 6 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: ADE
+Sum of letters (A=1, B=2, etc): between 165 and 171 (inclusive)

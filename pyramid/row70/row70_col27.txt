@@ -1,0 +1,4 @@
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 0EAB
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

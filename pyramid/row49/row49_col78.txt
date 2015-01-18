@@ -1,0 +1,3 @@
+Contains: APH
+Distinct consonants: between 9 and 11 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55A

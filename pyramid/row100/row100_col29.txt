@@ -1,0 +1,6 @@
+Distinct letters: 7
+Letters located in the bottom row on a QWERTY keyboard: between 23.8% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1C
+Sum of letters (A=1, B=2, etc): 84
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

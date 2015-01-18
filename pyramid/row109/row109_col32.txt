@@ -1,0 +1,6 @@
+Base Scrabble score: between 17 and 18 (inclusive) points
+Contains: TI
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 10 letters
+Letters located in the top row on a QWERTY keyboard: between 7 and 16 (inclusive)
+Most common vowel(s) each account(s) for: between 17.6% and 18.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

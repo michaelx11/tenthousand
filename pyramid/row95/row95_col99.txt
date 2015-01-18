@@ -1,0 +1,6 @@
+Contains: KI
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 12 and 23 (inclusive) letters
+Most common letter(s) each appear(s): between 3 and 5 (inclusive) times
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

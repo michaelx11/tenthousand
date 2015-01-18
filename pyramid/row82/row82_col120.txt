@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct letters: between 2 and 6 (inclusive)
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 57.1% and 57.9% (inclusive) of the letters
+Most common consonant(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): between 103 and 104 (inclusive)
+Vowels: between 42.8% and 42.9% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

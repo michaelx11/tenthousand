@@ -1,0 +1,7 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct consonants: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Vowels: between 38.4% and 40.0% (inclusive) of the letters

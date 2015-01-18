@@ -1,0 +1,5 @@
+Base Scrabble score: between 21 and 23 (inclusive) points
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5CDA
+
+This is a word with property SETHKA.

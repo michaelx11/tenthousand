@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Contains: BO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F8C
+Vowels: between 46.6% and 50.0% (inclusive) of the letters

@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: G
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 2 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F7D
+Sum of letters (A=1, B=2, etc): between 81 and 98 (inclusive)

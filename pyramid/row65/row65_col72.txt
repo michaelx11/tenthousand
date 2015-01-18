@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7DAB
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

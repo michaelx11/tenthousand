@@ -1,0 +1,8 @@
+Base Scrabble score: between 23 and 25 (inclusive) points
+Distinct letters: between 11 and 13 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 11 letters
+Letters located in the top row on a QWERTY keyboard: between 6 and 7 (inclusive)
+Most common consonant(s) each account(s) for: between 15.3% and 15.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

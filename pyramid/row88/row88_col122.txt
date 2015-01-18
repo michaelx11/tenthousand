@@ -1,0 +1,5 @@
+Base Scrabble score: 9 points
+Contains: NT
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common vowel(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters

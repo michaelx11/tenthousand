@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Most common consonant(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+Starts with: BEN

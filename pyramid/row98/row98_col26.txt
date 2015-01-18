@@ -1,0 +1,6 @@
+Base Scrabble score: between 19 and 20 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 63.1% and 66.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 55.5% and 55.6% (inclusive) of the letters
+Most common vowel(s) each appear(s): 2 times
+Starts with: W

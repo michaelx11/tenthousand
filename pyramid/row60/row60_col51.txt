@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Letters located in the bottom row on a QWERTY keyboard: 2
+Most common consonant(s) each account(s) for: between 12.0% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC6
+Starts with a vowel: NO

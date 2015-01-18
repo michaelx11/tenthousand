@@ -1,0 +1,8 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Contains at least one doubled letter: YES
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7
+Starts with a vowel: NO
+Vowels: between 5 and 6 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

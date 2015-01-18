@@ -1,0 +1,8 @@
+Distinct letters: 4
+Has at least one anagram that is also in the word list: YES
+Letters located in the top row on a QWERTY keyboard: 3
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 77 and 92 (inclusive)
+
+This is NOT a word with property NEFEREFRE.

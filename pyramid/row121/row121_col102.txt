@@ -1,0 +1,2 @@
+Ends with: INUM
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC

@@ -1,0 +1,5 @@
+Has property KHUI: YES
+Has property MAZGHUNA: YES
+Has property MEIDUM: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 25.0% of the letters
+Sum of letters (A=1, B=2, etc): 85

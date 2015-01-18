@@ -1,0 +1,4 @@
+Contains: EI
+Most common vowel(s) each account(s) for: between 40.0% and 50.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 24 and 44 (inclusive)

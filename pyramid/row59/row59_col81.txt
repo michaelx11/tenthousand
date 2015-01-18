@@ -1,0 +1,5 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Has property KHUI: YES
+Letters located in the bottom row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B4
+Vowels: between 35.2% and 37.5% (inclusive) of the letters

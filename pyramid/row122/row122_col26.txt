@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Ends with: S
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 10 letters
+Letters located in the bottom row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 174 and 180 (inclusive)

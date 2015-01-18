@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Letters located in the top row on a QWERTY keyboard: between 45.4% and 45.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 142
+Vowels: 5
+
+This is NOT a word with property KHUI.

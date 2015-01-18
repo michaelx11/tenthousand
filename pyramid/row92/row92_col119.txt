@@ -1,0 +1,3 @@
+Contains: IER
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Most common consonant(s) each appear(s): 3 times

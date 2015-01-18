@@ -1,0 +1,5 @@
+Base Scrabble score: between 19 and 20 (inclusive) points
+Contains at least one doubled letter: YES
+Distinct consonants: 5
+Most common letter(s) each account(s) for: exactly 20.0% of the letters
+Vowels: 5

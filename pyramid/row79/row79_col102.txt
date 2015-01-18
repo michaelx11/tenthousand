@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Contains: U
+Letters located in the bottom row on a QWERTY keyboard: between 19.0% and 20.0% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 87 and 89 (inclusive)

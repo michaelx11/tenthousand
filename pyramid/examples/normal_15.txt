@@ -1,0 +1,6 @@
+Some statements that uniquely identify IMPAIRMENTS:
+
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 63.1% and 64.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

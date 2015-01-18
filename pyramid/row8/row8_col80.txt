@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 61.5% and 61.6% (inclusive) of the letters
+Most common vowel(s) each appear(s): 3 times
+Vowels: between 53.8% and 53.9% (inclusive) of the letters

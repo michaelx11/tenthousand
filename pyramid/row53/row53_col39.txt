@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Contains: B
+Length: 10 letters
+Letters located in the top row on a QWERTY keyboard: between 6 and 7 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

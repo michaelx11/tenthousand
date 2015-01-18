@@ -1,0 +1,4 @@
+Contains: ION
+Distinct consonants: 2
+Letters located in the bottom row on a QWERTY keyboard: between 4 and 6 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

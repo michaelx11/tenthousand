@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+Letters located in the middle row on a QWERTY keyboard: between 30.7% and 33.4% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 116 and 148 (inclusive)

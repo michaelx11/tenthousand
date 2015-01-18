@@ -1,0 +1,7 @@
+Base Scrabble score: between 3 and 8 (inclusive) points
+Can be Caesar shifted to produce another word in the word list: NO
+Contains: I
+Letters located in the middle row on a QWERTY keyboard: between 71.4% and 100.0% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+Vowels: between 2 and 3 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

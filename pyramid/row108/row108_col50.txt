@@ -1,0 +1,7 @@
+Base Scrabble score: between 23 and 48 (inclusive) points
+Contains: TI
+Distinct vowels: 2
+Letters located in the top row on a QWERTY keyboard: between 35.2% and 36.4% (inclusive) of the letters
+Vowels: between 5 and 12 (inclusive)
+
+This is a word with property MAZGHUNA.

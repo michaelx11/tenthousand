@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Starts with: EC
+Sum of letters (A=1, B=2, etc): between 42 and 88 (inclusive)

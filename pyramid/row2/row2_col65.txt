@@ -1,0 +1,2 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 63.1% and 64.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EE2F

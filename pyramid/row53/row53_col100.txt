@@ -1,0 +1,5 @@
+Contains: W
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 48 and 53 (inclusive)

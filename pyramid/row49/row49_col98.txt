@@ -1,0 +1,5 @@
+Letters located in the top row on a QWERTY keyboard: exactly 40.0% of the letters
+Starts with: GI
+Sum of letters (A=1, B=2, etc): 63
+
+This is NOT a word with property MENKAURE.

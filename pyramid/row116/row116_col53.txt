@@ -1,0 +1,6 @@
+Base Scrabble score: 7 points
+Contains at least one doubled letter: NO
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 139
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

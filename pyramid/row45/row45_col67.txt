@@ -1,0 +1,8 @@
+Contains: FI
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+
+This is NOT a word with property BIKHERIS.

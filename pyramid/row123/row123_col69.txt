@@ -1,0 +1,10 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: U
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 5 and 7 (inclusive) letters
+Most common vowel(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 22
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+
+This is a word with property MAZGHUNA.

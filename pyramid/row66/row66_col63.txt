@@ -1,0 +1,5 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Distinct letters: 8
+Has property SETHKA: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 80.0% of the letters
+Letters located in the top row on a QWERTY keyboard: exactly 20.0% of the letters

@@ -1,0 +1,9 @@
+Some statements that uniquely identify YELPING:
+
+Base Scrabble score: 13 points
+Contains: E
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 28.6% (inclusive) of the letters
+Most common consonant(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): between 88 and 89 (inclusive)
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

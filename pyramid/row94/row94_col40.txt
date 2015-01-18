@@ -1,0 +1,4 @@
+Contains: ER
+Letters located in the middle row on a QWERTY keyboard: between 26.3% and 29.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 25
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

@@ -1,0 +1,8 @@
+Can be Caesar shifted to produce another word in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 610
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is a word with property NEFEREFRE.
+This word is associated with the color NIUSERRE.

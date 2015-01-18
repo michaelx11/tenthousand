@@ -1,0 +1,5 @@
+Distinct vowels: between 0 and 1 (inclusive)
+Letters located in the middle row on a QWERTY keyboard: between 42.8% and 42.9% (inclusive) of the letters
+Starts with: SPL
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

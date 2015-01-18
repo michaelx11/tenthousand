@@ -1,0 +1,5 @@
+Base Scrabble score: between 17 and 48 (inclusive) points
+Contains: RIN
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 86 and 91 (inclusive)

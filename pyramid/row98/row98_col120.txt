@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Contains: S
+Most common consonant(s) each account(s) for: between 17.6% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C
+Sum of letters (A=1, B=2, etc): between 139 and 143 (inclusive)

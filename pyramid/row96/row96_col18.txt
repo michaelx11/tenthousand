@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Distinct consonants: 4
+Letters located in the middle row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C
+Vowels: between 31.5% and 33.4% (inclusive) of the letters

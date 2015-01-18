@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Has at least one anagram that is also in the word list: YES
+Length: 10 letters
+Most common letter(s) each account(s) for: between 30.0% and 33.4% (inclusive) of the letters
+Starts with a vowel: YES
+
+This is a word with property HAWARA.

@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Contains: G
+Has at least one anagram that is also in the word list: NO
+Has property QAKAREIBI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 84.6% and 85.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 60 and 61 (inclusive)

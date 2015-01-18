@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Contains: RS
+Length: 11 letters
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1

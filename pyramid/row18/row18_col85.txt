@@ -1,0 +1,5 @@
+Contains: SP
+Length: between 7 and 10 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Starts with a vowel: NO
+Vowels: 5

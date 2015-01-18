@@ -1,0 +1,9 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Distinct vowels: 2
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 25.0% of the letters
+Most common vowel(s) each account(s) for: between 23.0% and 26.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 81 and 84 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

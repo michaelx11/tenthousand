@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: IN
+Has property QAKAREIBI: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 61.5% and 66.7% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Ends with: R
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B
+Starts with a vowel: YES
+Vowels: exactly 37.5% of the letters

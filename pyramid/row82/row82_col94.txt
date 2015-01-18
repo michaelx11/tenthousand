@@ -1,0 +1,4 @@
+Contains: ROT
+Distinct consonants: between 0 and 3 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Vowels: exactly 37.5% of the letters

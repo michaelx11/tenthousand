@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Has property KHUI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the middle row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+Starts with: M

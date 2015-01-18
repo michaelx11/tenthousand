@@ -1,0 +1,4 @@
+Distinct consonants: 6
+Starts with: TO
+Sum of letters (A=1, B=2, etc): between 136 and 138 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

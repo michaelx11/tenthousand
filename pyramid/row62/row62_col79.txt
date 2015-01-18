@@ -1,0 +1,2 @@
+Ends with: LE
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 7D0

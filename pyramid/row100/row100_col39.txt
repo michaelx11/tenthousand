@@ -1,0 +1,7 @@
+Base Scrabble score: between 7 and 10 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: between 57.1% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A2
+Sum of letters (A=1, B=2, etc): between 89 and 90 (inclusive)
+
+This is NOT a word with property SOBEKNEFERU.
+This is NOT a word with property HAWARA.

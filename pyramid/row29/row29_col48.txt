@@ -1,0 +1,3 @@
+Base Scrabble score: 6 points
+Contains: AL
+Sum of letters (A=1, B=2, etc): 74

@@ -1,0 +1,5 @@
+Distinct letters: 5
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 0 and 3 (inclusive) letters
+Length: 7 letters
+Letters located in the bottom row on a QWERTY keyboard: between 1 and 2 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 17C

@@ -1,0 +1,3 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 35.2% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A9F
+Vowels: 5

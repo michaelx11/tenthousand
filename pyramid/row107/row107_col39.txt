@@ -1,0 +1,7 @@
+Contains: B
+Letters located in the top row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B1
+Starts with a vowel: YES
+
+This is a word with property NURI.
+This is a word with property MENKAURE.

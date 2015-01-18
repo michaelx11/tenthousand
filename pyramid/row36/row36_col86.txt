@@ -1,0 +1,4 @@
+Distinct letters: 8
+Length: between 9 and 10 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Starts with: DR

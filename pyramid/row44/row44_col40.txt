@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Starts with: G
+Sum of letters (A=1, B=2, etc): between 105 and 107 (inclusive)
+Vowels: between 22.2% and 22.3% (inclusive) of the letters

@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: B
+Letters located in the top row on a QWERTY keyboard: 8
+Most common letter(s) each account(s) for: between 19.0% and 20.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

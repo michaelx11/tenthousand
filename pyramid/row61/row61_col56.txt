@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 90.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 113 and 114 (inclusive)

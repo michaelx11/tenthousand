@@ -1,0 +1,9 @@
+Contains: RA
+Has at least one anagram that is also in the word list: NO
+Letters located in the bottom row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 3 and 73 (inclusive)
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

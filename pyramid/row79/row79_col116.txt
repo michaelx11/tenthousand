@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Contains: ISH
+Has property AMENEMHAT: YES
+Letters located in the middle row on a QWERTY keyboard: between 1 and 3 (inclusive)

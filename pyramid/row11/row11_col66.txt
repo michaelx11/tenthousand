@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Letters located in the top row on a QWERTY keyboard: exactly 60.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 40C
+Vowels: between 5 and 7 (inclusive)

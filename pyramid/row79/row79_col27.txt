@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Distinct letters: 6
+Letters located in the top row on a QWERTY keyboard: between 41.6% and 42.9% (inclusive) of the letters
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 95 and 100 (inclusive)

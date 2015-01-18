@@ -1,0 +1,7 @@
+Base Scrabble score: between 15 and 18 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: OR
+Distinct letters: 6
+Letters located in the bottom row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

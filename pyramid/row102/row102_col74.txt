@@ -1,0 +1,7 @@
+Base Scrabble score: 10 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: D
+Most common letter(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BCC
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: between 21 and 24 (inclusive) points
+Contains: EC
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 12 and 16 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 134 and 177 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

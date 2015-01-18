@@ -1,0 +1,8 @@
+Base Scrabble score: 13 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains: U
+Length: between 3 and 7 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 81 and 98 (inclusive)
+Vowels: 3

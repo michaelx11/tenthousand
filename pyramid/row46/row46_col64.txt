@@ -1,0 +1,4 @@
+Contains: AND
+Letters located in the top row on a QWERTY keyboard: between 41.1% and 42.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 147 and 155 (inclusive)
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

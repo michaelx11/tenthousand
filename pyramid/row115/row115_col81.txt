@@ -1,0 +1,8 @@
+Base Scrabble score: 10 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: RE
+Distinct letters: 8
+Has at least one anagram that is also in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 6 and 8 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

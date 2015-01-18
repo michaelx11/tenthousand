@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Letters located in the middle row on a QWERTY keyboard: exactly 37.5% of the letters
+Most common letter(s) each account(s) for: exactly 37.5% of the letters
+Sum of letters (A=1, B=2, etc): between 82 and 94 (inclusive)

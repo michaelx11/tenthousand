@@ -1,0 +1,9 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: E
+Distinct letters: 5
+Has at least one anagram that is also in the word list: NO
+Letters located in the middle row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2E
+Sum of letters (A=1, B=2, etc): between 61 and 102 (inclusive)
+Vowels: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

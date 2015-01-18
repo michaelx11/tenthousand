@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3377
+Vowels: between 44.4% and 44.5% (inclusive) of the letters
+
+This is NOT a word with property UNAS.

@@ -1,0 +1,4 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 15.0% and 15.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 164
+Vowels: between 46.1% and 46.2% (inclusive) of the letters

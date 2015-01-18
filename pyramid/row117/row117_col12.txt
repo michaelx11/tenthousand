@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 81.2% and 81.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 35.7% and 37.5% (inclusive) of the letters
+Starts with: CH

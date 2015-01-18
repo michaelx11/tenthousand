@@ -1,0 +1,6 @@
+Contains: ICE
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 7 letters
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+
+This is a word with property SOBEKNEFERU.

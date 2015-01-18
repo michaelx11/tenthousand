@@ -1,0 +1,5 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 8 letters
+Letters located in the bottom row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 24
+Vowels: between 4 and 7 (inclusive)

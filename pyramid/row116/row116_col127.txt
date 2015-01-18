@@ -1,0 +1,6 @@
+Base Scrabble score: 22 points
+Distinct vowels: 3
+Letters located in the bottom row on a QWERTY keyboard: 3
+Starts with: PR
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

@@ -1,0 +1,12 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: L
+Most common letter(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc): between 128 and 308 (inclusive)
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES
+
+This is NOT a word with property BIKHERIS.

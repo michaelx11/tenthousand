@@ -1,0 +1,5 @@
+Base Scrabble score: between 12 and 14 (inclusive) points
+Contains: STA
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 8 letters
+Sum of letters (A=1, B=2, etc): between 100 and 107 (inclusive)

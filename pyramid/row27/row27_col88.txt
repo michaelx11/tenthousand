@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Contains: V
+Length: 12 letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES

@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Ends with: MS
+Has at least one anagram that is also in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 4 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 474

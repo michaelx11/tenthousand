@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+Contains: ER
+Has property ABUSIR: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: K
+Letters located in the middle row on a QWERTY keyboard: between 22.2% and 22.3% (inclusive) of the letters
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F
+Sum of letters (A=1, B=2, etc): between 99 and 125 (inclusive)
+
+This is NOT a word with property ABUSIR.

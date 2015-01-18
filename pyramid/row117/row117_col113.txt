@@ -1,0 +1,7 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: YES
+Contains: Y
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+
+This is a word with property NEFEREFRE.

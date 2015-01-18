@@ -1,0 +1,5 @@
+Contains: HE
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 90.9% and 91.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: 7
+Sum of letters (A=1, B=2, etc): 128
+Vowels: between 36.3% and 36.4% (inclusive) of the letters

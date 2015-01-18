@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 89.4% and 90.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+
+This is NOT a word with property ABUSIR.

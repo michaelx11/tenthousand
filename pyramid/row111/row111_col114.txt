@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: ES
+Length: between 9 and 12 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 5B
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

@@ -1,0 +1,2 @@
+Most common letter(s) each appear(s): 2 times
+Starts with: LAYM

@@ -1,0 +1,4 @@
+Base Scrabble score: 10 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 90D6

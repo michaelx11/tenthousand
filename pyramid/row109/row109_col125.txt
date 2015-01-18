@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FD4
+Starts with: GANG
+
+This is NOT a word with property MAZGHUNA.

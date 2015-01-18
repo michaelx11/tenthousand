@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2
+Sum of letters (A=1, B=2, etc): 129

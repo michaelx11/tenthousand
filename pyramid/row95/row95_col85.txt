@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Has property HAWARA: YES
+Has property KHUI: YES
+Most common vowel(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 172 and 308 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,2 @@
+Letters located in the top row on a QWERTY keyboard: between 35.2% and 35.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 113

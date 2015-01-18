@@ -1,0 +1,6 @@
+Base Scrabble score: 6 points
+Distinct vowels: 3
+Length: 5 letters
+Starts with: AN
+
+This is a word with property MERENRE.

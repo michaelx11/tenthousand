@@ -1,0 +1,4 @@
+Contains: TS
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 83.3% and 83.4% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 30.7% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B5

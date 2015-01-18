@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: TRO
+Sum of letters (A=1, B=2, etc): between 98 and 108 (inclusive)
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

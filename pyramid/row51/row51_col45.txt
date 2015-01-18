@@ -1,0 +1,5 @@
+Base Scrabble score: 21 points
+Contains: CHE
+Sum of letters (A=1, B=2, etc): 146
+
+This is a word with property DJOSER.

@@ -1,0 +1,7 @@
+Contains: EE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 95.0% and 100.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 52 and 64 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

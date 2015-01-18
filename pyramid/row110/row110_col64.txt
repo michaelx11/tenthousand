@@ -1,0 +1,3 @@
+Contains at least one doubled letter: NO
+Sum of letters (A=1, B=2, etc): 113
+Vowels: between 18.7% and 20.0% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: M
+Distinct letters: 6
+Has at least one anagram that is also in the word list: YES
+Most common letter(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A

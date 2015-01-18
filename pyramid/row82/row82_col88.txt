@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Starts with: M
+Vowels: between 35.2% and 37.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

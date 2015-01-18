@@ -1,0 +1,3 @@
+Contains: MO
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F4
+Vowels: exactly 25.0% of the letters

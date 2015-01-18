@@ -1,0 +1,5 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 90.0% of the letters
+Starts with: BI
+Sum of letters (A=1, B=2, etc): 84
+
+This is NOT a word with property AMENYQEMAU.

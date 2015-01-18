@@ -1,0 +1,5 @@
+Has property MAZGHUNA: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 8 letters
+Letters located in the bottom row on a QWERTY keyboard: between 27.2% and 27.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 113
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

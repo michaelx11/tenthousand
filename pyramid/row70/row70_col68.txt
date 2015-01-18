@@ -1,0 +1,4 @@
+Has property SETHKA: YES
+Letters located in the top row on a QWERTY keyboard: between 58.3% and 60.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 143
+Vowels: exactly 30.0% of the letters

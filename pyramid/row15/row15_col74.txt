@@ -1,0 +1,5 @@
+Contains: CIO
+Most common vowel(s) each account(s) for: between 23.0% and 23.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 5
+
+This is a word with property UNAS.

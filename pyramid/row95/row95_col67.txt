@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Distinct vowels: 2
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1C
+Sum of letters (A=1, B=2, etc): 71
+Vowels: exactly 37.5% of the letters

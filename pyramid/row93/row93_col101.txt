@@ -1,0 +1,5 @@
+Contains: ROT
+Distinct vowels: between 0 and 1 (inclusive)
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5

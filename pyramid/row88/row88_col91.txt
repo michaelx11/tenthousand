@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Has at least one anagram that is also in the word list: YES
+Sum of letters (A=1, B=2, etc): between 90 and 98 (inclusive)
+Vowels: between 39.2% and 40.0% (inclusive) of the letters

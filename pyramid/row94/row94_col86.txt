@@ -1,0 +1,6 @@
+Base Scrabble score: between 22 and 25 (inclusive) points
+Distinct consonants: 6
+Length: 12 letters
+Most common letter(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc): between 163 and 166 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

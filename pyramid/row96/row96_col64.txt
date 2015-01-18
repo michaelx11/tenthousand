@@ -1,0 +1,6 @@
+Base Scrabble score: 7 points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 0 and 4 (inclusive) letters
+Sum of letters (A=1, B=2, etc): 97
+Vowels: between 41.1% and 42.9% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

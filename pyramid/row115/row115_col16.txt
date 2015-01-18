@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc): between 72 and 86 (inclusive)
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

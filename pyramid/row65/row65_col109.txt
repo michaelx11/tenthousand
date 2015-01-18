@@ -1,0 +1,4 @@
+Has property KHUI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 2 and 3 (inclusive) letters
+Sum of letters (A=1, B=2, etc): 64
+Vowels: exactly 60.0% of the letters

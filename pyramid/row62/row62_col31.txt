@@ -1,0 +1,2 @@
+Most common letter(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: CD6E

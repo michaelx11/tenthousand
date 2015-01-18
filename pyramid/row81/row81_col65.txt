@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Distinct consonants: 7
+Ends with: R
+Vowels: between 26.3% and 29.5% (inclusive) of the letters

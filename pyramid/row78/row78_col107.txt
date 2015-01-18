@@ -1,0 +1,3 @@
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 20.0% (inclusive) of the letters
+Starts with: CIRC
+Sum of letters (A=1, B=2, etc): between 56 and 106 (inclusive)

@@ -1,0 +1,5 @@
+Base Scrabble score: 8 points
+Contains: U
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 61.5% and 62.5% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 116 and 120 (inclusive)

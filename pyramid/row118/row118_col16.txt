@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Length: between 9 and 10 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 114
+Sum of letters (A=1, B=2, etc): between 96 and 99 (inclusive)

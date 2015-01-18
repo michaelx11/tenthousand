@@ -1,0 +1,4 @@
+Starts with: MONK
+Sum of letters (A=1, B=2, etc): 92
+
+This is NOT a word with property PEPI.

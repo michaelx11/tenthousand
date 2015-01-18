@@ -1,0 +1,6 @@
+Base Scrabble score: 23 points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 10 letters
+Most common letter(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+Starts with a vowel: NO

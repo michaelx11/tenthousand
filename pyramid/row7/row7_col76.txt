@@ -1,0 +1,7 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 71 and 76 (inclusive)
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

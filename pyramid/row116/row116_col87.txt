@@ -1,0 +1,6 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 94.1% and 100.0% (inclusive) of the letters
+Length: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9C
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Vowels: 4

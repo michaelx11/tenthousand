@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Length: between 2 and 8 (inclusive) letters
+Most common letter(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 48
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

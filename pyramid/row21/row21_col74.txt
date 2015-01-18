@@ -1,0 +1,4 @@
+Ends with: H
+Letters located in the middle row on a QWERTY keyboard: between 35.2% and 37.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Sum of letters (A=1, B=2, etc): 85

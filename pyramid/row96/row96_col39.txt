@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: M
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 4 and 10 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 15.7% and 20.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 154 and 161 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,4 @@
+Contains: FOR
+Length: between 11 and 12 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A46
+Vowels: 3

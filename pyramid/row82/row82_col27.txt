@@ -1,0 +1,4 @@
+Letters located in the bottom row on a QWERTY keyboard: between 29.4% and 30.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 155
+
+This is a word with property AMENYQEMAU.

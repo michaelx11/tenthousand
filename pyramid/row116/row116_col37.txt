@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Contains: NT
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 22.2% and 22.3% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc): between 110 and 136 (inclusive)

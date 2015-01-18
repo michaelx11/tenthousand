@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: AN
+Has at least one anagram that is also in the word list: YES
+Most common letter(s) each account(s) for: between 11.1% and 12.5% (inclusive) of the letters
+Vowels: between 30.0% and 33.4% (inclusive) of the letters

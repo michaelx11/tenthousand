@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6A
+Sum of letters (A=1, B=2, etc): between 106 and 109 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

@@ -1,0 +1,5 @@
+Contains: TRA
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 68.4% and 70.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 107 and 112 (inclusive)

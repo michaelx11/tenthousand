@@ -1,0 +1,7 @@
+Base Scrabble score: 16 points
+Distinct letters: 8
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 94.7% and 100.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+
+This is a word with property KHUI.

@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains: LET
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 61.5% and 62.5% (inclusive) of the letters
+
+This is a word with property PEPI.

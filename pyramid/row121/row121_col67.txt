@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Letters located in the bottom row on a QWERTY keyboard: between 8.3% and 8.4% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 167 and 168 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is NOT a word with property UNAS.

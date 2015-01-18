@@ -1,0 +1,5 @@
+Contains: U
+Distinct letters: 7
+Most common consonant(s) each account(s) for: between 19.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B23
+Vowels: 3

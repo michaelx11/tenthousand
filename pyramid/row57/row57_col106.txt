@@ -1,0 +1,4 @@
+Base Scrabble score: 10 points
+Contains: CU
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C
+Vowels: 2

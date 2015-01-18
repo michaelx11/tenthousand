@@ -1,0 +1,9 @@
+Base Scrabble score: 17 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Has property KHUI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 6 letters
+Length: 10 letters
+Letters located in the top row on a QWERTY keyboard: 4
+Most common vowel(s) each appear(s): 1 time

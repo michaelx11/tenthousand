@@ -1,0 +1,5 @@
+Distinct vowels: 3
+Length: 6 letters
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+Sum of letters (A=1, B=2, etc): 60

@@ -1,0 +1,7 @@
+Some statements that uniquely identify PRECHILLING:
+
+Contains: HIL
+Length: 11 letters
+Most common letter(s) each appear(s): 2 times
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

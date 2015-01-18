@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Contains: ER
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 90
+Vowels: between 5 and 12 (inclusive)

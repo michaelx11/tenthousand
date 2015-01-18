@@ -1,0 +1,6 @@
+Base Scrabble score: between 16 and 49 (inclusive) points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 25.0% of the letters
+Letters located in the top row on a QWERTY keyboard: exactly 37.5% of the letters
+Sum of letters (A=1, B=2, etc): 92
+
+This is NOT a word with property SETHKA.

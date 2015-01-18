@@ -1,0 +1,7 @@
+Base Scrabble score: 13 points
+Contains: DUC
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 20.0% (inclusive) of the letters
+Most common consonant(s) each account(s) for: exactly 10.0% of the letters
+Starts with a vowel: NO
+
+This is NOT a word with property AMENEMHAT.

@@ -1,0 +1,6 @@
+Base Scrabble score: 9 points
+Contains: NES
+Has at least one anagram that is also in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: between 38.0% and 41.2% (inclusive) of the letters
+
+This is NOT a word with property NURI.

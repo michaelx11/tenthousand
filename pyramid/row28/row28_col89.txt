@@ -1,0 +1,3 @@
+Contains at least one doubled letter: YES
+Ends with: RM
+Length: 6 letters

@@ -1,0 +1,4 @@
+Base Scrabble score: between 12 and 14 (inclusive) points
+Contains: GRA
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 5

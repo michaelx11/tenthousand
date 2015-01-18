@@ -1,0 +1,6 @@
+Base Scrabble score: between 11 and 14 (inclusive) points
+Contains: BL
+Letters located in the top row on a QWERTY keyboard: 3
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 3 and 64 (inclusive)
+Vowels: between 42.8% and 42.9% (inclusive) of the letters

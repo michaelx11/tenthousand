@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Length: 11 letters
+Letters located in the middle row on a QWERTY keyboard: 5
+Starts with: U

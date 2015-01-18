@@ -1,0 +1,5 @@
+Contains: ABL
+Distinct consonants: between 6 and 11 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 11 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

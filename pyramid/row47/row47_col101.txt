@@ -1,0 +1,7 @@
+Base Scrabble score: 14 points
+Distinct consonants: 5
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 8 and 23 (inclusive) letters
+Length: 12 letters
+Letters located in the bottom row on a QWERTY keyboard: between 23.0% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 5
+Sum of letters (A=1, B=2, etc): between 150 and 308 (inclusive)

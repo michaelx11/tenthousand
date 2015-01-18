@@ -1,0 +1,5 @@
+Base Scrabble score: 17 points
+Contains: C
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 8
+Vowels: between 36.3% and 36.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

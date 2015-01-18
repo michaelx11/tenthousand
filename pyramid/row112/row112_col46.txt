@@ -1,0 +1,5 @@
+Base Scrabble score: 22 points
+Length: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 115 and 118 (inclusive)

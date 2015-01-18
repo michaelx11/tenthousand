@@ -1,0 +1,11 @@
+Base Scrabble score: between 12 and 16 (inclusive) points
+Contains: S
+Distinct consonants: 4
+Distinct letters: 5
+Has at least one anagram that is also in the word list: NO
+Most common vowel(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

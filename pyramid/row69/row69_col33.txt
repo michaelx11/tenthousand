@@ -1,0 +1,5 @@
+Base Scrabble score: 20 points
+Contains at least one doubled letter: YES
+Contains: E
+Distinct consonants: 3
+Most common vowel(s) each appear(s): between 3 and 7 (inclusive) times

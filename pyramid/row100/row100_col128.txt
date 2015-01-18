@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct vowels: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 973
+Starts with a vowel: NO
+Vowels: 4

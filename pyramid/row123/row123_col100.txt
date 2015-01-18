@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Contains: UT
+Distinct letters: between 1 and 6 (inclusive)
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 132 and 137 (inclusive)

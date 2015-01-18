@@ -1,0 +1,5 @@
+Base Scrabble score: between 15 and 16 (inclusive) points
+Distinct consonants: between 6 and 8 (inclusive)
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A31
+Vowels: between 29.4% and 31.3% (inclusive) of the letters

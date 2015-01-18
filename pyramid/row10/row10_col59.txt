@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Distinct letters: 7
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Most common vowel(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

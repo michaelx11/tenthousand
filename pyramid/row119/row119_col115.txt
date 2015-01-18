@@ -1,0 +1,2 @@
+Base Scrabble score: 37 points
+Letters located in the top row on a QWERTY keyboard: between 41.1% and 41.7% (inclusive) of the letters

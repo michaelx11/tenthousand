@@ -1,0 +1,8 @@
+Base Scrabble score: 11 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: between 2 and 3 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

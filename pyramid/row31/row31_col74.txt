@@ -1,0 +1,5 @@
+Ends with: OG
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 25.0% and 26.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 109
+
+This is NOT a word with property UNAS.

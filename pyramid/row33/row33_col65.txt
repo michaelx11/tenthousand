@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Contains: L
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0A
+Sum of letters (A=1, B=2, etc): 59

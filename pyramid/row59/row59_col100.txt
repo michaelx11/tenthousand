@@ -1,0 +1,9 @@
+Base Scrabble score: between 15 and 18 (inclusive) points
+Most common letter(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 00
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 126 and 308 (inclusive)
+Vowels: between 47.3% and 50.0% (inclusive) of the letters
+
+This is NOT a word with property UNAS.

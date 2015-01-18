@@ -1,0 +1,5 @@
+Base Scrabble score: 4 points
+Can be Caesar shifted to produce another word in the word list: YES
+Distinct consonants: 3
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1

@@ -1,0 +1,8 @@
+Base Scrabble score: between 8 and 11 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: I
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E8
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO
+
+This is NOT a word with property DJOSER.

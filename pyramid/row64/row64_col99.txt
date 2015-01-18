@@ -1,0 +1,4 @@
+Base Scrabble score: between 2 and 6 (inclusive) points
+Has property SOBEKNEFERU: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 50.0% of the letters
+Sum of letters (A=1, B=2, etc): 92

@@ -1,0 +1,4 @@
+Base Scrabble score: between 19 and 26 (inclusive) points
+Has property AMENYQEMAU: YES
+Has property PEPI: YES
+Sum of letters (A=1, B=2, etc): 108

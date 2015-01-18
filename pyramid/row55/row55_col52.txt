@@ -1,0 +1,5 @@
+Base Scrabble score: 30 points
+Letters located in the top row on a QWERTY keyboard: 6
+Sum of letters (A=1, B=2, etc): 106
+
+This is a word with property ABUSIR.

@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Contains: IN
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 88.2% and 88.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Most common letter(s) each appear(s): 1 time
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

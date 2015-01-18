@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 45 and 46 (inclusive)
+Vowels: 4

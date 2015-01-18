@@ -1,0 +1,4 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 65.0% and 66.7% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 33.3% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Sum of letters (A=1, B=2, etc): 104

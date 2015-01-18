@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Ends with: L
+Has at least one anagram that is also in the word list: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 084
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

@@ -1,0 +1,5 @@
+Can be Caesar shifted to produce another word in the word list: NO
+Contains: Y
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A47
+Sum of letters (A=1, B=2, etc): between 55 and 64 (inclusive)

@@ -1,0 +1,7 @@
+Base Scrabble score: between 17 and 21 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: SI
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 2 and 4 (inclusive) letters
+Most common letter(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+
+This word is associated with the color DJEDEFRE.

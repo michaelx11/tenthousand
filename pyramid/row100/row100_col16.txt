@@ -1,0 +1,4 @@
+Base Scrabble score: 28 points
+Distinct vowels: 2
+Has property PEPI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters

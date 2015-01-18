@@ -1,0 +1,8 @@
+Base Scrabble score: 15 points
+Contains: R
+Distinct letters: 7
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 73.6% and 75.0% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Sum of letters (A=1, B=2, etc): between 115 and 120 (inclusive)
+
+This is NOT a word with property ABUSIR.

@@ -1,0 +1,7 @@
+Distinct consonants: 3
+Ends with: AS
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

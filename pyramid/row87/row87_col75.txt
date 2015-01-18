@@ -1,0 +1,6 @@
+Base Scrabble score: between 3 and 7 (inclusive) points
+Contains: HI
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 95.4% and 100.0% (inclusive) of the letters
+Vowels: between 33.3% and 33.4% (inclusive) of the letters
+
+This is a word with property MENKAURE.

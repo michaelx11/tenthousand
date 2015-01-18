@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Distinct letters: 7
+Ends with: LS
+Length: 7 letters
+Sum of letters (A=1, B=2, etc): between 89 and 94 (inclusive)

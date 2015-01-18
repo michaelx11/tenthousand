@@ -1,0 +1,5 @@
+Base Scrabble score: between 26 and 29 (inclusive) points
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+
+This is a word with property DJOSER.

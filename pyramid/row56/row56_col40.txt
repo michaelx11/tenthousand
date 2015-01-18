@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains: IND
+Distinct letters: 7
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Starts with a vowel: YES

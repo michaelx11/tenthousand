@@ -1,0 +1,4 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: UN
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 5E

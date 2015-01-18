@@ -1,0 +1,5 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+Contains: AS
+Has property QAKAREIBI: YES
+Has property SETHKA: YES
+Most common letter(s) each account(s) for: between 18.1% and 18.2% (inclusive) of the letters

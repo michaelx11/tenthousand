@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Letters located in the top row on a QWERTY keyboard: 3
+Most common vowel(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): 135
+
+This is a word with property AMENYQEMAU.

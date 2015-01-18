@@ -1,0 +1,10 @@
+Base Scrabble score: between 8 and 13 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: D
+Most common vowel(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 33
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Vowels: between 4 and 6 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

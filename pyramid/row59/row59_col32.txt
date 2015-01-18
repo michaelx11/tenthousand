@@ -1,0 +1,6 @@
+Contains: O
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 032
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 97 and 102 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

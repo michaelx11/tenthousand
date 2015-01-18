@@ -1,0 +1,6 @@
+Length: between 3 and 4 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 7
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: between 62.5% and 100.0% (inclusive) of the letters

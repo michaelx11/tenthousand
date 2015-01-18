@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A23
+Vowels: exactly 25.0% of the letters

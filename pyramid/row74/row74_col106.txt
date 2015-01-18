@@ -1,0 +1,3 @@
+Contains: NFI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 10 letters
+Most common consonant(s) each account(s) for: between 5.5% and 8.4% (inclusive) of the letters

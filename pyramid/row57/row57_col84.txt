@@ -1,0 +1,5 @@
+Base Scrabble score: 6 points
+Length: 2 letters
+Most common vowel(s) each account(s) for: exactly 50.0% of the letters
+
+This is a word with property NURI.

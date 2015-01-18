@@ -1,0 +1,2 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B7A8

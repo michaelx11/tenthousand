@@ -1,0 +1,4 @@
+Distinct consonants: 6
+Letters located in the top row on a QWERTY keyboard: between 47.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 630
+Sum of letters (A=1, B=2, etc): 114

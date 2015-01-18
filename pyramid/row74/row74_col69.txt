@@ -1,0 +1,8 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: NO
+Contains: D
+Distinct consonants: 6
+Length: 9 letters
+Letters located in the middle row on a QWERTY keyboard: 5
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

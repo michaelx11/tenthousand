@@ -1,0 +1,5 @@
+Base Scrabble score: 17 points
+Letters located in the bottom row on a QWERTY keyboard: exactly 10.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FAA
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

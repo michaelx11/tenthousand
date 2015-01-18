@@ -1,0 +1,2 @@
+Contains: P
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: FC66

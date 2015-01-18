@@ -1,0 +1,2 @@
+Length: between 2 and 6 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 70B8

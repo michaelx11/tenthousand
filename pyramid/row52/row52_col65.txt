@@ -1,0 +1,6 @@
+Contains at least one doubled letter: NO
+Contains: GS
+Letters located in the middle row on a QWERTY keyboard: exactly 25.0% of the letters
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

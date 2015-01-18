@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Has property SETHKA: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A31
+Sum of letters (A=1, B=2, etc): between 96 and 109 (inclusive)
+Vowels: between 4 and 6 (inclusive)

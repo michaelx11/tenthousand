@@ -1,0 +1,5 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 56.2% and 58.9% (inclusive) of the letters
+Most common letter(s) each appear(s): between 4 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

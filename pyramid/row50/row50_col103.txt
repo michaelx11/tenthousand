@@ -1,0 +1,4 @@
+Base Scrabble score: 22 points
+Distinct vowels: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Vowels: between 18.7% and 25.0% (inclusive) of the letters

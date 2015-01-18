@@ -1,0 +1,4 @@
+Base Scrabble score: 25 points
+Contains: PI
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D1C
+Sum of letters (A=1, B=2, etc): between 152 and 213 (inclusive)

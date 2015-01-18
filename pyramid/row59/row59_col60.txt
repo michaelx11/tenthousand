@@ -1,0 +1,4 @@
+Contains: RAB
+Most common vowel(s) each appear(s): between 2 and 3 (inclusive) times
+Sum of letters (A=1, B=2, etc): between 99 and 101 (inclusive)
+Vowels: 5

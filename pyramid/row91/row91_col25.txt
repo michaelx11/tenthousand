@@ -1,0 +1,5 @@
+Base Scrabble score: 18 points
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 86
+
+This is NOT a word with property MAZGHUNA.

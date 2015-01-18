@@ -1,0 +1,7 @@
+Base Scrabble score: between 18 and 22 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: LY
+Distinct consonants: 6
+Length: 11 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Starts with a vowel: NO

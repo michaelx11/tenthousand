@@ -1,0 +1,5 @@
+Contains: AL
+Letters located in the middle row on a QWERTY keyboard: between 30.0% and 33.4% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 128
+Vowels: between 5 and 6 (inclusive)

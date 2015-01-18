@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Letters located in the middle row on a QWERTY keyboard: between 52.6% and 61.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BD3
+Vowels: between 38.4% and 40.0% (inclusive) of the letters

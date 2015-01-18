@@ -1,0 +1,8 @@
+Base Scrabble score: 9 points
+Distinct vowels: 2
+Ends with: ED
+Length: 7 letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

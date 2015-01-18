@@ -1,0 +1,5 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 0 and 4 (inclusive) letters
+Most common consonant(s) each account(s) for: exactly 10.0% of the letters
+Starts with: EXCU
+
+This is a word with property ABUSIR.

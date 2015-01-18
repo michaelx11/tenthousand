@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: BB8
+Vowels: between 44.4% and 44.5% (inclusive) of the letters
+
+This is a word with property MERENRE.

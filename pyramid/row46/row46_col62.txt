@@ -1,0 +1,6 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B1
+Sum of letters (A=1, B=2, etc): between 129 and 136 (inclusive)
+Vowels: between 36.3% and 36.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

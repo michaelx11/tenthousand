@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 149 and 151 (inclusive)
+Vowels: between 30.7% and 33.4% (inclusive) of the letters

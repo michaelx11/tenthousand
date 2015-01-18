@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Letters located in the top row on a QWERTY keyboard: 6
+Starts with: FLU
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

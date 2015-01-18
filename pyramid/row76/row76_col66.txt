@@ -1,0 +1,4 @@
+Distinct vowels: 3
+Has property AMENYQEMAU: YES
+Starts with: DIS
+Sum of letters (A=1, B=2, etc): 81

@@ -1,0 +1,3 @@
+Contains: NGR
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 18.2% (inclusive) of the letters
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

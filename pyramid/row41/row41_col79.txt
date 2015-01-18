@@ -1,0 +1,5 @@
+Base Scrabble score: 17 points
+Contains: W
+Has property BIKHERIS: YES
+Length: 8 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

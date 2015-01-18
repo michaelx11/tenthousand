@@ -1,0 +1,8 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Contains: G
+Has at least one anagram that is also in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 61.5% and 62.5% (inclusive) of the letters
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 97 and 98 (inclusive)

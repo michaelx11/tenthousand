@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: TRO
+Most common letter(s) each account(s) for: between 21.0% and 23.6% (inclusive) of the letters
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

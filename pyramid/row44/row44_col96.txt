@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Contains at least one doubled letter: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 96
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

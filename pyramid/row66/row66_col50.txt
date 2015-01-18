@@ -1,0 +1,9 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct letters: 6
+Has at least one anagram that is also in the word list: NO
+Has property MAZGHUNA: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 5 and 9 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 9
+Sum of letters (A=1, B=2, etc): between 51 and 83 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

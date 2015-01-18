@@ -1,0 +1,7 @@
+Base Scrabble score: 17 points
+Letters located in the bottom row on a QWERTY keyboard: 3
+Most common consonant(s) each account(s) for: between 18.1% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 323
+Vowels: between 45.4% and 45.5% (inclusive) of the letters
+
+This is NOT a word with property DJOSER.

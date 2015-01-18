@@ -1,0 +1,5 @@
+Base Scrabble score: 23 points
+Letters located in the middle row on a QWERTY keyboard: between 10.5% and 11.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 124
+
+This is a word with property MERENRE.

@@ -1,0 +1,4 @@
+Contains: U
+Length: 8 letters
+Letters located in the middle row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E07

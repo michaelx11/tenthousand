@@ -1,0 +1,5 @@
+Contains: G
+Distinct letters: 6
+Letters located in the top row on a QWERTY keyboard: between 22.2% and 25.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 82
+Vowels: exactly 37.5% of the letters

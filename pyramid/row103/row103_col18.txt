@@ -1,0 +1,7 @@
+Contains: GAR
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 63.6% and 66.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 45 and 50 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This word is associated with the color SAHURE.

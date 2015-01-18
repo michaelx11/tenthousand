@@ -1,0 +1,7 @@
+Base Scrabble score: between 10 and 12 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Distinct letters: 6
+Letters located in the top row on a QWERTY keyboard: between 64.7% and 66.7% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

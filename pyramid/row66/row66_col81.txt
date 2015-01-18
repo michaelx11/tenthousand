@@ -1,0 +1,4 @@
+Base Scrabble score: 8 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 0 and 4 (inclusive) letters
+Most common letter(s) each account(s) for: between 42.8% and 42.9% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 81

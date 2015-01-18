@@ -1,0 +1,4 @@
+Contains: O
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Letters located in the middle row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 6D1

@@ -1,0 +1,6 @@
+Distinct letters: 9
+Ends with: S
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 28
+Sum of letters (A=1, B=2, etc): between 124 and 137 (inclusive)
+Vowels: between 35.2% and 36.4% (inclusive) of the letters

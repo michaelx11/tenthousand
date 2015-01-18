@@ -1,0 +1,5 @@
+Distinct consonants: between 1 and 4 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 6 and 7 (inclusive) letters
+Length: between 11 and 12 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 6
+Vowels: between 21.4% and 27.8% (inclusive) of the letters

@@ -1,0 +1,4 @@
+Contains: RA
+Distinct vowels: between 4 and 6 (inclusive)
+Letters located in the top row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D6

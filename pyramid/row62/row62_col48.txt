@@ -1,0 +1,5 @@
+Contains: TT
+Most common consonant(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+Vowels: between 4 and 6 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

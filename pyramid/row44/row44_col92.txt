@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Most common consonant(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 96 and 100 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

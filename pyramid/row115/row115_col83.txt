@@ -1,0 +1,3 @@
+Contains: ESS
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D96
+Sum of letters (A=1, B=2, etc): between 105 and 106 (inclusive)

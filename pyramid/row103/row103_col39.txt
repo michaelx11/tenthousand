@@ -1,0 +1,3 @@
+Base Scrabble score: 7 points
+Has property KHUI: YES
+Starts with: TOIL

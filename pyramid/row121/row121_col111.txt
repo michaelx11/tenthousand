@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 42.8% and 44.5% (inclusive) of the letters
+Length: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 7D

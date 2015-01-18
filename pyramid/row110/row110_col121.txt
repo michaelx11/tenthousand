@@ -1,0 +1,4 @@
+Letters located in the bottom row on a QWERTY keyboard: between 4 and 8 (inclusive)
+Starts with: BR
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 89 and 93 (inclusive)

@@ -1,0 +1,9 @@
+Contains at least one doubled letter: YES
+Contains: TI
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 3 and 6 (inclusive) letters
+Most common letter(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 79 and 87 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

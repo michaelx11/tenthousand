@@ -1,0 +1,8 @@
+Base Scrabble score: 9 points
+Contains: RE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 4 and 6 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 18.7% and 20.0% (inclusive) of the letters
+
+This is a word with property SETHKA.
+This is NOT a word with property SOBEKNEFERU.

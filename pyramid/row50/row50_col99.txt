@@ -1,0 +1,3 @@
+Contains: SEV
+Distinct letters: 7
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6

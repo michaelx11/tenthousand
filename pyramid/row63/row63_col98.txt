@@ -1,0 +1,6 @@
+Can be Caesar shifted to produce another word in the word list: YES
+Contains: U
+Has property SOBEKNEFERU: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

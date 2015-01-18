@@ -1,0 +1,5 @@
+Base Scrabble score: between 24 and 29 (inclusive) points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 40.0% of the letters
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

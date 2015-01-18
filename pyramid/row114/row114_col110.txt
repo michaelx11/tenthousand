@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Distinct consonants: between 6 and 7 (inclusive)
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CE0
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

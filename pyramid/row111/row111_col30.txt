@@ -1,0 +1,5 @@
+Contains: ABL
+Has at least one anagram that is also in the word list: YES
+Most common letter(s) each account(s) for: between 12.5% and 14.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 67 and 72 (inclusive)
+Vowels: between 42.8% and 42.9% (inclusive) of the letters

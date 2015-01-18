@@ -1,0 +1,7 @@
+Base Scrabble score: between 19 and 48 (inclusive) points
+Contains at least one doubled letter: YES
+Distinct vowels: 3
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 33
+Starts with a vowel: NO
+Vowels: between 41.1% and 41.7% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 6 and 10 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 30.7% and 33.4% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 33.3% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Sum of letters (A=1, B=2, etc): between 71 and 83 (inclusive)

@@ -1,0 +1,4 @@
+Contains: NES
+Most common vowel(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 8F
+Vowels: 3

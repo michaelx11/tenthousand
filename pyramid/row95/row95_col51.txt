@@ -1,0 +1,4 @@
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B16
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,6 @@
+Contains: UN
+Distinct consonants: 6
+Length: between 12 and 13 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

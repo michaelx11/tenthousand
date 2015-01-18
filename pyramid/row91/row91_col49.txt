@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Contains: L
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AAE
+Sum of letters (A=1, B=2, etc): between 76 and 77 (inclusive)
+
+This is a word with property MEIDUM.

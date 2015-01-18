@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+Starts with: R
+Sum of letters (A=1, B=2, etc): 44
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

@@ -1,0 +1,2 @@
+Base Scrabble score: 18 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 399E

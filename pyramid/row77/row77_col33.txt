@@ -1,0 +1,8 @@
+Base Scrabble score: between 22 and 31 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: ER
+Distinct vowels: 3
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+Vowels: between 5 and 12 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

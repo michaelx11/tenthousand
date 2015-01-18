@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 5 and 8 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 47.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A1
+Starts with: INFL

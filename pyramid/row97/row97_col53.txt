@@ -1,0 +1,2 @@
+Letters located in the top row on a QWERTY keyboard: between 38.8% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8281

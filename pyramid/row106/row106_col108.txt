@@ -1,0 +1,4 @@
+Ends with: OVES
+Sum of letters (A=1, B=2, etc): between 101 and 102 (inclusive)
+
+This is NOT a word with property NEFEREFRE.

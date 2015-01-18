@@ -1,0 +1,3 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 6 and 19 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 67DD
+Sum of letters (A=1, B=2, etc): between 77 and 82 (inclusive)

@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: NO
+Contains: VA
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 8 and 12 (inclusive) letters
+Most common letter(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: TI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 94.7% and 100.0% (inclusive) of the letters
+Vowels: between 43.7% and 45.0% (inclusive) of the letters

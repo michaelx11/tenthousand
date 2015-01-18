@@ -1,0 +1,8 @@
+Distinct letters: 9
+Ends with: ING
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 67
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 99 and 108 (inclusive)
+Vowels: between 4 and 8 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

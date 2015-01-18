@@ -1,0 +1,6 @@
+Base Scrabble score: between 19 and 29 (inclusive) points
+Contains at least one doubled letter: NO
+Distinct vowels: 1
+Has property KHUI: YES
+Letters located in the middle row on a QWERTY keyboard: between 55.5% and 55.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1

@@ -1,0 +1,3 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+Most common letter(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CCF3

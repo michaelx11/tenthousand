@@ -1,0 +1,3 @@
+Base Scrabble score: 16 points
+Contains: YP
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 5E

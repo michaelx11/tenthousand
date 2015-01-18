@@ -1,0 +1,4 @@
+Contains: PI
+Letters located in the top row on a QWERTY keyboard: between 55.5% and 55.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 323
+Sum of letters (A=1, B=2, etc): between 119 and 121 (inclusive)

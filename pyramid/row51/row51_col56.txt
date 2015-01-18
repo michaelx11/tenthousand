@@ -1,0 +1,8 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 6 letters
+Letters located in the middle row on a QWERTY keyboard: between 57.1% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This word is associated with the color MERIKARE.

@@ -1,0 +1,5 @@
+Distinct vowels: between 0 and 1 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 57.1% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 266
+
+This is a word with property MEIDUM.

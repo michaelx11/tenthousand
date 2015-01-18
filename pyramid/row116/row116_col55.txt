@@ -1,0 +1,5 @@
+Contains: WA
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): between 107 and 116 (inclusive)
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

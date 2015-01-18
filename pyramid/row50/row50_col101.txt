@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Most common vowel(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F0
+Sum of letters (A=1, B=2, etc): 70
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

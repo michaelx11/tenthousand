@@ -1,0 +1,2 @@
+Ends with: LE
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 9C0E

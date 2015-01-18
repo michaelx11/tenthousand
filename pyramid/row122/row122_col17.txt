@@ -1,0 +1,3 @@
+Base Scrabble score: between 21 and 49 (inclusive) points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 20.0% of the letters
+Starts with: EXTR

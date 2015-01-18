@@ -1,0 +1,5 @@
+Contains: LE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 71.4% and 71.5% (inclusive) of the letters
+Most common consonant(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): 94
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

@@ -1,0 +1,3 @@
+Base Scrabble score: 12 points
+Contains: OG
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 4DC

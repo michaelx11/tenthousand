@@ -1,0 +1,4 @@
+Contains: ESS
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6A
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

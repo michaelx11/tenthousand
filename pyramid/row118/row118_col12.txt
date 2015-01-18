@@ -1,0 +1,8 @@
+Contains: U
+Distinct letters: between 1 and 4 (inclusive)
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This is NOT a word with property DJOSER.

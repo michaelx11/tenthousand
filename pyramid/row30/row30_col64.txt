@@ -1,0 +1,12 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 88.8% and 88.9% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+
+This is NOT a word with property PEPI.

@@ -1,0 +1,5 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 80.0% of the letters
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 26.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 153
+
+This is a word with property AMENEMHAT.

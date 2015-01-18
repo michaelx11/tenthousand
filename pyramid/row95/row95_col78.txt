@@ -1,0 +1,3 @@
+Distinct consonants: between 6 and 7 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 82A6
+Vowels: between 41.6% and 41.7% (inclusive) of the letters

@@ -1,0 +1,2 @@
+Letters located in the middle row on a QWERTY keyboard: exactly 30.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E4A9

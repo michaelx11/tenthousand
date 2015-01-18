@@ -1,0 +1,3 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 54.5% and 54.6% (inclusive) of the letters
+Starts with: EFFE
+Vowels: between 5 and 8 (inclusive)

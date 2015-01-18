@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Starts with: COR
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

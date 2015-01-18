@@ -1,0 +1,6 @@
+Base Scrabble score: between 18 and 22 (inclusive) points
+Contains: CA
+Letters located in the middle row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C79
+
+This is NOT a word with property ABUSIR.

@@ -1,0 +1,8 @@
+Base Scrabble score: between 21 and 48 (inclusive) points
+Contains: C
+Distinct letters: between 9 and 10 (inclusive)
+Letters located in the middle row on a QWERTY keyboard: between 4 and 12 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 808
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES

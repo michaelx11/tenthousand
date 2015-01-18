@@ -1,0 +1,7 @@
+Base Scrabble score: between 9 and 13 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: FI
+Letters located in the top row on a QWERTY keyboard: 3
+Most common letter(s) each account(s) for: between 26.6% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

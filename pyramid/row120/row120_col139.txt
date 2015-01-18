@@ -1,0 +1,2 @@
+Starts with: WAST
+Sum of letters (A=1, B=2, etc): 76

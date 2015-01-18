@@ -1,0 +1,6 @@
+Base Scrabble score: 16 points
+Contains at least one doubled letter: NO
+Contains: S
+Most common vowel(s) each appear(s): between 3 and 5 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 1
+Vowels: 4

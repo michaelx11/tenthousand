@@ -1,0 +1,4 @@
+Base Scrabble score: between 20 and 49 (inclusive) points
+Contains: VE
+Length: 11 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D27

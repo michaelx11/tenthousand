@@ -1,0 +1,8 @@
+Contains: M
+Distinct letters: 6
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 83
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+
+This is a word with property NURI.

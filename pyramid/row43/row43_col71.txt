@@ -1,0 +1,7 @@
+Base Scrabble score: 18 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: T
+Distinct consonants: 5
+Most common letter(s) each account(s) for: between 23.5% and 26.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: DD
+Vowels: 2

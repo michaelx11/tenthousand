@@ -1,0 +1,5 @@
+Contains: NI
+Distinct letters: between 2 and 4 (inclusive)
+Has property SOBEKNEFERU: YES
+Letters located in the top row on a QWERTY keyboard: between 0 and 2 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

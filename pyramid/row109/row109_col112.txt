@@ -1,0 +1,4 @@
+Contains: RS
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 8 and 9 (inclusive) letters
+Most common vowel(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BBC

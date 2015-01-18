@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Contains: OW
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Sum of letters (A=1, B=2, etc): 122

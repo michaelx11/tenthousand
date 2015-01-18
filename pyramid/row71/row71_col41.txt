@@ -1,0 +1,5 @@
+Has property MAZGHUNA: YES
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 1A
+Vowels: between 36.8% and 38.1% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

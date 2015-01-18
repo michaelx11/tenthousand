@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Contains at least one doubled letter: YES
+Contains: OL
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 12 letters

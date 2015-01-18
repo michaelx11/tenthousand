@@ -1,0 +1,6 @@
+Contains: RE
+Has property KHUI: YES
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 3 and 12 (inclusive)
+Most common vowel(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): between 125 and 126 (inclusive)

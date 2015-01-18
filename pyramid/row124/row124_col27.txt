@@ -1,0 +1,10 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+Contains at least one doubled letter: NO
+Distinct vowels: 4
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 92.3% and 92.4% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 3 and 4 (inclusive)
+Most common consonant(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+
+This is a word with property PEPI.

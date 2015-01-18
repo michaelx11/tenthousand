@@ -1,0 +1,4 @@
+Distinct vowels: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 005
+
+This is a word with property UNAS.

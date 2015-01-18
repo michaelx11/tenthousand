@@ -1,0 +1,6 @@
+Ends with: IC
+Length: 5 letters
+Letters located in the top row on a QWERTY keyboard: between 75.0% and 90.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 47 and 56 (inclusive)
+
+This is NOT a word with property BIKHERIS.

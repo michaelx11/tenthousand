@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Contains at least two nonoverlapping occurrences of the same doubled letter: YES
+Has property MEIDUM: YES
+Has property QAKAREIBI: YES

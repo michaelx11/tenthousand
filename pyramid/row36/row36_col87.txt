@@ -1,0 +1,2 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 76.9% and 77.8% (inclusive) of the letters
+Starts with: SPIR

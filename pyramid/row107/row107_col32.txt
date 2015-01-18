@@ -1,0 +1,4 @@
+Contains: DLY
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E5F1
+
+This is NOT a word with property BIKHERIS.

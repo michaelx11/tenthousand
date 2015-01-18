@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+Has property MAZGHUNA: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 63

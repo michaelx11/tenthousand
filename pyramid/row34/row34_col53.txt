@@ -1,0 +1,4 @@
+Base Scrabble score: between 22 and 27 (inclusive) points
+Letters located in the top row on a QWERTY keyboard: exactly 12.5% of the letters
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5

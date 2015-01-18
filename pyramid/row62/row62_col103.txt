@@ -1,0 +1,5 @@
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 435
+Starts with: R
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 3 and 72 (inclusive)

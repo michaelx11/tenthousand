@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Distinct vowels: 2
+Letters located in the top row on a QWERTY keyboard: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 38
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

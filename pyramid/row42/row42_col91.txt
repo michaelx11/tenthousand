@@ -1,0 +1,7 @@
+Contains: NTS
+Distinct vowels: 2
+Has at least one anagram that is also in the word list: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Vowels: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

@@ -1,0 +1,5 @@
+Contains: IS
+Has at least one anagram that is also in the word list: YES
+Most common letter(s) each account(s) for: between 40.0% and 42.9% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,7 @@
+Contains: NA
+Distinct consonants: 3
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 5 letters
+Letters located in the middle row on a QWERTY keyboard: between 15.7% and 16.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES
+
+This is NOT a word with property MAZGHUNA.

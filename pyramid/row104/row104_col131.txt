@@ -1,0 +1,3 @@
+Ends with: AC
+Letters located in the middle row on a QWERTY keyboard: between 16.6% and 16.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

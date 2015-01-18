@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Contains: VA
+Vowels: 1
+
+This is NOT a word with property MENKAURE.

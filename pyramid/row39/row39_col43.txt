@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Ends with: Y
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 9E2
+Sum of letters (A=1, B=2, etc): between 101 and 104 (inclusive)

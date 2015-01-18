@@ -1,0 +1,4 @@
+Contains: MEN
+Length: between 10 and 11 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 3
+Sum of letters (A=1, B=2, etc): between 160 and 308 (inclusive)

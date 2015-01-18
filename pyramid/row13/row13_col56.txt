@@ -1,0 +1,2 @@
+Contains: LE
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 861E

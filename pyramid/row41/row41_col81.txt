@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: IE
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 2 and 6 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 55.0% and 56.3% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO

@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Ends with: D
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 88.2% and 88.9% (inclusive) of the letters
+Most common vowel(s) each appear(s): between 1 and 2 (inclusive) times
+Sum of letters (A=1, B=2, etc): 77
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

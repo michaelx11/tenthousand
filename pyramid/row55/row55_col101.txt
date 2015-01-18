@@ -1,0 +1,7 @@
+Base Scrabble score: 20 points
+Ends with: L
+Letters located in the top row on a QWERTY keyboard: between 36.3% and 36.4% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 18.1% and 18.2% (inclusive) of the letters
+
+This is NOT a word with property PEPI.
+This is a word with property AMENEMHAT.

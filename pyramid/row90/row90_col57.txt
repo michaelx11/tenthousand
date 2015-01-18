@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: AEA0
+Vowels: exactly 25.0% of the letters
+
+This is a word with property MENKAURE.

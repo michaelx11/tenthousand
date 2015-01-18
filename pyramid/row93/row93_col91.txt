@@ -1,0 +1,8 @@
+Base Scrabble score: between 10 and 18 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: P
+Has at least one anagram that is also in the word list: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Starts with a vowel: NO
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

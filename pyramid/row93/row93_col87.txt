@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Contains: SH
+Distinct vowels: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F
+Sum of letters (A=1, B=2, etc): between 105 and 114 (inclusive)

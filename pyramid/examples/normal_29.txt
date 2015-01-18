@@ -1,0 +1,10 @@
+Some statements that uniquely identify DISARM:
+
+Base Scrabble score: 9 points
+Letters located in the top row on a QWERTY keyboard: between 0 and 2 (inclusive)
+Starts with: DI
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

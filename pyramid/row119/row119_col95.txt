@@ -1,0 +1,5 @@
+Contains: C
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 93.3% and 100.0% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 35.7% and 37.5% (inclusive) of the letters
+Vowels: between 18.7% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

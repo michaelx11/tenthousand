@@ -1,0 +1,4 @@
+Base Scrabble score: 17 points
+Most common vowel(s) each appear(s): between 1 and 2 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 97
+Vowels: between 36.3% and 36.4% (inclusive) of the letters

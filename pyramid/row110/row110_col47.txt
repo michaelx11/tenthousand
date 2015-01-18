@@ -1,0 +1,4 @@
+Contains: LOG
+Distinct consonants: between 7 and 9 (inclusive)
+Has property AMENEMHAT: YES
+Has property KHUI: YES

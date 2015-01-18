@@ -1,0 +1,5 @@
+Ends with: G
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 14
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

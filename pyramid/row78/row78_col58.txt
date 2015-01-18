@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: ON
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 90.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): between 142 and 159 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

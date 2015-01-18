@@ -1,0 +1,5 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 72.7% and 72.8% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 45.4% and 45.5% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 17.6% and 18.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 133
+Vowels: between 1 and 3 (inclusive)

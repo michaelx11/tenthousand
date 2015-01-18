@@ -1,0 +1,4 @@
+Base Scrabble score: between 2 and 10 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 1E92
+
+This is a word with property NURI.

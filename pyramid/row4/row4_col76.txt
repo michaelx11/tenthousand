@@ -1,0 +1,4 @@
+Has property AMENYQEMAU: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 11 letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Sum of letters (A=1, B=2, etc): 167

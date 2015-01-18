@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Has property MERENRE: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES

@@ -1,0 +1,5 @@
+Base Scrabble score: between 14 and 20 (inclusive) points
+Contains at least one doubled letter: YES
+Length: 5 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8
+Sum of letters (A=1, B=2, etc): between 72 and 78 (inclusive)

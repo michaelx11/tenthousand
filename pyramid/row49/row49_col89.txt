@@ -1,0 +1,6 @@
+Base Scrabble score: 7 points
+Contains at least one doubled letter: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 88
+Sum of letters (A=1, B=2, etc): between 105 and 108 (inclusive)
+Vowels: between 3 and 7 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

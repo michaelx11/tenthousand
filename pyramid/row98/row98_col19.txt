@@ -1,0 +1,7 @@
+Base Scrabble score: between 21 and 26 (inclusive) points
+Distinct vowels: 2
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3CB
+Starts with a vowel: NO
+
+This is NOT a word with property ABUSIR.

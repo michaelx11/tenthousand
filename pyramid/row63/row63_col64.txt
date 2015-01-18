@@ -1,0 +1,6 @@
+Distinct letters: 4
+Has property MERENRE: YES
+Letters located in the middle row on a QWERTY keyboard: between 5 and 8 (inclusive)
+Vowels: 2
+
+This word is associated with the color MERIKARE.

@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Distinct consonants: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3
+Starts with: BL

@@ -1,0 +1,6 @@
+Base Scrabble score: 22 points
+Letters located in the top row on a QWERTY keyboard: 7
+Most common letter(s) each appear(s): 3 times
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

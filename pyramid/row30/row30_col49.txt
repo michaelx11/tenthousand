@@ -1,0 +1,6 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+Ends with: LY
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

@@ -1,0 +1,4 @@
+Base Scrabble score: between 17 and 48 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: between 39.1% and 40.0% (inclusive) of the letters
+Starts with: LI
+Vowels: 4

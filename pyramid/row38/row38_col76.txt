@@ -1,0 +1,5 @@
+Contains: AP
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A89
+Vowels: between 39.1% and 40.0% (inclusive) of the letters
+
+This is NOT a word with property MEIDUM.

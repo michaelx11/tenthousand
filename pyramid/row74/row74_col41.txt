@@ -1,0 +1,5 @@
+Contains: LIN
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 53.3% and 55.6% (inclusive) of the letters
+Most common consonant(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO

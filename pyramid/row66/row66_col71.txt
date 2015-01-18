@@ -1,0 +1,4 @@
+Starts with: MALC
+Vowels: between 26.6% and 27.3% (inclusive) of the letters
+
+This is NOT a word with property MEIDUM.

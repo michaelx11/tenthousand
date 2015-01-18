@@ -1,0 +1,9 @@
+Base Scrabble score: 17 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 6 and 8 (inclusive) letters
+Length: 9 letters
+Letters located in the top row on a QWERTY keyboard: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+
+This is NOT a word with property MAZGHUNA.

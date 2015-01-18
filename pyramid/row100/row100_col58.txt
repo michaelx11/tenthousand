@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: NT
+Distinct letters: 8
+Length: 8 letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 104 and 114 (inclusive)

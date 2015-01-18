@@ -1,0 +1,4 @@
+Base Scrabble score: between 3 and 7 (inclusive) points
+Contains: Y
+Letters located in the bottom row on a QWERTY keyboard: between 30.0% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 66A

@@ -1,0 +1,9 @@
+Can be Caesar shifted to produce another word in the word list: NO
+Contains at least one doubled letter: YES
+Contains: E
+Length: between 2 and 5 (inclusive) letters
+Most common vowel(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+
+This is a word with property MENKAURE.

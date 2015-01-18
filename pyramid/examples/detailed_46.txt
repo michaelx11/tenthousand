@@ -1,0 +1,31 @@
+True statements about SERFHOODS:
+
+Base Scrabble score: 16 points
+Can be Caesar shifted to produce another word in the word list: NO
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Contains at least two nonoverlapping occurrences of the same doubled letter: NO
+Contains: HO
+Distinct vowels: 2
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 100.0% of the letters
+Length: 9 letters
+Letters located in the middle row on a QWERTY keyboard: between 52.6% and 55.6% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 397B
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): 109
+Vowels: between 33.3% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Has at least one anagram that is also in the word list: NO
+Has property BIKHERIS: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 64B
+Vowels: between 28.5% and 28.6% (inclusive) of the letters

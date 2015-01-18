@@ -1,0 +1,7 @@
+Contains: M
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 111 and 117 (inclusive)
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+Contains: ER
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 4 letters
+Length: 6 letters

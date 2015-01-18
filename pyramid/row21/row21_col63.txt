@@ -1,0 +1,9 @@
+Base Scrabble score: between 8 and 10 (inclusive) points
+Has at least one anagram that is also in the word list: YES
+Has property SOBEKNEFERU: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

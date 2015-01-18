@@ -1,0 +1,4 @@
+Contains: F
+Distinct vowels: 4
+Sum of letters (A=1, B=2, etc): 83
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

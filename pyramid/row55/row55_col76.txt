@@ -1,0 +1,3 @@
+Contains at least one doubled letter: NO
+Contains: BEV
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 7

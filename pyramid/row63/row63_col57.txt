@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: TAB
+Vowels: between 42.8% and 42.9% (inclusive) of the letters

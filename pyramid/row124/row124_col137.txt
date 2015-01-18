@@ -1,0 +1,6 @@
+Base Scrabble score: between 25 and 48 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 22
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

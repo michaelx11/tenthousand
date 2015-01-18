@@ -1,0 +1,7 @@
+Base Scrabble score: 19 points
+Contains at least one doubled letter: YES
+Length: between 13 and 14 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 8
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

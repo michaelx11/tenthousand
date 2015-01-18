@@ -1,0 +1,4 @@
+Contains: NTS
+Letters located in the bottom row on a QWERTY keyboard: between 4 and 9 (inclusive)
+Most common vowel(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 414

@@ -1,0 +1,4 @@
+Ends with: OLA
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 4 and 5 (inclusive) letters
+Most common consonant(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

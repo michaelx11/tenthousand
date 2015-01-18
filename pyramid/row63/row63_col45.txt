@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Contains: CAN
+Most common letter(s) each account(s) for: between 42.8% and 100.0% (inclusive) of the letters
+Starts with a vowel: YES

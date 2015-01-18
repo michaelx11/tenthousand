@@ -1,0 +1,7 @@
+Base Scrabble score: 19 points
+Contains at least one doubled letter: YES
+Contains: S
+Distinct letters: 7
+Letters located in the top row on a QWERTY keyboard: between 36.3% and 36.4% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES

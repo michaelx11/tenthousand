@@ -1,0 +1,4 @@
+Base Scrabble score: 22 points
+Has property QAKAREIBI: YES
+Letters located in the middle row on a QWERTY keyboard: 3
+Sum of letters (A=1, B=2, etc): 83

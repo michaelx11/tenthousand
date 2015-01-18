@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Distinct vowels: 3
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Most common letter(s) each account(s) for: between 7.6% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Sum of letters (A=1, B=2, etc): between 77 and 82 (inclusive)

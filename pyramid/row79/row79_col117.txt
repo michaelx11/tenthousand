@@ -1,0 +1,4 @@
+Base Scrabble score: 17 points
+Contains: NAT
+Distinct letters: 10
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: NO
+Distinct vowels: 4
+Sum of letters (A=1, B=2, etc): between 122 and 123 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

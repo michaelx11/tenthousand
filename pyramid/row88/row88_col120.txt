@@ -1,0 +1,7 @@
+Base Scrabble score: 12 points
+Contains: ERS
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 20.0% and 22.3% (inclusive) of the letters
+Length: 10 letters
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

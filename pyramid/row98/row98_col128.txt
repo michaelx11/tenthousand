@@ -1,0 +1,5 @@
+Base Scrabble score: 23 points
+Distinct consonants: between 8 and 10 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 92.3% and 92.4% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 2 and 3 (inclusive)
+Most common letter(s) each account(s) for: between 15.3% and 15.4% (inclusive) of the letters

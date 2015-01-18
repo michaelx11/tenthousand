@@ -1,0 +1,11 @@
+Contains: D
+Distinct letters: 5
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the middle row on a QWERTY keyboard: between 38.4% and 40.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 58.3% and 61.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 11
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is a word with property MERENRE.

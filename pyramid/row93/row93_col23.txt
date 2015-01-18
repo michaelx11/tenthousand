@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Distinct vowels: 1
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 8 letters
+Length: 11 letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

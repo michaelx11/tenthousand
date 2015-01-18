@@ -1,0 +1,4 @@
+Has property HAWARA: YES
+Has property PEPI: YES
+Has property QAKAREIBI: YES
+Sum of letters (A=1, B=2, etc): between 66 and 69 (inclusive)

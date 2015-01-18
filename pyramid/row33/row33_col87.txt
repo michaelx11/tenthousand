@@ -1,0 +1,4 @@
+Base Scrabble score: 11 points
+Contains: IN
+Length: between 2 and 5 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 89

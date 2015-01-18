@@ -1,0 +1,5 @@
+Contains: DE
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 6 and 11 (inclusive) letters
+Most common letter(s) each account(s) for: between 17.6% and 18.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 116 and 147 (inclusive)
+Vowels: between 54.5% and 54.6% (inclusive) of the letters

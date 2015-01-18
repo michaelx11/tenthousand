@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: T
+Letters located in the middle row on a QWERTY keyboard: 1
+Most common consonant(s) each account(s) for: between 44.4% and 100.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

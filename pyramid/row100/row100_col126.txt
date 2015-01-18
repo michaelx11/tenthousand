@@ -1,0 +1,2 @@
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 8 (inclusive)
+Starts with: CAVO

@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Contains: NAT
+Length: 13 letters
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is a word with property HAWARA.

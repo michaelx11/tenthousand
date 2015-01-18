@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B
+Starts with: G
+Sum of letters (A=1, B=2, etc): between 28 and 57 (inclusive)
+Vowels: between 31.5% and 33.4% (inclusive) of the letters

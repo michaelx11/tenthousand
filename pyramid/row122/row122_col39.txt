@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Contains: WA
+Has at least one anagram that is also in the word list: NO
+Length: 5 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06

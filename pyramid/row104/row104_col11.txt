@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Contains at least one doubled letter: NO
+Contains: RE
+Sum of letters (A=1, B=2, etc): 117
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

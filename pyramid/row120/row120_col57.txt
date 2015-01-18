@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Distinct consonants: 6
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 63.1% and 66.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: 3
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 112 and 119 (inclusive)

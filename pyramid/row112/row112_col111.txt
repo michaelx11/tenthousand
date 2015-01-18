@@ -1,0 +1,3 @@
+Base Scrabble score: 11 points
+Contains: HM
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 566

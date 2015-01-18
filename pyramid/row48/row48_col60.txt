@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains: Z
+Letters located in the middle row on a QWERTY keyboard: between 21.0% and 23.9% (inclusive) of the letters
+Starts with a vowel: NO
+Vowels: between 31.5% and 33.4% (inclusive) of the letters

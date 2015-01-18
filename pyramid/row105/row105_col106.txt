@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Contains: P
+Distinct letters: 8
+Letters located in the top row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6

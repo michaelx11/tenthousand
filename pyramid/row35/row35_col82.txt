@@ -1,0 +1,4 @@
+Has property HAWARA: YES
+Has property SETHKA: YES
+Letters located in the top row on a QWERTY keyboard: between 84.6% and 86.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

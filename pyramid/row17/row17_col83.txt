@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+Distinct consonants: 2
+Length: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C15

@@ -1,0 +1,6 @@
+Base Scrabble score: between 10 and 11 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: ES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 62.5% and 66.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

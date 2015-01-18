@@ -1,0 +1,8 @@
+Distinct letters: 5
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 46 and 67 (inclusive)
+Vowels: 4
+
+This is a word with property NURI.
+This is NOT a word with property MAZGHUNA.

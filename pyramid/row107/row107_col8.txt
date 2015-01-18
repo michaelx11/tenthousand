@@ -1,0 +1,7 @@
+Base Scrabble score: between 21 and 22 (inclusive) points
+Contains at least one doubled letter: NO
+Distinct vowels: between 4 and 5 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 8 (inclusive) letters
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Sum of letters (A=1, B=2, etc): between 140 and 308 (inclusive)

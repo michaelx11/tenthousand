@@ -1,0 +1,4 @@
+Distinct vowels: 3
+Length: between 10 and 11 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7D75

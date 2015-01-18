@@ -1,0 +1,7 @@
+Base Scrabble score: between 15 and 16 (inclusive) points
+Distinct letters: between 6 and 8 (inclusive)
+Has property KHUI: YES
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 128 and 145 (inclusive)

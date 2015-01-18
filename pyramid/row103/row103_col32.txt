@@ -1,0 +1,8 @@
+Can be Caesar shifted to produce another word in the word list: YES
+Ends with: D
+Has at least one anagram that is also in the word list: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Starts with a vowel: YES
+
+This is NOT a word with property AMENEMHAT.
+This word is associated with the color SNEFERU.

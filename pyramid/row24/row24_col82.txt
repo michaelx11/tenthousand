@@ -1,0 +1,8 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Length: 11 letters
+Letters located in the middle row on a QWERTY keyboard: between 18.1% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

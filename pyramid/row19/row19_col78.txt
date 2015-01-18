@@ -1,0 +1,5 @@
+Letters located in the bottom row on a QWERTY keyboard: between 12.5% and 14.3% (inclusive) of the letters
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 808
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

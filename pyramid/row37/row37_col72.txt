@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: NIS
+Most common letter(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,2 @@
+Base Scrabble score: 28 points
+Sum of letters (A=1, B=2, etc): between 68 and 74 (inclusive)

@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Has at least one anagram that is also in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 45.4% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7A1
+Vowels: exactly 37.5% of the letters

@@ -1,0 +1,8 @@
+Base Scrabble score: 11 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains: M
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 3 and 93 (inclusive)
+Vowels: between 28.5% and 28.6% (inclusive) of the letters

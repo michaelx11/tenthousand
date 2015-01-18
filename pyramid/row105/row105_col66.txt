@@ -1,0 +1,5 @@
+Contains: LO
+Letters located in the middle row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 64F
+
+This is NOT a word with property AMENYQEMAU.

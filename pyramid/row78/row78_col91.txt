@@ -1,0 +1,5 @@
+Base Scrabble score: between 19 and 20 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: ED
+Letters located in the middle row on a QWERTY keyboard: between 42.8% and 42.9% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 12.5% and 14.3% (inclusive) of the letters

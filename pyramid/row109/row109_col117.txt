@@ -1,0 +1,3 @@
+Base Scrabble score: 20 points
+Distinct letters: between 9 and 14 (inclusive)
+Ends with: YSES

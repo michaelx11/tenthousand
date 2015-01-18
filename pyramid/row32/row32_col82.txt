@@ -1,0 +1,7 @@
+Base Scrabble score: between 22 and 25 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: O
+Distinct consonants: 6
+Length: 11 letters
+Most common consonant(s) each appear(s): between 0 and 1 (inclusive) times
+Sum of letters (A=1, B=2, etc): between 124 and 125 (inclusive)

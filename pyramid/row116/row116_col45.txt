@@ -1,0 +1,6 @@
+Contains: O
+Has at least one anagram that is also in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: 2
+Most common consonant(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

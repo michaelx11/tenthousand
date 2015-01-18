@@ -1,0 +1,4 @@
+Ends with: RO
+Length: 8 letters
+Sum of letters (A=1, B=2, etc): between 84 and 97 (inclusive)
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

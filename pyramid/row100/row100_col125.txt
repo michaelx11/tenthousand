@@ -1,0 +1,4 @@
+Contains: IN
+Length: 11 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 9FB
+Sum of letters (A=1, B=2, etc): between 96 and 101 (inclusive)

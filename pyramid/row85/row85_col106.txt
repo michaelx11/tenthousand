@@ -1,0 +1,5 @@
+Distinct vowels: 2
+Length: 12 letters
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2D6
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES

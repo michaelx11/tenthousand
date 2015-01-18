@@ -1,0 +1,9 @@
+Contains: Y
+Distinct vowels: between 3 and 6 (inclusive)
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 40.0% of the letters
+Letters located in the top row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+Most common consonant(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

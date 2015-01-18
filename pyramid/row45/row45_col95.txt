@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains: OL
+Length: between 6 and 7 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 75.0% and 85.8% (inclusive) of the letters

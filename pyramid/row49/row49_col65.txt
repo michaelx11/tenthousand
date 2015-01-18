@@ -1,0 +1,6 @@
+Base Scrabble score: between 17 and 20 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Has property MAZGHUNA: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 78.5% and 80.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Sum of letters (A=1, B=2, etc): between 110 and 121 (inclusive)

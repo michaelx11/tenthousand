@@ -1,0 +1,8 @@
+Base Scrabble score: 6 points
+Contains at least one doubled letter: YES
+Distinct consonants: 3
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 67 and 79 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

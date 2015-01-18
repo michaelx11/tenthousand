@@ -1,0 +1,6 @@
+Contains: AB
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 8 (inclusive)
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 85 and 87 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

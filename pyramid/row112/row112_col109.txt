@@ -1,0 +1,4 @@
+Base Scrabble score: between 22 and 49 (inclusive) points
+Distinct letters: 8
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 76

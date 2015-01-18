@@ -1,0 +1,7 @@
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 84.6% and 85.8% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

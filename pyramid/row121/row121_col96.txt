@@ -1,0 +1,4 @@
+Distinct consonants: 4
+Ends with: SSES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A6
+Vowels: 3

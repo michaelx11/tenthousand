@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct consonants: 5
+Ends with: ES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 11 and 13 (inclusive) letters
+Length: 12 letters
+Letters located in the bottom row on a QWERTY keyboard: between 2 and 8 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5F
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

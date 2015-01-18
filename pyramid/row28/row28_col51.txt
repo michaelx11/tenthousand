@@ -1,0 +1,4 @@
+Contains: EL
+Has property DJOSER: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2
+Vowels: between 28.5% and 28.6% (inclusive) of the letters

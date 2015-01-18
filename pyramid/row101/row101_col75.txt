@@ -1,0 +1,5 @@
+Base Scrabble score: between 22 and 49 (inclusive) points
+Has property SETHKA: YES
+Letters located in the top row on a QWERTY keyboard: 5
+Most common letter(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 153

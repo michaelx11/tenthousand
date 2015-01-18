@@ -1,0 +1,2 @@
+Contains: IV
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 5087

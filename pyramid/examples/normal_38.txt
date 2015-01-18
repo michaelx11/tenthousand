@@ -1,0 +1,8 @@
+Some statements that uniquely identify CLIPS:
+
+Base Scrabble score: 9 points
+Contains: P
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5E1
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

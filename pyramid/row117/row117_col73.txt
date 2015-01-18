@@ -1,0 +1,10 @@
+Contains at least one doubled letter: NO
+Contains: G
+Distinct consonants: 5
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 99
+Sum of letters (A=1, B=2, etc): between 109 and 140 (inclusive)
+Vowels: 2
+
+This is a word with property NURI.

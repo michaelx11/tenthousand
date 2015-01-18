@@ -1,0 +1,4 @@
+Most common vowel(s) each account(s) for: between 30.0% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: AC66
+
+This is a word with property NEFEREFRE.

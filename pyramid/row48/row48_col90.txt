@@ -1,0 +1,3 @@
+Distinct letters: 9
+Letters located in the middle row on a QWERTY keyboard: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2E

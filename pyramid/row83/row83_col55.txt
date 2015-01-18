@@ -1,0 +1,7 @@
+Contains: W
+Letters located in the bottom row on a QWERTY keyboard: 0
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7F5
+Starts with a vowel: YES
+
+This word is associated with the concept KHUFU.

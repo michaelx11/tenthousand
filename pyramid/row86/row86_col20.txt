@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 20D4
+Starts with: THE

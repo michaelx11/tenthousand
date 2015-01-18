@@ -1,0 +1,6 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 89.4% and 90.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 4 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Starts with: CO
+Sum of letters (A=1, B=2, etc): between 91 and 118 (inclusive)
+Vowels: between 28.5% and 30.0% (inclusive) of the letters

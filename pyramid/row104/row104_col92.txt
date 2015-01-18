@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8D1D
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

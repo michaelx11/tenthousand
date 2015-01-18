@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 2689
+
+This word is associated with the color AHMOSE.

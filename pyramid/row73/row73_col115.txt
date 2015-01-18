@@ -1,0 +1,5 @@
+Base Scrabble score: between 24 and 30 (inclusive) points
+Contains: IT
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BAC
+Sum of letters (A=1, B=2, etc): between 147 and 307 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,4 @@
+Base Scrabble score: between 21 and 22 (inclusive) points
+Contains: BLE
+Letters located in the middle row on a QWERTY keyboard: 4
+Sum of letters (A=1, B=2, etc): between 158 and 161 (inclusive)

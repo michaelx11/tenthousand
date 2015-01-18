@@ -1,0 +1,7 @@
+Base Scrabble score: between 9 and 12 (inclusive) points
+Distinct vowels: 2
+Has property HAWARA: YES
+Has property MAZGHUNA: YES
+Letters located in the bottom row on a QWERTY keyboard: between 23.8% and 25.0% (inclusive) of the letters
+Starts with: C
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

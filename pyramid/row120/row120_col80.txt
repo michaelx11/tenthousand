@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: RE
+Distinct letters: 7
+Has property HAWARA: YES
+Has property KHUI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 8 and 25 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 136 and 139 (inclusive)

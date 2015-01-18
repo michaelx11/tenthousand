@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Distinct vowels: 1
+Has property DJOSER: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 333

@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Contains: CR
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EEA
+Vowels: between 22.2% and 22.3% (inclusive) of the letters

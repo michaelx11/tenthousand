@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 71.4% and 71.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 74
+
+This is a word with property SETHKA.

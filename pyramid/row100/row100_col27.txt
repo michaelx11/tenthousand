@@ -1,0 +1,6 @@
+Base Scrabble score: between 16 and 23 (inclusive) points
+Contains: UC
+Distinct consonants: 4
+Length: between 2 and 8 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 28.5% and 30.0% (inclusive) of the letters
+Starts with a vowel: NO

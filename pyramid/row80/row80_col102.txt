@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+Contains: M
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A3
+Vowels: between 1 and 2 (inclusive)

@@ -1,0 +1,4 @@
+Contains: GR
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1D42
+
+This is NOT a word with property MERENRE.

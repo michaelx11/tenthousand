@@ -1,0 +1,7 @@
+Base Scrabble score: between 10 and 12 (inclusive) points
+Distinct vowels: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2D6
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: 3

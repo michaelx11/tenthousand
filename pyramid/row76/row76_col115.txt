@@ -1,0 +1,5 @@
+Distinct letters: 5
+Ends with: E
+Length: between 8 and 14 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CE8
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

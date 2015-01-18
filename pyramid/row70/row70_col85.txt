@@ -1,0 +1,8 @@
+Contains at least one doubled letter: YES
+Contains: P
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 8 and 12 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 5
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 97 and 132 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

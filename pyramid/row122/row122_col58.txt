@@ -1,0 +1,6 @@
+Contains: N
+Has property MEIDUM: YES
+Has property MERENRE: YES
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 71
+Vowels: 2

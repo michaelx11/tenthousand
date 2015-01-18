@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 4 letters
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F8C8
+Sum of letters (A=1, B=2, etc): between 57 and 64 (inclusive)

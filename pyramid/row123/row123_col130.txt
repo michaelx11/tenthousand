@@ -1,0 +1,7 @@
+Base Scrabble score: 10 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: LE
+Distinct letters: 6
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 4 letters
+Most common vowel(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters

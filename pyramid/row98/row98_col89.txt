@@ -1,0 +1,4 @@
+Base Scrabble score: 7 points
+Contains: TI
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: CE

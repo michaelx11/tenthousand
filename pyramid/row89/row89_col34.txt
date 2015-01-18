@@ -1,0 +1,5 @@
+Base Scrabble score: 27 points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 83.3% and 83.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 89 and 99 (inclusive)
+
+This is a word with property DJOSER.

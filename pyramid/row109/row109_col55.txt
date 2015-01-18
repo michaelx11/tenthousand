@@ -1,0 +1,4 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 44.4% and 44.5% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 22.2% and 22.3% (inclusive) of the letters
+Most common consonant(s) each appear(s): between 3 and 5 (inclusive) times
+Sum of letters (A=1, B=2, etc): between 82 and 92 (inclusive)

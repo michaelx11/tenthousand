@@ -1,0 +1,4 @@
+Has property AMENEMHAT: YES
+Has property KHUI: YES
+Has property SOBEKNEFERU: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 5D

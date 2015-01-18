@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: NO
+Length: 5 letters
+Most common vowel(s) each appear(s): 2 times
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 62 and 69 (inclusive)

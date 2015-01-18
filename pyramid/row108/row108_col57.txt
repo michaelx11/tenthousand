@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Ends with: ER
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8F7
+Vowels: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

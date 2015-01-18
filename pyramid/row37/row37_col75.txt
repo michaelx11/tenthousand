@@ -1,0 +1,9 @@
+Base Scrabble score: between 8 and 11 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: P
+Distinct letters: 6
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

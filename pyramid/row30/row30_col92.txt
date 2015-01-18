@@ -1,0 +1,6 @@
+Contains: F
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 80.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Sum of letters (A=1, B=2, etc): 63
+
+This is NOT a word with property BIKHERIS.

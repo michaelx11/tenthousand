@@ -1,0 +1,7 @@
+Distinct vowels: 1
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Most common consonant(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

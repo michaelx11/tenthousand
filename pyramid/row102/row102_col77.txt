@@ -1,0 +1,7 @@
+Letters located in the top row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B6
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: 3

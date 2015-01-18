@@ -1,0 +1,5 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 15.3% and 15.4% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 52.1% and 53.9% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 23.0% and 23.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 163
+Vowels: between 38.0% and 39.2% (inclusive) of the letters

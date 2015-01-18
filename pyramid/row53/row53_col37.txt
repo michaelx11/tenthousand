@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 13 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 115
+Vowels: between 4 and 5 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

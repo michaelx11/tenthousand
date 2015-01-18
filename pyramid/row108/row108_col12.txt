@@ -1,0 +1,5 @@
+Letters located in the middle row on a QWERTY keyboard: between 39.1% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8CB
+Sum of letters (A=1, B=2, etc): 41
+
+This is a word with property DJOSER.

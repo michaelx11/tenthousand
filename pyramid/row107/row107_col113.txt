@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Contains: ID
+Most common vowel(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

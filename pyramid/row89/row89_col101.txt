@@ -1,0 +1,7 @@
+Base Scrabble score: between 23 and 48 (inclusive) points
+Contains at least one doubled letter: NO
+Has property KHUI: YES
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 28
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

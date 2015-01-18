@@ -1,0 +1,6 @@
+Base Scrabble score: between 3 and 8 (inclusive) points
+Contains: D
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: DDD
+Vowels: between 0 and 1 (inclusive)
+
+This is a word with property LISHT.

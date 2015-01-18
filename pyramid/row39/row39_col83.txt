@@ -1,0 +1,5 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 74 and 82 (inclusive)

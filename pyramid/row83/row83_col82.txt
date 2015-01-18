@@ -1,0 +1,5 @@
+Contains: EA
+Has property SETHKA: YES
+Sum of letters (A=1, B=2, etc): between 87 and 91 (inclusive)
+Vowels: between 35.2% and 37.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

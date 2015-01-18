@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: YES
+Contains: C
+Most common consonant(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

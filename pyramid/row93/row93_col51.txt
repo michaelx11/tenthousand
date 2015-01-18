@@ -1,0 +1,9 @@
+Base Scrabble score: 11 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct consonants: 4
+Has at least one anagram that is also in the word list: NO
+Letters located in the middle row on a QWERTY keyboard: exactly 37.5% of the letters
+Most common letter(s) each appear(s): between 3 and 4 (inclusive) times
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

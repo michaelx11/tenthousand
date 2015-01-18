@@ -1,0 +1,5 @@
+Base Scrabble score: between 3 and 10 (inclusive) points
+Contains: GG
+Length: 5 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

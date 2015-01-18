@@ -1,0 +1,7 @@
+Base Scrabble score: between 8 and 9 (inclusive) points
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 61.5% and 62.5% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 10.0% and 12.5% (inclusive) of the letters
+Most common letter(s) each appear(s): 2 times
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

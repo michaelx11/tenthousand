@@ -1,0 +1,4 @@
+Distinct letters: 4
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 4 and 8 (inclusive) letters
+Most common consonant(s) each account(s) for: between 33.3% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 77

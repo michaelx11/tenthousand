@@ -1,0 +1,6 @@
+Distinct vowels: between 4 and 5 (inclusive)
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 144
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: YES

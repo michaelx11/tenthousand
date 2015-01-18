@@ -1,0 +1,7 @@
+Base Scrabble score: between 15 and 19 (inclusive) points
+Contains at least one doubled letter: YES
+Letters located in the bottom row on a QWERTY keyboard: between 9.0% and 9.6% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 147 and 156 (inclusive)
+Vowels: between 5 and 8 (inclusive)

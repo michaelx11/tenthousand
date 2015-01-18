@@ -1,0 +1,5 @@
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Contains: REO
+Most common letter(s) each appear(s): 3 times
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

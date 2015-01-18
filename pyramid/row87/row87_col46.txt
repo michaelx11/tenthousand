@@ -1,0 +1,5 @@
+Base Scrabble score: 17 points
+Contains: SNI
+Most common letter(s) each appear(s): 1 time
+
+This is NOT a word with property MENKAURE.

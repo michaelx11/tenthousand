@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Ends with: C
+Has property QAKAREIBI: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO

@@ -1,0 +1,3 @@
+Base Scrabble score: 27 points
+Contains at least one doubled letter: YES
+Contains: OBI

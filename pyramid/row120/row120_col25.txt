@@ -1,0 +1,9 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+Contains: ME
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 8 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 23.8% and 25.0% (inclusive) of the letters
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Vowels: exactly 37.5% of the letters

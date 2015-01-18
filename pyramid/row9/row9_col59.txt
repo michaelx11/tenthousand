@@ -1,0 +1,5 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 2 letters
+Letters located in the middle row on a QWERTY keyboard: between 38.4% and 40.0% (inclusive) of the letters
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 87
+Starts with a vowel: YES

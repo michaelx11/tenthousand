@@ -1,0 +1,5 @@
+Base Scrabble score: between 19 and 24 (inclusive) points
+Contains: IN
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 5 (inclusive)
+Most common consonant(s) each account(s) for: exactly 10.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A47

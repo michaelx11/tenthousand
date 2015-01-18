@@ -1,0 +1,5 @@
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 16.7% (inclusive) of the letters
+Starts with: L
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 93 and 95 (inclusive)
+Vowels: 2

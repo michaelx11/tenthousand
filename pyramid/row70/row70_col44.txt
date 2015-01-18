@@ -1,0 +1,5 @@
+Base Scrabble score: between 23 and 28 (inclusive) points
+Contains at least one doubled letter: YES
+Ends with: ING
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 70.0% of the letters
+Starts with a vowel: YES

@@ -1,0 +1,8 @@
+Letters located in the bottom row on a QWERTY keyboard: between 5.2% and 10.0% (inclusive) of the letters
+Most common consonant(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 141 and 169 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters
+
+This is NOT a word with property AMENEMHAT.

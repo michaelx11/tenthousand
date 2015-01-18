@@ -1,0 +1,6 @@
+Base Scrabble score: 19 points
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1C
+Vowels: between 26.3% and 27.8% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

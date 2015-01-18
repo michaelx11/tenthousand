@@ -1,0 +1,4 @@
+Contains: R
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C588
+
+This is a word with property AMENYQEMAU.

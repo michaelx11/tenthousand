@@ -1,0 +1,8 @@
+Base Scrabble score: between 14 and 15 (inclusive) points
+Contains: AB
+Distinct consonants: 5
+Most common letter(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc): between 60 and 64 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+
+This is NOT a word with property BIKHERIS.

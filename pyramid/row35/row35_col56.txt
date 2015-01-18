@@ -1,0 +1,4 @@
+Contains: LE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Most common vowel(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 21

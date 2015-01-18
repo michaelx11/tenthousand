@@ -1,0 +1,4 @@
+Contains: WO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 54.5% and 54.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

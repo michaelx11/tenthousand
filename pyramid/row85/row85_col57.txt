@@ -1,0 +1,4 @@
+Base Scrabble score: between 14 and 49 (inclusive) points
+Contains: DE
+Most common vowel(s) each account(s) for: between 11.1% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AAE

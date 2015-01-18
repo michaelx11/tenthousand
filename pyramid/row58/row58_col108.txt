@@ -1,0 +1,12 @@
+Base Scrabble score: between 15 and 17 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Contains: LI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 26 (inclusive) letters
+Most common letter(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 117 and 144 (inclusive)
+Vowels: 3
+
+This is NOT a word with property AMENEMHAT.

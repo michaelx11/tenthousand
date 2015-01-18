@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: CDE
+Vowels: between 43.7% and 45.0% (inclusive) of the letters

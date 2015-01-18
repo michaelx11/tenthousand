@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Distinct vowels: between 2 and 5 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 10 letters
+Most common vowel(s) each account(s) for: between 19.0% and 21.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 120 and 131 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

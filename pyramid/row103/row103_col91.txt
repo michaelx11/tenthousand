@@ -1,0 +1,7 @@
+Contains: R
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 76.1% and 77.8% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 4 and 6 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+Sum of letters (A=1, B=2, etc): between 108 and 111 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

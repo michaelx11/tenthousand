@@ -1,0 +1,4 @@
+Base Scrabble score: 22 points
+Has property SOBEKNEFERU: YES
+Most common consonant(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 115

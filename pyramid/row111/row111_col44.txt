@@ -1,0 +1,6 @@
+Distinct consonants: 6
+Letters located in the middle row on a QWERTY keyboard: 3
+Sum of letters (A=1, B=2, etc): 93
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES
+
+This is a word with property LISHT.

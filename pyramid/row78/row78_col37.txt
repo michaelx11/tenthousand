@@ -1,0 +1,5 @@
+Base Scrabble score: 23 points
+Has property PEPI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 84.6% and 84.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 46.1% and 46.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 133 and 139 (inclusive)

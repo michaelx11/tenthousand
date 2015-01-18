@@ -1,0 +1,4 @@
+Contains: RAG
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 88.8% and 88.9% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 21.0% and 23.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1C

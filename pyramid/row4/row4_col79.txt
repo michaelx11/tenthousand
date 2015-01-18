@@ -1,0 +1,10 @@
+Base Scrabble score: between 6 and 12 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EE
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: between 57.1% and 57.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+
+This is NOT a word with property MEIDUM.

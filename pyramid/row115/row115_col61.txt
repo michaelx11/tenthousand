@@ -1,0 +1,9 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: YES
+Contains: G
+Distinct vowels: 2
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 3 and 6 (inclusive) letters
+Most common letter(s) each appear(s): 3 times
+Vowels: exactly 37.5% of the letters
+
+This is NOT a word with property UNAS.

@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 54.5% and 54.6% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: between 26.6% and 27.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0

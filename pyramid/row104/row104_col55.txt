@@ -1,0 +1,8 @@
+Contains: IP
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 4 and 6 (inclusive) letters
+Most common letter(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): between 76 and 77 (inclusive)
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES
+
+This is NOT a word with property AMENEMHAT.

@@ -1,0 +1,3 @@
+Distinct letters: 3
+Starts with: SILL
+Vowels: between 16.6% and 20.0% (inclusive) of the letters

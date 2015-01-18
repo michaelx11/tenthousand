@@ -1,0 +1,4 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: TU
+Distinct letters: 10
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8

@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Ends with: IST
+Has at least one anagram that is also in the word list: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES

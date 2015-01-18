@@ -1,0 +1,11 @@
+Base Scrabble score: between 16 and 23 (inclusive) points
+Contains: ZE
+Letters located in the bottom row on a QWERTY keyboard: between 10.0% and 11.2% (inclusive) of the letters
+Most common consonant(s) each appear(s): 1 time
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc): between 120 and 173 (inclusive)
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+
+This is NOT a word with property PEPI.

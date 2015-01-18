@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Contains: TA
+Most common letter(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 66E

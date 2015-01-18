@@ -1,0 +1,7 @@
+Base Scrabble score: between 15 and 16 (inclusive) points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 5 and 7 (inclusive)
+Most common letter(s) each appear(s): between 1 and 2 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AA
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 109 and 113 (inclusive)

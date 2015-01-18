@@ -1,0 +1,6 @@
+Distinct letters: 7
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3CA
+Sum of letters (A=1, B=2, etc): between 61 and 76 (inclusive)
+Vowels: 2
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

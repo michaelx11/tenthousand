@@ -1,0 +1,8 @@
+Contains at least one doubled letter: NO
+Contains: G
+Most common letter(s) each account(s) for: between 29.4% and 38.5% (inclusive) of the letters
+Starts with a vowel: YES
+Vowels: between 66.6% and 66.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

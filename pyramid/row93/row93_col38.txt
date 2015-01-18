@@ -1,0 +1,2 @@
+Contains: OLK
+Letters located in the middle row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters

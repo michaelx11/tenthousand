@@ -1,0 +1,6 @@
+Ends with: O
+Sum of letters (A=1, B=2, etc): between 55 and 56 (inclusive)
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is NOT a word with property MERENRE.

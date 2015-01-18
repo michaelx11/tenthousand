@@ -1,0 +1,4 @@
+Base Scrabble score: between 27 and 30 (inclusive) points
+Distinct letters: 7
+Letters located in the middle row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C

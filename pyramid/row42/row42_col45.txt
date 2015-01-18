@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Ends with: Y
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 82.6% and 83.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 77 and 79 (inclusive)

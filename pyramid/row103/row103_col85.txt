@@ -1,0 +1,5 @@
+Distinct vowels: 2
+Has property MERENRE: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Starts with: TA
+Sum of letters (A=1, B=2, etc): 44

@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Ends with: NT
+Letters located in the top row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

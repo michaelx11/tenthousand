@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: YES
+Ends with: T
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 3 letters
+Starts with a vowel: NO
+Vowels: between 31.2% and 33.4% (inclusive) of the letters

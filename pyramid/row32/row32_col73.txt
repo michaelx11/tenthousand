@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Distinct letters: 5
+Has property MAZGHUNA: YES
+Length: 7 letters
+Sum of letters (A=1, B=2, etc): between 86 and 108 (inclusive)
+Vowels: 2

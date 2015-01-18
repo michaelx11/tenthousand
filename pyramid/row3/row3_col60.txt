@@ -1,0 +1,5 @@
+Base Scrabble score: 21 points
+Ends with: T
+Letters located in the bottom row on a QWERTY keyboard: between 5 and 7 (inclusive)
+Most common vowel(s) each account(s) for: between 15.3% and 15.4% (inclusive) of the letters
+Vowels: 5

@@ -1,0 +1,7 @@
+Base Scrabble score: 12 points
+Contains: ST
+Distinct letters: 9
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 77
+Vowels: between 44.4% and 44.5% (inclusive) of the letters
+
+This is NOT a word with property LISHT.

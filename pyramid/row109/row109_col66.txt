@@ -1,0 +1,6 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F64
+Sum of letters (A=1, B=2, etc): between 58 and 59 (inclusive)
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+
+This is NOT a word with property MENKAURE.

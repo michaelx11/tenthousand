@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Contains: SH
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 8 and 12 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 52
+
+This is NOT a word with property SOBEKNEFERU.

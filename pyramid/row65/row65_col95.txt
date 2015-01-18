@@ -1,0 +1,3 @@
+Contains: IK
+Has property BIKHERIS: YES
+Length: 5 letters

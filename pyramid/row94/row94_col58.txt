@@ -1,0 +1,4 @@
+Contains: FO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 2 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 11
+Sum of letters (A=1, B=2, etc): 88

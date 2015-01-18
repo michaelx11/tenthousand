@@ -1,0 +1,5 @@
+Base Scrabble score: between 17 and 26 (inclusive) points
+Distinct letters: 7
+Has property SOBEKNEFERU: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 47
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

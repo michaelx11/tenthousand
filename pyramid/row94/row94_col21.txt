@@ -1,0 +1,3 @@
+Base Scrabble score: 17 points
+Distinct letters: 10
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: FFD

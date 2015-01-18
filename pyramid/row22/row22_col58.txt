@@ -1,0 +1,7 @@
+Base Scrabble score: 13 points
+Length: between 7 and 10 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Sum of letters (A=1, B=2, etc): 129
+Vowels: 5
+
+This is a word with property UNAS.

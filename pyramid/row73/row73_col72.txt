@@ -1,0 +1,6 @@
+Base Scrabble score: 7 points
+Has property KHUI: YES
+Most common letter(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 71
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 3 and 89 (inclusive)

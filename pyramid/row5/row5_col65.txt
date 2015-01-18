@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Most common vowel(s) each appear(s): between 3 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 915
+Sum of letters (A=1, B=2, etc): between 153 and 156 (inclusive)

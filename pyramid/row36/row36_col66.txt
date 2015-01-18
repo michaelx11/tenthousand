@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Ends with: AL
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 7 letters
+Most common vowel(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1
+Starts with a vowel: NO

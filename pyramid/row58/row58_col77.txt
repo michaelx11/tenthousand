@@ -1,0 +1,4 @@
+Distinct consonants: 5
+Has property KHUI: YES
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 6168

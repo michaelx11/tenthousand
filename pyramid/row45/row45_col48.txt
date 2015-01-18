@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Contains: AR
+Distinct letters: 9
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 70.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 10.0% of the letters
+Sum of letters (A=1, B=2, etc): between 132 and 141 (inclusive)
+Vowels: exactly 30.0% of the letters

@@ -1,0 +1,5 @@
+Contains: ERA
+Letters located in the bottom row on a QWERTY keyboard: between 14.2% and 14.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 58
+
+This word is associated with the color MERIKARE.

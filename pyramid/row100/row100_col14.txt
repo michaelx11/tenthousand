@@ -1,0 +1,4 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Distinct letters: between 10 and 13 (inclusive)
+Most common consonant(s) each account(s) for: between 12.0% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4

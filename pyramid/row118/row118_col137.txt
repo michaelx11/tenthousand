@@ -1,0 +1,8 @@
+Base Scrabble score: between 11 and 13 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: N
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Letters located in the top row on a QWERTY keyboard: between 41.6% and 42.9% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

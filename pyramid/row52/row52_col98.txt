@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Distinct consonants: 7
+Ends with: N
+Vowels: between 38.4% and 38.5% (inclusive) of the letters

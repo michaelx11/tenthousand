@@ -1,0 +1,8 @@
+Some statements that uniquely identify POLEAXED:
+
+Contains: ED
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 0 and 2 (inclusive) letters
+Most common consonant(s) each account(s) for: between 12.0% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Vowels: 4

@@ -1,0 +1,7 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: NO
+Length: between 7 and 8 (inclusive) letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): 108
+Vowels: between 47.0% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

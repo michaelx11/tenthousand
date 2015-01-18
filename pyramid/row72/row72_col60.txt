@@ -1,0 +1,6 @@
+Base Scrabble score: between 2 and 9 (inclusive) points
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 122 and 140 (inclusive)
+Vowels: between 4 and 6 (inclusive)

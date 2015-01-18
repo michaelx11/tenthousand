@@ -1,0 +1,10 @@
+Contains at least one doubled letter: YES
+Distinct letters: 5
+Ends with: R
+Has at least one anagram that is also in the word list: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Most common letter(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES

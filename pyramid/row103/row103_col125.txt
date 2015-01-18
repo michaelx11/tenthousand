@@ -1,0 +1,3 @@
+Base Scrabble score: 7 points
+Contains: CA
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F5

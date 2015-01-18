@@ -1,0 +1,5 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 93.3% and 100.0% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5F
+Sum of letters (A=1, B=2, etc): between 53 and 57 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

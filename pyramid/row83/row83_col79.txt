@@ -1,0 +1,5 @@
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 76.9% and 80.0% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 19.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Vowels: between 55.5% and 63.7% (inclusive) of the letters

@@ -1,0 +1,4 @@
+Contains: BL
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F1F
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 21.4% and 23.6% (inclusive) of the letters

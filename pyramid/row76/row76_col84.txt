@@ -1,0 +1,7 @@
+Base Scrabble score: 6 points
+Can be Caesar shifted to produce another word in the word list: YES
+Starts with: E
+Sum of letters (A=1, B=2, etc): between 31 and 37 (inclusive)
+Vowels: between 0 and 1 (inclusive)
+
+This is a word with property MENKAURE.

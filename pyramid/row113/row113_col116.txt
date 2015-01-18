@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Has property KHUI: YES
+Length: 8 letters
+Letters located in the top row on a QWERTY keyboard: 1
+Most common letter(s) each appear(s): 2 times
+Starts with: MA
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES

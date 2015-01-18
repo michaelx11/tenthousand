@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9A1A
+Starts with: T
+
+This is a word with property SETHKA.

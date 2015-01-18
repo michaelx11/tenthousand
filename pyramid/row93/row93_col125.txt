@@ -1,0 +1,4 @@
+Base Scrabble score: 10 points
+Contains: UST
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8
+Vowels: exactly 37.5% of the letters

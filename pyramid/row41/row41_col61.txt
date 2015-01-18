@@ -1,0 +1,4 @@
+Contains: DV
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AEC7
+
+This is NOT a word with property SOBEKNEFERU.

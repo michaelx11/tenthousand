@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Contains at least one doubled letter: NO
+Distinct consonants: 3
+Letters located in the top row on a QWERTY keyboard: between 46.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A1
+Sum of letters (A=1, B=2, etc): 72

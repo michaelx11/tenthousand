@@ -1,0 +1,4 @@
+Distinct vowels: 3
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BCC
+Sum of letters (A=1, B=2, etc): between 59 and 63 (inclusive)

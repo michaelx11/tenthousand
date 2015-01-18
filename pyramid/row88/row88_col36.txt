@@ -1,0 +1,4 @@
+Distinct letters: 8
+Letters located in the bottom row on a QWERTY keyboard: between 19.0% and 20.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 135
+Vowels: exactly 20.0% of the letters

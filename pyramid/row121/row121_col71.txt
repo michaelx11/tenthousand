@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: A
+Has property KHUI: YES
+Has property PEPI: YES
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

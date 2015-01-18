@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Letters located in the bottom row on a QWERTY keyboard: between 19.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 46
+Starts with a vowel: YES

@@ -1,0 +1,5 @@
+Distinct letters: 7
+Letters located in the top row on a QWERTY keyboard: between 58.3% and 58.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 179 and 194 (inclusive)
+Vowels: 6
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

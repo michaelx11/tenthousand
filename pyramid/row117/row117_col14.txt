@@ -1,0 +1,6 @@
+Distinct letters: 5
+Ends with: E
+Has at least one anagram that is also in the word list: YES
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CC8
+Vowels: between 38.4% and 40.0% (inclusive) of the letters

@@ -1,0 +1,6 @@
+Distinct vowels: 2
+Letters located in the top row on a QWERTY keyboard: exactly 60.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: ECC
+Vowels: between 29.4% and 30.0% (inclusive) of the letters
+
+This is NOT a word with property ABUSIR.

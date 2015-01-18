@@ -1,0 +1,7 @@
+Base Scrabble score: 9 points
+Contains: AT
+Distinct consonants: 4
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 3 letters
+Letters located in the bottom row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Sum of letters (A=1, B=2, etc): between 53 and 72 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

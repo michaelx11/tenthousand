@@ -1,0 +1,4 @@
+Has property QAKAREIBI: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2EB
+Sum of letters (A=1, B=2, etc): between 86 and 91 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

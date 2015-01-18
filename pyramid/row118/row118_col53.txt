@@ -1,0 +1,2 @@
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 40B4

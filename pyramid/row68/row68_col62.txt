@@ -1,0 +1,4 @@
+Contains: ITE
+Distinct consonants: between 4 and 5 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 71.4% and 71.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 109 and 307 (inclusive)

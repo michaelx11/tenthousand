@@ -1,0 +1,6 @@
+Base Scrabble score: between 15 and 16 (inclusive) points
+Contains at least two different doubled letters: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 10 and 12 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 15.3% and 16.7% (inclusive) of the letters
+Vowels: 5
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

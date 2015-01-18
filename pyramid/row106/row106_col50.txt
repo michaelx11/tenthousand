@@ -1,0 +1,5 @@
+Has property MEIDUM: YES
+Starts with: TI
+Sum of letters (A=1, B=2, etc): between 32 and 38 (inclusive)
+
+This word is associated with the color KHAFRA.

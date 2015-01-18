@@ -1,0 +1,9 @@
+Base Scrabble score: between 2 and 12 (inclusive) points
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 80.0% of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 50.0% and 80.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

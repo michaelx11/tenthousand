@@ -1,0 +1,6 @@
+Has property KHUI: YES
+Most common vowel(s) each account(s) for: between 21.0% and 23.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7F5
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 108 and 116 (inclusive)

@@ -1,0 +1,10 @@
+Base Scrabble score: between 10 and 12 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: R
+Has property KHUI: YES
+Letters located in the top row on a QWERTY keyboard: between 5 and 7 (inclusive)
+Most common letter(s) each account(s) for: between 28.5% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 90 and 100 (inclusive)
+Vowels: between 40.9% and 43.8% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

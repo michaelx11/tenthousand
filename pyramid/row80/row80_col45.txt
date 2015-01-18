@@ -1,0 +1,4 @@
+Ends with: KISH
+Sum of letters (A=1, B=2, etc): 97
+
+This is a word with property BIKHERIS.

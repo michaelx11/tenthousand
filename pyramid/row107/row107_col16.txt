@@ -1,0 +1,8 @@
+Contains at least one doubled letter: NO
+Ends with: ON
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 4 and 6 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9
+Starts with a vowel: YES
+
+This is NOT a word with property AMENEMHAT.

@@ -1,0 +1,8 @@
+Base Scrabble score: between 7 and 11 (inclusive) points
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 4 and 5 (inclusive) letters
+Length: between 3 and 5 (inclusive) letters
+Most common consonant(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+Starts with: T
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

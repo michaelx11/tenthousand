@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Letters located in the top row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Most common vowel(s) each appear(s): 2 times
+Starts with: AN
+Sum of letters (A=1, B=2, etc): between 83 and 84 (inclusive)

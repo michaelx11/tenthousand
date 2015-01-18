@@ -1,0 +1,8 @@
+Contains at least one doubled letter: NO
+Contains: AS
+Length: between 6 and 8 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 16.6% and 16.7% (inclusive) of the letters
+Most common consonant(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES

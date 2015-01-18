@@ -1,0 +1,6 @@
+Contains: M
+Has property KHUI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 66.6% and 66.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 97
+Vowels: between 44.4% and 44.5% (inclusive) of the letters

@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Has property AMENEMHAT: YES
+Length: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 96

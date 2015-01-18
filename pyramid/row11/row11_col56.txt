@@ -1,0 +1,5 @@
+Sum of letters (A=1, B=2, etc): between 105 and 106 (inclusive)
+Vowels: between 22.2% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES
+
+This is NOT a word with property SETHKA.

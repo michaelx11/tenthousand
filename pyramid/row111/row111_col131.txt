@@ -1,0 +1,7 @@
+Distinct vowels: between 0 and 1 (inclusive)
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FAA
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

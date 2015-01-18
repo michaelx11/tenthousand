@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 9 letters
+Length: 12 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Sum of letters (A=1, B=2, etc): 132

@@ -1,0 +1,5 @@
+Contains: W
+Distinct consonants: 3
+Letters located in the bottom row on a QWERTY keyboard: 1
+Sum of letters (A=1, B=2, etc): between 104 and 108 (inclusive)
+Vowels: between 31.2% and 33.4% (inclusive) of the letters

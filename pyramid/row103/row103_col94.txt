@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 72.7% and 75.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C24
+
+This is NOT a word with property DJOSER.

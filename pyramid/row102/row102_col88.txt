@@ -1,0 +1,5 @@
+Base Scrabble score: between 14 and 21 (inclusive) points
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 3 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

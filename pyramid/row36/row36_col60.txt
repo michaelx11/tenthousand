@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 7 and 15 (inclusive)
+Most common consonant(s) each account(s) for: between 9.5% and 10.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: BF
+Starts with a vowel: YES

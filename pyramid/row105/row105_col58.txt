@@ -1,0 +1,5 @@
+Letters located in the bottom row on a QWERTY keyboard: 0
+Most common consonant(s) each account(s) for: between 11.1% and 12.5% (inclusive) of the letters
+Starts with: RE
+Sum of letters (A=1, B=2, etc): between 115 and 117 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

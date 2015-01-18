@@ -1,0 +1,5 @@
+Contains: SE
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Length: between 3 and 5 (inclusive) letters
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

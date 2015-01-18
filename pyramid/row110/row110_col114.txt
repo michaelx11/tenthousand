@@ -1,0 +1,5 @@
+Contains: EDU
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Most common vowel(s) each appear(s): 1 time
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

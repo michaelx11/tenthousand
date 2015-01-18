@@ -1,0 +1,5 @@
+Base Scrabble score: 9 points
+Contains: G
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 28.5% and 28.6% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 71.4% and 71.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 78 and 83 (inclusive)

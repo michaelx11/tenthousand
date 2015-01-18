@@ -1,0 +1,7 @@
+Base Scrabble score: 10 points
+Contains: S
+Has at least one anagram that is also in the word list: NO
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

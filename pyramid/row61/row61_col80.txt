@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 9 and 10 (inclusive) letters
+Length: 15 letters
+Sum of letters (A=1, B=2, etc): 156

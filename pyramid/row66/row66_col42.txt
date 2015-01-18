@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: YES
+Contains: IL
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 96

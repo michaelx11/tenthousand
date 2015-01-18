@@ -1,0 +1,5 @@
+Contains: ON
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 77.7% and 77.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E
+Sum of letters (A=1, B=2, etc): between 80 and 84 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

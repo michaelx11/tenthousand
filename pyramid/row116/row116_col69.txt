@@ -1,0 +1,9 @@
+Base Scrabble score: 15 points
+Distinct letters: between 8 and 10 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 6 letters
+Sum of letters (A=1, B=2, etc): between 94 and 96 (inclusive)
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+
+This is NOT a word with property SETHKA.
+This is NOT a word with property SOBEKNEFERU.

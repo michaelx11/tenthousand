@@ -1,0 +1,4 @@
+Contains: CO
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 86
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

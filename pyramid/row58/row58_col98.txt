@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Contains: TI
+Distinct letters: 9
+Has at least one anagram that is also in the word list: YES
+Vowels: between 47.6% and 50.0% (inclusive) of the letters

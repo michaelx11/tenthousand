@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: 2
+Most common letter(s) each account(s) for: between 14.2% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E6C
+Sum of letters (A=1, B=2, etc): 70

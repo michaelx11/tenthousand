@@ -1,0 +1,4 @@
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 77
+Starts with: SO
+Sum of letters (A=1, B=2, etc): between 83 and 84 (inclusive)

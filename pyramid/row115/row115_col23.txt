@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Distinct consonants: 6
+Has property QAKAREIBI: YES
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

@@ -1,0 +1,7 @@
+Base Scrabble score: between 20 and 49 (inclusive) points
+Contains: S
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 13.6% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

@@ -1,0 +1,4 @@
+Base Scrabble score: between 7 and 10 (inclusive) points
+Most common vowel(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C3B
+Sum of letters (A=1, B=2, etc): 63

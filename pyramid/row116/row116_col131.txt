@@ -1,0 +1,4 @@
+Contains: VER
+Length: 11 letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 4F0

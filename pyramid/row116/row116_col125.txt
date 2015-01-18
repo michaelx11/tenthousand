@@ -1,0 +1,4 @@
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 6 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+Most common vowel(s) each appear(s): between 0 and 1 (inclusive) times
+Sum of letters (A=1, B=2, etc): 163

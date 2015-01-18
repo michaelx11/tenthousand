@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Has property SETHKA: YES
+Letters located in the top row on a QWERTY keyboard: between 78.9% and 80.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

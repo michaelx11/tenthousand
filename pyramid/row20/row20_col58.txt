@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Letters located in the middle row on a QWERTY keyboard: between 62.5% and 66.7% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 12.0% and 14.3% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

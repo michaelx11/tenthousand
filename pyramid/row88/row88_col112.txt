@@ -1,0 +1,4 @@
+Contains: LE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 64.7% and 66.7% (inclusive) of the letters
+Length: 6 letters
+Most common consonant(s) each appear(s): between 3 and 7 (inclusive) times

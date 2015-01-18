@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 84.6% and 85.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 86

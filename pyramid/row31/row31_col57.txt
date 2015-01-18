@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least two nonoverlapping occurrences of the same doubled letter: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 22
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO

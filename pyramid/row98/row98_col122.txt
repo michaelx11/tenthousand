@@ -1,0 +1,7 @@
+Base Scrabble score: 17 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 77.7% and 77.8% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 79
+Vowels: between 44.4% and 44.5% (inclusive) of the letters
+
+This is NOT a word with property NEFEREFRE.

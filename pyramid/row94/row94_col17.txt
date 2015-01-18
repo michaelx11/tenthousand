@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Contains: NT
+Distinct vowels: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3FA
+Sum of letters (A=1, B=2, etc): between 69 and 150 (inclusive)

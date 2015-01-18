@@ -1,0 +1,6 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 9 letters
+Length: 9 letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Most common consonant(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): 107
+Vowels: 3

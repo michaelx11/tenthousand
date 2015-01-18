@@ -1,0 +1,6 @@
+Base Scrabble score: between 15 and 16 (inclusive) points
+Contains: AN
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 106 and 120 (inclusive)

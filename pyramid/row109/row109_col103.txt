@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 83.3% and 83.4% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: exactly 75.0% of the letters
+Sum of letters (A=1, B=2, etc): 161
+Vowels: between 41.1% and 41.7% (inclusive) of the letters

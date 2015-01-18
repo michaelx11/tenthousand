@@ -1,0 +1,7 @@
+Base Scrabble score: between 16 and 21 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: TE
+Has property AMENEMHAT: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

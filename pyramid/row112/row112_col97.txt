@@ -1,0 +1,6 @@
+Contains: AY
+Letters located in the top row on a QWERTY keyboard: exactly 50.0% of the letters
+Most common vowel(s) each account(s) for: exactly 25.0% of the letters
+Sum of letters (A=1, B=2, etc): 120
+
+This is a word with property MEIDUM.

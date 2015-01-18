@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Letters located in the middle row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+Starts with: EL
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

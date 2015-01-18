@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Distinct letters: 8
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 8D9
+Starts with a vowel: YES
+Vowels: between 5 and 9 (inclusive)

@@ -1,0 +1,9 @@
+Base Scrabble score: between 22 and 23 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Distinct consonants: 5
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 70.0% and 72.8% (inclusive) of the letters
+Length: 11 letters
+Starts with a vowel: NO
+Vowels: between 5 and 8 (inclusive)

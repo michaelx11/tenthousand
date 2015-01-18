@@ -1,0 +1,6 @@
+Base Scrabble score: 19 points
+Contains at least one doubled letter: NO
+Distinct consonants: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

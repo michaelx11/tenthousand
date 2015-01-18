@@ -1,0 +1,5 @@
+Base Scrabble score: 19 points
+Letters located in the top row on a QWERTY keyboard: between 52.3% and 55.6% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 11.1% and 11.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,7 @@
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 32.0% and 33.4% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

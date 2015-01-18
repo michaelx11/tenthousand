@@ -1,0 +1,4 @@
+Base Scrabble score: between 17 and 20 (inclusive) points
+Distinct letters: 10
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 52.9% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D3C

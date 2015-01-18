@@ -1,0 +1,4 @@
+Contains: VEN
+Distinct vowels: between 0 and 1 (inclusive)
+Length: 9 letters
+Letters located in the bottom row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters

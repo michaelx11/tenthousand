@@ -1,0 +1,8 @@
+Can be Caesar shifted to produce another word in the word list: NO
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: LL
+Distinct consonants: 3
+Letters located in the bottom row on a QWERTY keyboard: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 44
+
+This is a word with property MEIDUM.

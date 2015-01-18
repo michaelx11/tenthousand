@@ -1,0 +1,7 @@
+Contains: UC
+Distinct consonants: 3
+Has at least one anagram that is also in the word list: NO
+Length: between 3 and 5 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 60 and 71 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

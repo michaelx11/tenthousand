@@ -1,0 +1,6 @@
+Base Scrabble score: between 8 and 10 (inclusive) points
+Has property MERENRE: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 2 letters
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FA
+Sum of letters (A=1, B=2, etc): between 72 and 73 (inclusive)

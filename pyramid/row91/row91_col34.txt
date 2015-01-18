@@ -1,0 +1,4 @@
+Base Scrabble score: 14 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 1
+Vowels: between 16.6% and 16.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

@@ -1,0 +1,8 @@
+Ends with: P
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B062
+
+This is a word with property NURI.
+This is a word with property LISHT.
+This is a word with property AMENYQEMAU.
+This is a word with property MENKAURE.
+This is a word with property NEFEREFRE.

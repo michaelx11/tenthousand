@@ -1,0 +1,4 @@
+Has property HAWARA: YES
+Letters located in the top row on a QWERTY keyboard: exactly 60.0% of the letters
+Sum of letters (A=1, B=2, etc): 128
+Vowels: exactly 30.0% of the letters

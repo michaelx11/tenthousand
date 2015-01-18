@@ -1,0 +1,5 @@
+Contains: IN
+Has property MERENRE: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 99
+Sum of letters (A=1, B=2, etc): between 40 and 47 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

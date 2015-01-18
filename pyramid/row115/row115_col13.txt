@@ -1,0 +1,4 @@
+Base Scrabble score: 20 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 440E
+
+This is a word with property ABUSIR.

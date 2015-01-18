@@ -1,0 +1,6 @@
+Has property SETHKA: YES
+Length: between 10 and 29 (inclusive) letters
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+Starts with: HO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

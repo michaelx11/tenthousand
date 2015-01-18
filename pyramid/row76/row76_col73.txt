@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Distinct consonants: 6
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 7 letters
+Length: 11 letters

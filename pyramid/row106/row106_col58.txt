@@ -1,0 +1,12 @@
+Base Scrabble score: between 10 and 12 (inclusive) points
+Contains: N
+Distinct consonants: 5
+Letters located in the middle row on a QWERTY keyboard: between 4 and 7 (inclusive)
+Most common letter(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 89 and 94 (inclusive)
+Vowels: 4
+
+This is a word with property AMENEMHAT.

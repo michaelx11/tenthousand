@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Distinct consonants: 4
+Letters located in the top row on a QWERTY keyboard: between 47.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Starts with: F

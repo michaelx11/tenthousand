@@ -1,0 +1,8 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Distinct letters: 7
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+Letters located in the bottom row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Most common vowel(s) each account(s) for: exactly 20.0% of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 123 and 151 (inclusive)

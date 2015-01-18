@@ -1,0 +1,2 @@
+Ends with: BAND
+Vowels: exactly 30.0% of the letters

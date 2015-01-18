@@ -1,0 +1,4 @@
+Base Scrabble score: 6 points
+Distinct vowels: 2
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 94.7% and 100.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AAB

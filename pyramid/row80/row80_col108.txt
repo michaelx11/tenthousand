@@ -1,0 +1,5 @@
+Contains: EA
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3AD
+Sum of letters (A=1, B=2, etc): 87
+
+This is NOT a word with property NURI.

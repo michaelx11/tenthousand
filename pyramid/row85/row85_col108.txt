@@ -1,0 +1,4 @@
+Base Scrabble score: 17 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 80.0% of the letters
+Sum of letters (A=1, B=2, etc): 110
+Vowels: exactly 30.0% of the letters

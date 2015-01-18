@@ -1,0 +1,2 @@
+Base Scrabble score: 41 points
+Has property PEPI: YES

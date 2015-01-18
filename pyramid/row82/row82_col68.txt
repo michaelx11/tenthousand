@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Contains: EL
+Distinct letters: between 11 and 13 (inclusive)
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 10 and 19 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Starts with a vowel: NO

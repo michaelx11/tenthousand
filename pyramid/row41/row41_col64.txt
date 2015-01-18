@@ -1,0 +1,6 @@
+Contains: TED
+Letters located in the middle row on a QWERTY keyboard: between 27.2% and 28.6% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: D77
+
+This is NOT a word with property AMENYQEMAU.

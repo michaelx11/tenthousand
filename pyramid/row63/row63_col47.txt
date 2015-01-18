@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 81.8% and 85.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A23
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 89 and 93 (inclusive)

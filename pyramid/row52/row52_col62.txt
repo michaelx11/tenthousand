@@ -1,0 +1,2 @@
+Starts with: GEM
+Vowels: between 23.5% and 25.0% (inclusive) of the letters

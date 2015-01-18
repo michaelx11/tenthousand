@@ -1,0 +1,5 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: B
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Vowels: between 16.6% and 20.0% (inclusive) of the letters

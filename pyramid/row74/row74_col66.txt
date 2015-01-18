@@ -1,0 +1,6 @@
+Base Scrabble score: 19 points
+Distinct vowels: 3
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 28.5% and 30.8% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: 3
+Starts with a vowel: YES
+Vowels: between 30.7% and 30.8% (inclusive) of the letters

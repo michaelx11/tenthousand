@@ -1,0 +1,10 @@
+Base Scrabble score: 9 points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Has at least one anagram that is also in the word list: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 80
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 70 and 71 (inclusive)
+
+This is a word with property QAKAREIBI.

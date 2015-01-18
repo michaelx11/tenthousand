@@ -1,0 +1,7 @@
+Most common vowel(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 43
+Starts with: R
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+
+This is NOT a word with property LISHT.

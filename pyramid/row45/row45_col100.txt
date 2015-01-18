@@ -1,0 +1,7 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 61.5% and 62.5% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 12.0% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55
+Sum of letters (A=1, B=2, etc): 122
+
+This is NOT a word with property SETHKA.
+This is NOT a word with property MAZGHUNA.

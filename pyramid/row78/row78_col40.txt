@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: NO
+Contains: REC
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

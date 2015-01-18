@@ -1,0 +1,4 @@
+Base Scrabble score: 16 points
+Contains: G
+Sum of letters (A=1, B=2, etc): 135
+Vowels: between 27.2% and 27.3% (inclusive) of the letters

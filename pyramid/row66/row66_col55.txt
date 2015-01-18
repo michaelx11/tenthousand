@@ -1,0 +1,7 @@
+Contains at least one doubled letter: NO
+Has property HAWARA: YES
+Has property KHUI: YES
+Most common letter(s) each appear(s): between 4 and 7 (inclusive) times
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Vowels: 7

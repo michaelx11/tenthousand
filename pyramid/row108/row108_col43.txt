@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 996
+Vowels: between 22.2% and 22.3% (inclusive) of the letters

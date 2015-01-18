@@ -1,0 +1,4 @@
+Contains: SON
+Distinct vowels: 2
+Sum of letters (A=1, B=2, etc): between 117 and 118 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,7 @@
+Some statements that uniquely identify TWINKLERS:
+
+Contains: ER
+Distinct letters: 9
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 13A
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

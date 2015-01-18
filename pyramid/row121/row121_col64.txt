@@ -1,0 +1,9 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 43.7% and 45.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Sum of letters (A=1, B=2, etc): 91
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This is a word with property QAKAREIBI.

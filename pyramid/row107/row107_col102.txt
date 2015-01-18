@@ -1,0 +1,6 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Contains: MP
+Letters located in the middle row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AEA
+
+This is a word with property KHUI.

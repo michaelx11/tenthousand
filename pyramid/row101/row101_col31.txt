@@ -1,0 +1,5 @@
+Length: between 2 and 7 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 38.4% and 41.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: FA
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

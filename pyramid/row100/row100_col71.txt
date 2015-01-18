@@ -1,0 +1,8 @@
+Has property KHUI: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 7 and 10 (inclusive) letters
+Length: between 12 and 17 (inclusive) letters
+Most common consonant(s) each account(s) for: between 5.5% and 11.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: E
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 134 and 186 (inclusive)
+Vowels: 5

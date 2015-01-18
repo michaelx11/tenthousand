@@ -1,0 +1,6 @@
+Base Scrabble score: 16 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains: IE
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 28
+Vowels: between 42.8% and 42.9% (inclusive) of the letters

@@ -1,0 +1,3 @@
+Base Scrabble score: 17 points
+Most common vowel(s) each account(s) for: between 17.6% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A22

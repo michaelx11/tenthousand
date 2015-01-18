@@ -1,0 +1,5 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 100.0% of the letters
+Most common letter(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 64
+
+This is a word with property QAKAREIBI.

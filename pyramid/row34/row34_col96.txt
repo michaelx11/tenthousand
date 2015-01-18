@@ -1,0 +1,5 @@
+Base Scrabble score: 21 points
+Contains: S
+Length: 12 letters
+Letters located in the bottom row on a QWERTY keyboard: between 5 and 7 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C

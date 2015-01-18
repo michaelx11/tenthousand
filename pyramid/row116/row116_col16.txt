@@ -1,0 +1,5 @@
+Ends with: ANCH
+Sum of letters (A=1, B=2, etc): 40
+
+This is a word with property DJOSER.
+This word is associated with the color USERKAF.

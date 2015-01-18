@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Contains at least one doubled letter: YES
+Has property SETHKA: YES
+Letters located in the top row on a QWERTY keyboard: exactly 12.5% of the letters
+Vowels: 3

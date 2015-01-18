@@ -1,0 +1,6 @@
+Base Scrabble score: between 21 and 23 (inclusive) points
+Contains at least one doubled letter: YES
+Distinct consonants: 6
+Ends with: Y
+Letters located in the top row on a QWERTY keyboard: 7
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32

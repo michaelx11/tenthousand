@@ -1,0 +1,8 @@
+Contains at least two different doubled letters: NO
+Contains: U
+Distinct letters: 8
+Letters located in the top row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+Starts with a vowel: NO
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

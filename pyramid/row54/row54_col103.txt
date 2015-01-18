@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Ends with: ION
+Has at least one anagram that is also in the word list: NO
+Letters located in the bottom row on a QWERTY keyboard: between 22.2% and 22.3% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 11.1% and 12.5% (inclusive) of the letters
+Vowels: 5

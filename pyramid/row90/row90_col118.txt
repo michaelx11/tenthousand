@@ -1,0 +1,3 @@
+Distinct letters: 10
+Most common consonant(s) each account(s) for: between 13.3% and 13.4% (inclusive) of the letters
+Starts with: MISA

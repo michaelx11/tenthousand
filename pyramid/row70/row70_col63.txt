@@ -1,0 +1,7 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: RI
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 63.6% and 66.7% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Sum of letters (A=1, B=2, etc): between 3 and 98 (inclusive)

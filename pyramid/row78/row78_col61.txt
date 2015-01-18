@@ -1,0 +1,7 @@
+Base Scrabble score: between 14 and 15 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: P
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 2 and 6 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Vowels: 2

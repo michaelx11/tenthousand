@@ -1,0 +1,10 @@
+Some statements that uniquely identify EYELASHES:
+
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Most common vowel(s) each appear(s): between 3 and 7 (inclusive) times
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 98 and 111 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

@@ -1,0 +1,7 @@
+Contains: ND
+Distinct consonants: between 6 and 11 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5D
+Starts with a vowel: NO
+Vowels: between 38.0% and 39.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

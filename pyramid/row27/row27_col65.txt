@@ -1,0 +1,4 @@
+Base Scrabble score: 18 points
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 382
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

@@ -1,0 +1,4 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EE6
+Sum of letters (A=1, B=2, etc): between 89 and 94 (inclusive)
+Vowels: 1
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

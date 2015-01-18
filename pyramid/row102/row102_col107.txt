@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Letters located in the middle row on a QWERTY keyboard: 1
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 116
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

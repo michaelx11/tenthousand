@@ -1,0 +1,2 @@
+Ends with: ISP
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B

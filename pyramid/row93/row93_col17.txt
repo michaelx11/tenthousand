@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Ends with: E
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 76

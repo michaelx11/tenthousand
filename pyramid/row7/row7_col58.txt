@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Contains: Y
+Letters located in the bottom row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 91

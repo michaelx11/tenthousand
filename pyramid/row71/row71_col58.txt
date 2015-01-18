@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Letters located in the bottom row on a QWERTY keyboard: between 14.2% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 9
+Starts with a vowel: NO
+Vowels: between 35.2% and 35.8% (inclusive) of the letters

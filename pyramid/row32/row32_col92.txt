@@ -1,0 +1,6 @@
+Contains: Y
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 92.8% and 100.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 71 and 72 (inclusive)

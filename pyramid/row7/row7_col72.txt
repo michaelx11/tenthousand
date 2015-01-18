@@ -1,0 +1,5 @@
+Base Scrabble score: between 15 and 18 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Sum of letters (A=1, B=2, etc): between 108 and 109 (inclusive)
+Vowels: between 5 and 11 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: between 13 and 18 (inclusive) points
+Contains: ATR
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 80.0% of the letters
+Letters located in the top row on a QWERTY keyboard: between 47.6% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 66
+Vowels: exactly 40.0% of the letters

@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+Most common letter(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3CA
+Sum of letters (A=1, B=2, etc): 120

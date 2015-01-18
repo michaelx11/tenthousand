@@ -1,0 +1,5 @@
+Contains: ES
+Letters located in the middle row on a QWERTY keyboard: between 16.6% and 16.7% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: CEA
+
+This is NOT a word with property MEIDUM.

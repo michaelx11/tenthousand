@@ -1,0 +1,3 @@
+Base Scrabble score: 22 points
+Most common consonant(s) each account(s) for: between 9.0% and 9.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 158

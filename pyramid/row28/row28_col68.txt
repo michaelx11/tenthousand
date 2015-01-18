@@ -1,0 +1,3 @@
+Base Scrabble score: 15 points
+Contains: RIN
+Vowels: exactly 20.0% of the letters

@@ -1,0 +1,2 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C2DF
+Sum of letters (A=1, B=2, etc): between 55 and 56 (inclusive)

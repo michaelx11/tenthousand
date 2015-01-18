@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: ING
+Distinct consonants: 6
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 28
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

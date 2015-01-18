@@ -1,0 +1,4 @@
+Base Scrabble score: 24 points
+Distinct letters: 9
+Letters located in the middle row on a QWERTY keyboard: between 46.1% and 47.1% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

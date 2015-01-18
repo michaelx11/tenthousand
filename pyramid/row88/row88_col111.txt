@@ -1,0 +1,4 @@
+Base Scrabble score: between 3 and 8 (inclusive) points
+Ends with: NT
+Letters located in the top row on a QWERTY keyboard: between 42.8% and 42.9% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 64

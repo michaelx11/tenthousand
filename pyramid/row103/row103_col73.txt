@@ -1,0 +1,5 @@
+Base Scrabble score: 7 points
+Contains: OLL
+Sum of letters (A=1, B=2, etc): between 95 and 96 (inclusive)
+
+This is NOT a word with property UNAS.

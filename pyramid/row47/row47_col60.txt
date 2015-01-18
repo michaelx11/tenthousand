@@ -1,0 +1,7 @@
+Base Scrabble score: 14 points
+Contains at least one doubled letter: YES
+Distinct letters: 9
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 4 and 8 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 124 and 139 (inclusive)
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

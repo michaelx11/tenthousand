@@ -1,0 +1,5 @@
+Base Scrabble score: between 24 and 49 (inclusive) points
+Contains: UE
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: between 41.1% and 42.9% (inclusive) of the letters

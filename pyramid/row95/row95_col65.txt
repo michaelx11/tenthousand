@@ -1,0 +1,7 @@
+Contains: LT
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F3
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 58 and 66 (inclusive)
+
+This is NOT a word with property AMENYQEMAU.

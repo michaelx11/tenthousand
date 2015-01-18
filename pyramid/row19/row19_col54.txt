@@ -1,0 +1,5 @@
+Letters located in the middle row on a QWERTY keyboard: between 0 and 2 (inclusive)
+Most common vowel(s) each account(s) for: between 9.0% and 9.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7F5
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,6 @@
+Contains: RC
+Distinct consonants: 4
+Most common consonant(s) each appear(s): between 0 and 1 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO

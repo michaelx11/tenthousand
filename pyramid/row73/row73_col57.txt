@@ -1,0 +1,2 @@
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D9C4

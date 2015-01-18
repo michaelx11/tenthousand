@@ -1,0 +1,5 @@
+Contains: REC
+Distinct letters: 8
+Has property PEPI: YES
+Length: 13 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

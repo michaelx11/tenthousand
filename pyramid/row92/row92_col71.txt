@@ -1,0 +1,4 @@
+Contains: OLE
+Letters located in the middle row on a QWERTY keyboard: between 5 and 7 (inclusive)
+Most common vowel(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 107 and 134 (inclusive)

@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Contains: Y
+Sum of letters (A=1, B=2, etc): between 123 and 157 (inclusive)
+Vowels: between 45.4% and 45.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

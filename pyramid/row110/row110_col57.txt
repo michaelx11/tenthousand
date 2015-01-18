@@ -1,0 +1,9 @@
+Base Scrabble score: between 10 and 12 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: G
+Distinct consonants: 4
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 13 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Sum of letters (A=1, B=2, etc): between 85 and 86 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

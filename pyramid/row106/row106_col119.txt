@@ -1,0 +1,9 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Has property KHUI: YES
+Length: between 2 and 8 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: B
+Sum of letters (A=1, B=2, etc): between 92 and 95 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Contains at least one doubled letter: NO
+Contains: FE
+Distinct consonants: 3
+Length: 8 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

@@ -1,0 +1,9 @@
+Contains at least one doubled letter: YES
+Ends with: S
+Letters located in the top row on a QWERTY keyboard: between 1 and 2 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with a vowel: YES
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+
+This is a word with property KHUI.

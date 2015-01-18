@@ -1,0 +1,5 @@
+Base Scrabble score: between 21 and 26 (inclusive) points
+Contains at least one doubled letter: YES
+Most common consonant(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 77
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

@@ -1,0 +1,3 @@
+Base Scrabble score: 6 points
+Starts with: PA
+Sum of letters (A=1, B=2, etc): 44

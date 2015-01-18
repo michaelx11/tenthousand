@@ -1,0 +1,8 @@
+Contains at least one doubled letter: YES
+Contains: ER
+Distinct vowels: 2
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

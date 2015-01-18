@@ -1,0 +1,7 @@
+Contains: B
+Most common consonant(s) each account(s) for: between 9.5% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F4
+Vowels: 4
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+
+This is NOT a word with property ABUSIR.

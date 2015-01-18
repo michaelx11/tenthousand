@@ -1,0 +1,6 @@
+Distinct consonants: 4
+Letters located in the middle row on a QWERTY keyboard: between 41.6% and 42.9% (inclusive) of the letters
+Starts with: CO
+Vowels: between 26.6% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

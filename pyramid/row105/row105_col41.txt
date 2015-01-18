@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Contains: FL
+Distinct vowels: 2
+Most common vowel(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc): between 114 and 122 (inclusive)

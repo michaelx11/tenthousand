@@ -1,0 +1,8 @@
+Base Scrabble score: 10 points
+Contains: TA
+Distinct consonants: 4
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 8 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: 5
+
+This is NOT a word with property MEIDUM.

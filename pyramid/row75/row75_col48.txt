@@ -1,0 +1,5 @@
+Distinct letters: 8
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 91.6% and 91.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 67
+Sum of letters (A=1, B=2, etc): between 118 and 124 (inclusive)

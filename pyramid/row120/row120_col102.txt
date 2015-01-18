@@ -1,0 +1,5 @@
+Letters located in the top row on a QWERTY keyboard: exactly 37.5% of the letters
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 3F
+Vowels: between 35.2% and 37.5% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

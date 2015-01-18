@@ -1,0 +1,2 @@
+Contains: VIG
+Letters located in the top row on a QWERTY keyboard: between 64.2% and 64.3% (inclusive) of the letters

@@ -1,0 +1,9 @@
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 4 letters
+Letters located in the top row on a QWERTY keyboard: between 64.7% and 66.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 77 and 85 (inclusive)
+Vowels: between 45.4% and 50.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO
+
+This is a word with property AMENEMHAT.

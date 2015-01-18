@@ -1,0 +1,6 @@
+Contains: PS
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 80
+Sum of letters (A=1, B=2, etc): 101
+Vowels: 3
+
+This is NOT a word with property LISHT.

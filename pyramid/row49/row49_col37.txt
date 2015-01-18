@@ -1,0 +1,4 @@
+Base Scrabble score: between 20 and 21 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 5
+Vowels: between 23.0% and 25.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 double-precision floating point format: NO

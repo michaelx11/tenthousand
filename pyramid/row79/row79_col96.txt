@@ -1,0 +1,4 @@
+Distinct consonants: between 8 and 11 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Sum of letters (A=1, B=2, etc): 139
+Vowels: between 4 and 7 (inclusive)

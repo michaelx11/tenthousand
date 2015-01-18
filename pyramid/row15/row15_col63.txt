@@ -1,0 +1,4 @@
+Has property SETHKA: YES
+Has property UNAS: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC
+Vowels: between 55.5% and 55.6% (inclusive) of the letters

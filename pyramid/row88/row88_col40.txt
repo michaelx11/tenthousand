@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 623
+Starts with: A
+Vowels: between 1 and 2 (inclusive)

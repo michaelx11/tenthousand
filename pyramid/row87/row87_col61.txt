@@ -1,0 +1,4 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: RIL
+Distinct consonants: 5
+Letters located in the top row on a QWERTY keyboard: between 45.0% and 46.2% (inclusive) of the letters

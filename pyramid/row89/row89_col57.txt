@@ -1,0 +1,5 @@
+Contains: IF
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 56.0% and 57.2% (inclusive) of the letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Sum of letters (A=1, B=2, etc): between 69 and 78 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

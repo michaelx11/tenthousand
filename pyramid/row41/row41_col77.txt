@@ -1,0 +1,8 @@
+Contains at least one doubled letter: YES
+Contains: ONS
+Distinct vowels: 4
+Most common consonant(s) each account(s) for: between 23.0% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B3
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: YES
+
+This is a word with property HAWARA.

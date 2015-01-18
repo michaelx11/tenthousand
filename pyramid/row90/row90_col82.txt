@@ -1,0 +1,5 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 88.2% and 88.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 55.5% and 55.6% (inclusive) of the letters
+Most common vowel(s) each appear(s): between 0 and 1 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Sum of letters (A=1, B=2, etc): 124

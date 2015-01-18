@@ -1,0 +1,4 @@
+Base Scrabble score: 19 points
+Contains: LL
+Distinct letters: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0

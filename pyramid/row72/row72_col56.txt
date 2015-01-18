@@ -1,0 +1,7 @@
+Contains at least one doubled letter: YES
+Distinct consonants: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F6E
+Starts with a vowel: NO
+Vowels: between 39.2% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

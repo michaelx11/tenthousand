@@ -1,0 +1,2 @@
+Ends with: WORM
+Sum of letters (A=1, B=2, etc): between 75 and 78 (inclusive)

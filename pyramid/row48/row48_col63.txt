@@ -1,0 +1,7 @@
+Base Scrabble score: between 27 and 32 (inclusive) points
+Contains: TI
+Distinct consonants: between 8 and 10 (inclusive)
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Sum of letters (A=1, B=2, etc): between 138 and 151 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

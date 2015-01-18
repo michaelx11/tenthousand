@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+Distinct consonants: 3
+Starts with: GU
+Vowels: exactly 25.0% of the letters

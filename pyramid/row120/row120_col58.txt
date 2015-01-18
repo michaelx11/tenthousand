@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 3 and 60 (inclusive)
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

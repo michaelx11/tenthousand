@@ -1,0 +1,8 @@
+Base Scrabble score: between 6 and 7 (inclusive) points
+Distinct letters: between 6 and 7 (inclusive)
+Has at least one anagram that is also in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: between 16.6% and 16.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

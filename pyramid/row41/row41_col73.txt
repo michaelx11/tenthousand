@@ -1,0 +1,7 @@
+Base Scrabble score: 16 points
+Contains at least one doubled letter: NO
+Contains: T
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: 3
+Most common vowel(s) each appear(s): 2 times
+Sum of letters (A=1, B=2, etc): 129

@@ -1,0 +1,2 @@
+Has property DJOSER: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E868

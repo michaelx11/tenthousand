@@ -1,0 +1,6 @@
+Contains: Z
+Distinct consonants: between 7 and 12 (inclusive)
+Sum of letters (A=1, B=2, etc): between 139 and 153 (inclusive)
+Vowels: 2
+
+This is NOT a word with property MENKAURE.

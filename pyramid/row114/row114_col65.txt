@@ -1,0 +1,5 @@
+Contains: UN
+Letters located in the middle row on a QWERTY keyboard: between 26.6% and 27.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

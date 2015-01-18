@@ -1,0 +1,4 @@
+Base Scrabble score: 12 points
+Contains: SED
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 20B

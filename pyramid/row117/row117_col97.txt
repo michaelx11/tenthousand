@@ -1,0 +1,2 @@
+Contains: IST
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F611

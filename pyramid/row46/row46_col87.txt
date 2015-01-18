@@ -1,0 +1,8 @@
+Base Scrabble score: between 17 and 20 (inclusive) points
+Contains: TR
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 10 and 23 (inclusive) letters
+Length: between 13 and 17 (inclusive) letters
+Most common letter(s) each appear(s): between 3 and 5 (inclusive) times
+Sum of letters (A=1, B=2, etc): between 173 and 188 (inclusive)
+Vowels: between 30.7% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

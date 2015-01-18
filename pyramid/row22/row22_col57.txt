@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+Contains: A
+Distinct vowels: 2
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 52.9% and 56.3% (inclusive) of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

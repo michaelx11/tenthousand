@@ -1,0 +1,6 @@
+Base Scrabble score: between 18 and 49 (inclusive) points
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: exactly 75.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D
+Sum of letters (A=1, B=2, etc): between 132 and 137 (inclusive)
+
+This is a word with property AMENYQEMAU.

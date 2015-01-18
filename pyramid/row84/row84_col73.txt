@@ -1,0 +1,5 @@
+Ends with: ICES
+Length: between 10 and 14 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B
+Starts with a vowel: NO
+Vowels: 4

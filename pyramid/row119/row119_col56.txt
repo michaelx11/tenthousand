@@ -1,0 +1,8 @@
+Base Scrabble score: between 16 and 20 (inclusive) points
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Length: 9 letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: between 1 and 2 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

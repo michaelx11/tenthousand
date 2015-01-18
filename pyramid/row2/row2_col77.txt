@@ -1,0 +1,8 @@
+Base Scrabble score: 20 points
+Contains at least one doubled letter: YES
+Contains: M
+Most common vowel(s) each account(s) for: between 13.3% and 14.3% (inclusive) of the letters
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: NO

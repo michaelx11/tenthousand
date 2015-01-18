@@ -1,0 +1,4 @@
+Has property KHUI: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Sum of letters (A=1, B=2, etc): 80
+Vowels: between 57.1% and 57.2% (inclusive) of the letters

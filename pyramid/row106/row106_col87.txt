@@ -1,0 +1,7 @@
+Contains: WIN
+Distinct letters: 8
+Letters located in the middle row on a QWERTY keyboard: between 10.5% and 11.2% (inclusive) of the letters
+Most common consonant(s) each appear(s): between 2 and 4 (inclusive) times
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+
+This is NOT a word with property MENKAURE.

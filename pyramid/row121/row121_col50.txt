@@ -1,0 +1,4 @@
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7E7
+Sum of letters (A=1, B=2, etc): between 83 and 84 (inclusive)
+Vowels: exactly 37.5% of the letters

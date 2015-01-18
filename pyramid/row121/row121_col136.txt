@@ -1,0 +1,8 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Contains: RE
+Distinct consonants: 4
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+Most common consonant(s) each account(s) for: between 21.4% and 22.3% (inclusive) of the letters
+Vowels: between 30.0% and 33.4% (inclusive) of the letters

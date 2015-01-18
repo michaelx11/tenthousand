@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Length: between 3 and 5 (inclusive) letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 36 and 42 (inclusive)
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

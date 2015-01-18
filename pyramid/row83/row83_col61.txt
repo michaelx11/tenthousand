@@ -1,0 +1,4 @@
+Distinct consonants: 5
+Ends with: R
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BFA4

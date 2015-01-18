@@ -1,0 +1,7 @@
+Some statements that uniquely identify TELEMETERS:
+
+Distinct letters: 6
+Letters located in the bottom row on a QWERTY keyboard: exactly 10.0% of the letters
+Sum of letters (A=1, B=2, etc): 122
+Vowels: between 4 and 5 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES

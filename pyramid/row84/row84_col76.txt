@@ -1,0 +1,4 @@
+Distinct letters: 10
+Has property KHUI: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 72.7% and 72.8% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 155

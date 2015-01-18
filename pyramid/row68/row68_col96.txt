@@ -1,0 +1,3 @@
+Base Scrabble score: 20 points
+Contains: IMO
+Length: 12 letters

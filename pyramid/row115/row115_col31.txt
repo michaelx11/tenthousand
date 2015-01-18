@@ -1,0 +1,6 @@
+Contains: G
+Most common vowel(s) each appear(s): 2 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 4C3
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

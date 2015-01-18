@@ -1,0 +1,9 @@
+Base Scrabble score: between 2 and 9 (inclusive) points
+Letters located in the top row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BB
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 90 and 95 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This is a word with property KHUI.

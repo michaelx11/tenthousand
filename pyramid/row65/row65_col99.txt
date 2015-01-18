@@ -1,0 +1,7 @@
+Base Scrabble score: between 17 and 18 (inclusive) points
+Distinct vowels: 3
+Length: 8 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Starts with: RE
+
+This is a word with property SOBEKNEFERU.

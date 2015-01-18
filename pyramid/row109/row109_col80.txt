@@ -1,0 +1,6 @@
+Contains: SS
+Distinct letters: 7
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 63
+Sum of letters (A=1, B=2, etc): between 123 and 125 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

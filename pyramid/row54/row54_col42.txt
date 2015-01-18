@@ -1,0 +1,5 @@
+Contains: SS
+Distinct letters: 6
+Sum of letters (A=1, B=2, etc): between 74 and 75 (inclusive)
+Vowels: between 42.8% and 42.9% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: between 13 and 15 (inclusive) points
+Contains: UM
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+Letters located in the middle row on a QWERTY keyboard: between 23.5% and 25.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc): between 63 and 107 (inclusive)

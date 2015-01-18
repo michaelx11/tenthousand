@@ -1,0 +1,4 @@
+Base Scrabble score: between 13 and 15 (inclusive) points
+Contains: AM
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 6CA
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

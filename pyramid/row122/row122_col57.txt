@@ -1,0 +1,4 @@
+Base Scrabble score: 6 points
+Length: 3 letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Starts with: RE

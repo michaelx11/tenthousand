@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+Letters located in the top row on a QWERTY keyboard: 0
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 3 and 35 (inclusive)

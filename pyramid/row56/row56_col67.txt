@@ -1,0 +1,6 @@
+Base Scrabble score: 11 points
+Contains: LL
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 47.0% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55
+Sum of letters (A=1, B=2, etc): between 78 and 102 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

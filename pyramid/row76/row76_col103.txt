@@ -1,0 +1,4 @@
+Base Scrabble score: 15 points
+Has property BIKHERIS: YES
+Has property MAZGHUNA: YES
+Vowels: between 41.1% and 42.9% (inclusive) of the letters

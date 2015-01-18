@@ -1,0 +1,5 @@
+Contains: TS
+Most common letter(s) each account(s) for: between 38.4% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 52
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES

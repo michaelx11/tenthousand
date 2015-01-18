@@ -1,0 +1,8 @@
+Base Scrabble score: 15 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 8 and 12 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+Most common letter(s) each appear(s): 1 time
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+
+This is NOT a word with property DJOSER.

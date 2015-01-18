@@ -1,0 +1,4 @@
+Base Scrabble score: between 2 and 13 (inclusive) points
+Contains: COD
+Distinct vowels: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E

@@ -1,0 +1,6 @@
+Base Scrabble score: between 21 and 25 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: CT
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

@@ -1,0 +1,5 @@
+Base Scrabble score: between 12 and 16 (inclusive) points
+Has property MERENRE: YES
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

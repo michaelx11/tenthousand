@@ -1,0 +1,4 @@
+Length: 12 letters
+Most common consonant(s) each appear(s): 2 times
+Starts with: HU
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

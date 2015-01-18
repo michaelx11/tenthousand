@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Distinct letters: 8
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 92
+Starts with a vowel: YES

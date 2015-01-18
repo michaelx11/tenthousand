@@ -1,0 +1,8 @@
+Base Scrabble score: 13 points
+Contains: IL
+Distinct consonants: between 0 and 3 (inclusive)
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 5 letters
+Most common consonant(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+Vowels: exactly 37.5% of the letters
+
+This is NOT a word with property NURI.

@@ -1,0 +1,7 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Has at least one anagram that is also in the word list: NO
+Letters located in the top row on a QWERTY keyboard: between 5 and 7 (inclusive)
+Most common vowel(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+Starts with a vowel: YES
+Vowels: 3

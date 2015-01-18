@@ -1,0 +1,6 @@
+Contains: H
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 92.8% and 100.0% (inclusive) of the letters
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 032
+Sum of letters (A=1, B=2, etc): between 77 and 90 (inclusive)
+Vowels: 3

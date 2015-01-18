@@ -1,0 +1,4 @@
+Base Scrabble score: between 10 and 19 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F
+Sum of letters (A=1, B=2, etc): 168
+Vowels: between 41.6% and 41.7% (inclusive) of the letters

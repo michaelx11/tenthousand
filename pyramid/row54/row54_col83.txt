@@ -1,0 +1,5 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Most common consonant(s) each account(s) for: between 7.6% and 9.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 128 and 143 (inclusive)
+Vowels: between 46.1% and 46.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

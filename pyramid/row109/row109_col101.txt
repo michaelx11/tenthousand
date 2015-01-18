@@ -1,0 +1,6 @@
+Distinct letters: 5
+Most common vowel(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3CA
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

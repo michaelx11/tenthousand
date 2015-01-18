@@ -1,0 +1,7 @@
+Contains: ER
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 6 and 10 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Starts with a vowel: YES
+Vowels: between 31.5% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 80
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): 81

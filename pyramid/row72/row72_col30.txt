@@ -1,0 +1,4 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A
+Starts with: J
+Sum of letters (A=1, B=2, etc): between 92 and 95 (inclusive)

@@ -1,0 +1,6 @@
+Contains at least one doubled letter: NO
+Contains: I
+Distinct letters: 6
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 7 and 11 (inclusive) letters
+Most common vowel(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 2B4

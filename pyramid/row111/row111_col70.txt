@@ -1,0 +1,3 @@
+Contains: LUF
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 6 letters
+Letters located in the top row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters

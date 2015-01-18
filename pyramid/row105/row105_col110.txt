@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Contains: TI
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 0
+Sum of letters (A=1, B=2, etc): 128

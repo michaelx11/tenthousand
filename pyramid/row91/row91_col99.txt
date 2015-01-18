@@ -1,0 +1,4 @@
+Base Scrabble score: between 16 and 27 (inclusive) points
+Distinct consonants: 7
+Letters located in the top row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 133

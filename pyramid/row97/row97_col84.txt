@@ -1,0 +1,4 @@
+Base Scrabble score: 9 points
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: E6A8
+
+This is NOT a word with property PEPI.

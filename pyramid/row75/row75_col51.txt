@@ -1,0 +1,6 @@
+Base Scrabble score: between 2 and 4 (inclusive) points
+Can be Caesar shifted to produce another word in the word list: YES
+Distinct vowels: 1
+Length: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 32
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

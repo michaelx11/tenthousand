@@ -1,0 +1,4 @@
+Contains: AG
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 77.7% and 77.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Sum of letters (A=1, B=2, etc): 90

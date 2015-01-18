@@ -1,0 +1,6 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Ends with: ESS
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 120 and 132 (inclusive)

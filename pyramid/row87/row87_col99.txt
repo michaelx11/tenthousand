@@ -1,0 +1,4 @@
+Base Scrabble score: between 22 and 28 (inclusive) points
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F6E
+Starts with a vowel: YES

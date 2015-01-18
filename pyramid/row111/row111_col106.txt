@@ -1,0 +1,4 @@
+Base Scrabble score: 11 points
+Contains: EN
+Most common vowel(s) each account(s) for: between 27.7% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 198

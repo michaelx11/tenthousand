@@ -1,0 +1,5 @@
+Base Scrabble score: 10 points
+Contains at least one doubled letter: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 3 letters
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 03

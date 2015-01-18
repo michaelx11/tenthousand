@@ -1,0 +1,8 @@
+Base Scrabble score: between 12 and 19 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: OD
+Letters located in the top row on a QWERTY keyboard: 5
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 112 and 114 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

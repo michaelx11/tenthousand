@@ -1,0 +1,6 @@
+Has property MERENRE: YES
+Has property SOBEKNEFERU: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 10CD
+Sum of letters (A=1, B=2, etc): between 29 and 57 (inclusive)
+
+This word is associated with the color ILLAHUN.

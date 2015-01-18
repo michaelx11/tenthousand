@@ -1,0 +1,6 @@
+Base Scrabble score: between 13 and 14 (inclusive) points
+Has property KHUI: YES
+Length: between 2 and 8 (inclusive) letters
+Most common consonant(s) each appear(s): 1 time
+Starts with: MA
+Sum of letters (A=1, B=2, etc): between 109 and 131 (inclusive)

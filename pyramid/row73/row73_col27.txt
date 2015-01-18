@@ -1,0 +1,4 @@
+Contains: RU
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 73
+Starts with a vowel: YES

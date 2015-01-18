@@ -1,0 +1,3 @@
+Base Scrabble score: 13 points
+Contains: SMO
+Length: 5 letters

@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Length: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: C8F
+Sum of letters (A=1, B=2, etc): between 70 and 73 (inclusive)
+
+This is NOT a word with property DJOSER.

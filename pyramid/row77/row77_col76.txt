@@ -1,0 +1,7 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains: IC
+Distinct consonants: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9
+Starts with a vowel: NO

@@ -1,0 +1,2 @@
+Ends with: ACHO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 3 letters

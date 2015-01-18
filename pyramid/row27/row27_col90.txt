@@ -1,0 +1,5 @@
+Base Scrabble score: 15 points
+Contains: W
+Has property MAZGHUNA: YES
+Length: 8 letters
+Sum of letters (A=1, B=2, etc): 109

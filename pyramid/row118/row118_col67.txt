@@ -1,0 +1,2 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 88.2% and 88.9% (inclusive) of the letters
+Starts with: RETH

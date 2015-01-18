@@ -1,0 +1,4 @@
+Contains: AN
+Length: 5 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A9D
+Starts with a vowel: YES

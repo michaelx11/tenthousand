@@ -1,0 +1,5 @@
+Base Scrabble score: 2 points
+Sum of letters (A=1, B=2, etc): 30
+
+This is a word with property NURI.
+This is a word with property LISHT.

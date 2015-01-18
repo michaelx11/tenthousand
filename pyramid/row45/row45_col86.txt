@@ -1,0 +1,4 @@
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A47
+Sum of letters (A=1, B=2, etc): between 96 and 100 (inclusive)
+Vowels: exactly 37.5% of the letters

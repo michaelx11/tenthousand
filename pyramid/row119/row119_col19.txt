@@ -1,0 +1,4 @@
+Base Scrabble score: 10 points
+Starts with: C
+Sum of letters (A=1, B=2, etc): 71
+Vowels: 1

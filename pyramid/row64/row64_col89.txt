@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Length: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7E2
+Vowels: between 18.7% and 25.0% (inclusive) of the letters

@@ -1,0 +1,5 @@
+Base Scrabble score: between 22 and 23 (inclusive) points
+Contains: STS
+Distinct vowels: 2
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 8 (inclusive)

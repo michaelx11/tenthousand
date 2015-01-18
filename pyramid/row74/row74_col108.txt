@@ -1,0 +1,9 @@
+Base Scrabble score: between 9 and 11 (inclusive) points
+Has at least one anagram that is also in the word list: NO
+Letters located in the middle row on a QWERTY keyboard: 1
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+Starts with: P
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 62 and 66 (inclusive)
+
+This is a word with property SOBEKNEFERU.

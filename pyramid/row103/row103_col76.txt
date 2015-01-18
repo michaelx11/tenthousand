@@ -1,0 +1,2 @@
+Letters located in the top row on a QWERTY keyboard: between 4 and 5 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F39D

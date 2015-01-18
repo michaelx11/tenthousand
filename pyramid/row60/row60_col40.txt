@@ -1,0 +1,7 @@
+Base Scrabble score: between 19 and 48 (inclusive) points
+Contains: H
+Length: 10 letters
+Letters located in the middle row on a QWERTY keyboard: between 1 and 2 (inclusive)
+Most common vowel(s) each appear(s): between 3 and 7 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with a vowel: YES

@@ -1,0 +1,7 @@
+Contains: TA
+Has at least one anagram that is also in the word list: YES
+Letters located in the middle row on a QWERTY keyboard: 3
+Most common consonant(s) each account(s) for: between 23.5% and 25.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B1
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 31 and 94 (inclusive)

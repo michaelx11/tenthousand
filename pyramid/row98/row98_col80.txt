@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Has property KHUI: YES
+Length: between 9 and 10 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D

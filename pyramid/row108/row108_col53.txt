@@ -1,0 +1,4 @@
+Contains: DER
+Most common vowel(s) each account(s) for: between 0.0% and 9.1% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: D0
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

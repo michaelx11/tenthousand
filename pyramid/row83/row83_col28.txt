@@ -1,0 +1,9 @@
+Base Scrabble score: between 14 and 19 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains: L
+Distinct vowels: 3
+Length: 11 letters
+Letters located in the bottom row on a QWERTY keyboard: 2
+Most common letter(s) each account(s) for: between 16.0% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 5

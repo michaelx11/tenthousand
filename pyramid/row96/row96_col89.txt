@@ -1,0 +1,9 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains at least two different doubled letters: NO
+Contains: ES
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 4 (inclusive)
+Most common vowel(s) each appear(s): 1 time
+Vowels: exactly 30.0% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES

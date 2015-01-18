@@ -1,0 +1,4 @@
+Contains: P
+Letters located in the bottom row on a QWERTY keyboard: exactly 12.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 67
+Sum of letters (A=1, B=2, etc): 124

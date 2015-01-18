@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Contains: REM
+Length: 10 letters
+Most common consonant(s) each appear(s): 2 times
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: between 19 and 22 (inclusive) points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 9 and 22 (inclusive) letters
+Letters located in the bottom row on a QWERTY keyboard: between 36.3% and 36.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 128
+Vowels: between 36.3% and 36.4% (inclusive) of the letters

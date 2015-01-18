@@ -1,0 +1,4 @@
+Starts with: BREV
+Sum of letters (A=1, B=2, etc): 81
+
+This is a word with property PEPI.

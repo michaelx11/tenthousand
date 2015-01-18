@@ -1,0 +1,5 @@
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 0
+Vowels: between 16.6% and 16.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

@@ -1,0 +1,7 @@
+Ends with: K
+Length: between 2 and 3 (inclusive) letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+
+This is a word with property NURI.

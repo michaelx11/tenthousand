@@ -1,0 +1,2 @@
+Letters located in the middle row on a QWERTY keyboard: between 57.1% and 57.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 188F

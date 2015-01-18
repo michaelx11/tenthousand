@@ -1,0 +1,6 @@
+Base Scrabble score: between 9 and 11 (inclusive) points
+Contains at least one doubled letter: YES
+Ends with: LING
+Length: 9 letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO

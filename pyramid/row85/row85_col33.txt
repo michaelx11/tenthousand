@@ -1,0 +1,6 @@
+Base Scrabble score: 14 points
+Contains: NG
+Distinct vowels: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 67
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

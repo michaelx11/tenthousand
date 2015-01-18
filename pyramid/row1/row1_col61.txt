@@ -1,0 +1,5 @@
+Contains: AIN
+Letters located in the bottom row on a QWERTY keyboard: between 31.2% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: 2

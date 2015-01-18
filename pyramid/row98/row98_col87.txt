@@ -1,0 +1,10 @@
+Base Scrabble score: 16 points
+Contains at least one doubled letter: YES
+Most common vowel(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 22
+Vowels: between 5 and 8 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+
+This is NOT a word with property AMENEMHAT.
+This is NOT a word with property ABUSIR.

@@ -1,0 +1,7 @@
+Contains at least two different doubled letters: NO
+Contains: OO
+Letters located in the bottom row on a QWERTY keyboard: between 10.0% and 11.2% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 125 and 307 (inclusive)
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO

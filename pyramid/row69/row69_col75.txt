@@ -1,0 +1,4 @@
+Has property MAZGHUNA: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F64
+Sum of letters (A=1, B=2, etc): between 67 and 75 (inclusive)
+Vowels: 1

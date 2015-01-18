@@ -1,0 +1,6 @@
+Base Scrabble score: 15 points
+Distinct letters: 5
+Has property MAZGHUNA: YES
+Length: between 3 and 6 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 47.0% and 50.0% (inclusive) of the letters
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

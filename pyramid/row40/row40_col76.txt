@@ -1,0 +1,3 @@
+Most common vowel(s) each account(s) for: between 18.1% and 18.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 4B94
+Vowels: between 1 and 4 (inclusive)

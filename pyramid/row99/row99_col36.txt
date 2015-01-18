@@ -1,0 +1,5 @@
+Base Scrabble score: 7 points
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 4 and 5 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 39.2% and 40.0% (inclusive) of the letters
+Most common letter(s) each appear(s): between 2 and 3 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F

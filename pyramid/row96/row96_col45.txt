@@ -1,0 +1,4 @@
+Base Scrabble score: between 16 and 49 (inclusive) points
+Letters located in the bottom row on a QWERTY keyboard: 0
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: A
+Sum of letters (A=1, B=2, etc): 113

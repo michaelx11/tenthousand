@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 81.8% and 81.9% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 54.5% and 54.6% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 111

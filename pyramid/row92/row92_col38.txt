@@ -1,0 +1,7 @@
+Contains: MP
+Letters located in the middle row on a QWERTY keyboard: exactly 20.0% of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Vowels: between 18.7% and 20.0% (inclusive) of the letters
+
+This is a word with property MENKAURE.

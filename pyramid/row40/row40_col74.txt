@@ -1,0 +1,5 @@
+Base Scrabble score: 8 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 0 letters
+Sum of letters (A=1, B=2, etc): 66
+
+This is NOT a word with property HAWARA.

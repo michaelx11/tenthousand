@@ -1,0 +1,3 @@
+Contains: OB
+Distinct vowels: 1
+Sum of letters (A=1, B=2, etc): 58

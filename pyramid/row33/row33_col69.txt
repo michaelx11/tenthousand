@@ -1,0 +1,5 @@
+Contains: OL
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 12 and 18 (inclusive) letters
+Letters located in the middle row on a QWERTY keyboard: between 5 and 12 (inclusive)
+Most common letter(s) each account(s) for: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: BC

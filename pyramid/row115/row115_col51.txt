@@ -1,0 +1,5 @@
+Letters located in the middle row on a QWERTY keyboard: between 23.8% and 25.0% (inclusive) of the letters
+Most common consonant(s) each account(s) for: exactly 37.5% of the letters
+Sum of letters (A=1, B=2, etc): 142
+
+This is a word with property AMENYQEMAU.

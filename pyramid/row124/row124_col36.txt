@@ -1,0 +1,6 @@
+Base Scrabble score: 17 points
+Contains at least one doubled letter: NO
+Ends with: IS
+Length: between 8 and 9 (inclusive) letters
+Starts with a vowel: NO
+Vowels: 3

@@ -1,0 +1,11 @@
+Contains at least one doubled letter: NO
+Contains: N
+Letters located in the middle row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): 89
+Vowels: between 42.8% and 42.9% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This is NOT a word with property PEPI.
+This is a word with property BIKHERIS.

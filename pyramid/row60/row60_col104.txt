@@ -1,0 +1,4 @@
+Base Scrabble score: between 15 and 16 (inclusive) points
+Contains: VA
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 935
+Vowels: between 47.3% and 50.0% (inclusive) of the letters

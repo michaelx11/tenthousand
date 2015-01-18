@@ -1,0 +1,4 @@
+Base Scrabble score: 21 points
+Letters located in the middle row on a QWERTY keyboard: between 14.2% and 15.4% (inclusive) of the letters
+Most common consonant(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5

@@ -1,0 +1,8 @@
+Base Scrabble score: 10 points
+Distinct vowels: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 808
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

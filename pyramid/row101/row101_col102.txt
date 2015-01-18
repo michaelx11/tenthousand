@@ -1,0 +1,4 @@
+Contains: US
+Has at least one anagram that is also in the word list: NO
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FD1
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES

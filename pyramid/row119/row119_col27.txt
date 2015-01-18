@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Has property QAKAREIBI: YES
+Most common vowel(s) each account(s) for: between 10.0% and 11.2% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 124 and 148 (inclusive)

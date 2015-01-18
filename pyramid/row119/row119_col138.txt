@@ -1,0 +1,4 @@
+Base Scrabble score: 13 points
+Contains: ON
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 2 letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

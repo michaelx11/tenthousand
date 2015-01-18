@@ -1,0 +1,7 @@
+Base Scrabble score: between 19 and 22 (inclusive) points
+Contains: E
+Distinct letters: 6
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E6C
+Sum of letters (A=1, B=2, etc): between 70 and 97 (inclusive)
+
+This is a word with property MAZGHUNA.

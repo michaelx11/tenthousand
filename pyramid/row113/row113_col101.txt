@@ -1,0 +1,8 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Letters located in the middle row on a QWERTY keyboard: between 26.3% and 27.8% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 17.6% and 20.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B1
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Vowels: between 35.0% and 36.9% (inclusive) of the letters

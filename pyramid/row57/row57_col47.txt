@@ -1,0 +1,5 @@
+Base Scrabble score: 14 points
+Distinct consonants: 6
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 6 and 11 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 6
+Sum of letters (A=1, B=2, etc): between 91 and 94 (inclusive)

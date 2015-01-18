@@ -1,0 +1,6 @@
+Contains: G
+Distinct consonants: 4
+Has property KHUI: YES
+Has property SOBEKNEFERU: YES
+Letters located in the middle row on a QWERTY keyboard: between 4 and 12 (inclusive)
+Most common consonant(s) each account(s) for: between 15.3% and 16.7% (inclusive) of the letters

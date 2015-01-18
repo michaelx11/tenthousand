@@ -1,0 +1,6 @@
+Base Scrabble score: between 15 and 18 (inclusive) points
+Contains: BL
+Letters located in the bottom row on a QWERTY keyboard: between 13.6% and 14.3% (inclusive) of the letters
+Most common consonant(s) each appear(s): between 0 and 1 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: 12 points
+Contains: TU
+Length: 7 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E3
+Sum of letters (A=1, B=2, etc): between 86 and 92 (inclusive)

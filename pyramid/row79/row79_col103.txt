@@ -1,0 +1,4 @@
+Distinct consonants: 7
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 81.8% and 81.9% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 45.4% and 45.5% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 135

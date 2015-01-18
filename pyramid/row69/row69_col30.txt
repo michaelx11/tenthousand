@@ -1,0 +1,5 @@
+Base Scrabble score: 11 points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Has property MEIDUM: YES
+Has property SETHKA: YES
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)

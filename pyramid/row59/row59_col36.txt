@@ -1,0 +1,4 @@
+Starts with: SHAK
+Sum of letters (A=1, B=2, etc): 92
+
+This is a word with property BIKHERIS.

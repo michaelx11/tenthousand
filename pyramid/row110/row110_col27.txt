@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Contains: C
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 3AC
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 90 and 93 (inclusive)

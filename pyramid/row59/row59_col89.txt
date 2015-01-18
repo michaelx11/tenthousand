@@ -1,0 +1,7 @@
+Base Scrabble score: 19 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 88.2% and 88.9% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: between 33.3% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 86 and 97 (inclusive)
+Vowels: 4
+
+This is a word with property ABUSIR.

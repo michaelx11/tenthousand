@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 84.6% and 85.8% (inclusive) of the letters
+Most common vowel(s) each account(s) for: between 42.8% and 42.9% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 55
+Vowels: between 57.1% and 57.2% (inclusive) of the letters

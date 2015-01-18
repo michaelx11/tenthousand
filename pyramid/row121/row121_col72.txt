@@ -1,0 +1,3 @@
+Contains: LOE
+Distinct letters: 4
+Has property AMENYQEMAU: YES

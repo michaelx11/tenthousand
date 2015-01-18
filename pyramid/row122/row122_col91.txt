@@ -1,0 +1,5 @@
+Has property AMENYQEMAU: YES
+Has property MAZGHUNA: YES
+Letters located in the middle row on a QWERTY keyboard: exactly 30.0% of the letters
+Most common letter(s) each account(s) for: exactly 30.0% of the letters
+Sum of letters (A=1, B=2, etc): 144

@@ -1,0 +1,3 @@
+Has property KHUI: YES
+Starts with: TRE
+Sum of letters (A=1, B=2, etc): 106

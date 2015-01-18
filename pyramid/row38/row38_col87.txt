@@ -1,0 +1,5 @@
+Base Scrabble score: 22 points
+Letters located in the middle row on a QWERTY keyboard: exactly 60.0% of the letters
+Sum of letters (A=1, B=2, etc): 111
+
+This is a word with property BIKHERIS.

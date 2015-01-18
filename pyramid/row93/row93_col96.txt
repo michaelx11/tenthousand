@@ -1,0 +1,4 @@
+Distinct letters: 6
+Letters located in the top row on a QWERTY keyboard: between 44.4% and 44.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F
+Starts with a vowel: YES

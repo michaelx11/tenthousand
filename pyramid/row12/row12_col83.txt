@@ -1,0 +1,10 @@
+Base Scrabble score: 10 points
+Contains: OU
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1
+Sum of letters (A=1, B=2, etc): between 49 and 72 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: YES
+
+This is a word with property QAKAREIBI.
+This word is associated with the color AHMOSE.

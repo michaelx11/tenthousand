@@ -1,0 +1,10 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: L
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 87.5% of the letters
+Letters located in the top row on a QWERTY keyboard: between 5 and 6 (inclusive)
+Most common letter(s) each account(s) for: between 23.8% and 25.0% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: exactly 37.5% of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

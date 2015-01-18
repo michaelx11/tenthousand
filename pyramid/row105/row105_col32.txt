@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Contains: ENS
+Letters located in the bottom row on a QWERTY keyboard: between 3 and 8 (inclusive)
+Most common vowel(s) each account(s) for: between 15.3% and 15.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: A

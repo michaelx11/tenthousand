@@ -1,0 +1,6 @@
+Base Scrabble score: 7 points
+Ends with: NES
+Letters located in the middle row on a QWERTY keyboard: exactly 20.0% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+
+This word is associated with the concept SENUSRET.

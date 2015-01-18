@@ -1,0 +1,5 @@
+Distinct vowels: 3
+Letters located in the bottom row on a QWERTY keyboard: between 41.6% and 44.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A1
+Starts with: ME
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

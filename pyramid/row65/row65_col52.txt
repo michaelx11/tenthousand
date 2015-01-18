@@ -1,0 +1,5 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: DIN
+Distinct consonants: between 6 and 11 (inclusive)
+Most common letter(s) each account(s) for: between 22.2% and 22.3% (inclusive) of the letters

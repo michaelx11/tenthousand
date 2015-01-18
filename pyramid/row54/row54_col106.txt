@@ -1,0 +1,4 @@
+Ends with: GEON
+Sum of letters (A=1, B=2, etc): 77
+
+This is NOT a word with property MERENRE.

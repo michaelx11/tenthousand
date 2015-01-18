@@ -1,0 +1,9 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: NO
+Distinct letters: 7
+Ends with: ING
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 99
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 98 and 129 (inclusive)
+Vowels: between 33.3% and 33.4% (inclusive) of the letters

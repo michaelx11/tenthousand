@@ -1,0 +1,6 @@
+Letters located in the bottom row on a QWERTY keyboard: 1
+Most common consonant(s) each account(s) for: between 26.6% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 55
+Sum of letters (A=1, B=2, etc): 66
+
+This is a word with property AMENYQEMAU.

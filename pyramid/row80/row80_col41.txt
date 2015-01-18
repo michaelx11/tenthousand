@@ -1,0 +1,8 @@
+Base Scrabble score: between 10 and 20 (inclusive) points
+Contains: N
+Has at least one anagram that is also in the word list: YES
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between 85.7% and 85.8% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 83 and 95 (inclusive)
+Vowels: between 28.5% and 28.6% (inclusive) of the letters

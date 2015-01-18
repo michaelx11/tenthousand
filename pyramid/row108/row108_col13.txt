@@ -1,0 +1,5 @@
+Contains: PU
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Sum of letters (A=1, B=2, etc): between 20 and 68 (inclusive)
+Vowels: 1
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

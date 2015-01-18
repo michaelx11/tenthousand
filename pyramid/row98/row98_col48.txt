@@ -1,0 +1,7 @@
+Base Scrabble score: 10 points
+Contains: AP
+Letters located in the top row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+
+This is a word with property MEIDUM.

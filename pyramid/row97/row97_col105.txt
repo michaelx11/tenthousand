@@ -1,0 +1,7 @@
+Length: 4 letters
+Letters located in the bottom row on a QWERTY keyboard: 1
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 75F
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Sum of letters (A=1, B=2, etc): between 3 and 61 (inclusive)
+
+This is a word with property MENKAURE.

@@ -1,0 +1,2 @@
+Letters located in the middle row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: F060

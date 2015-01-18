@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Contains: ESE
+Distinct letters: 7
+Letters located in the middle row on a QWERTY keyboard: between 23.8% and 25.0% (inclusive) of the letters
+
+This is a word with property SETHKA.

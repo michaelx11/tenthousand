@@ -1,0 +1,11 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Distinct consonants: 4
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 6 letters
+Most common vowel(s) each account(s) for: between 11.1% and 12.5% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: NO

@@ -1,0 +1,5 @@
+Contains: U
+Has property MERENRE: YES
+Letters located in the top row on a QWERTY keyboard: 3
+Most common vowel(s) each account(s) for: exactly 12.5% of the letters
+Sum of letters (A=1, B=2, etc): between 57 and 77 (inclusive)

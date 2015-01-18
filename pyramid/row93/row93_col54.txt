@@ -1,0 +1,4 @@
+Base Scrabble score: between 3 and 13 (inclusive) points
+Contains: NGL
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 33.3% and 33.4% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 31.5% and 33.4% (inclusive) of the letters

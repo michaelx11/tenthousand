@@ -1,0 +1,5 @@
+Distinct consonants: 4
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: BE5
+
+This is a word with property DJOSER.

@@ -1,0 +1,5 @@
+Base Scrabble score: between 11 and 16 (inclusive) points
+Contains: ESS
+Length: 6 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 1
+Starts with a vowel: NO

@@ -1,0 +1,5 @@
+Base Scrabble score: 13 points
+Contains: SI
+Distinct letters: 7
+Letters located in the top row on a QWERTY keyboard: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6

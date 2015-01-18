@@ -1,0 +1,6 @@
+Base Scrabble score: 19 points
+Contains: ER
+Distinct vowels: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 133 and 151 (inclusive)

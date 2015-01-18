@@ -1,0 +1,6 @@
+Base Scrabble score: between 14 and 17 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: NO
+Contains at least one doubled letter: YES
+Contains: SL
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+Starts with a vowel: YES

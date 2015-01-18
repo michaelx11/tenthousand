@@ -1,0 +1,4 @@
+Base Scrabble score: between 20 and 21 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Starts with: K
+Vowels: between 39.1% and 40.0% (inclusive) of the letters

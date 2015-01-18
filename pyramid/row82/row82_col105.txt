@@ -1,0 +1,4 @@
+Has property BIKHERIS: YES
+Letters located in the top row on a QWERTY keyboard: between 5 and 6 (inclusive)
+Sum of letters (A=1, B=2, etc): 140
+Vowels: between 22.2% and 22.3% (inclusive) of the letters

@@ -1,0 +1,7 @@
+Distinct consonants: 5
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 78.9% and 80.0% (inclusive) of the letters
+Letters located in the middle row on a QWERTY keyboard: between 38.4% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: EA
+Sum of letters (A=1, B=2, etc): between 131 and 308 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

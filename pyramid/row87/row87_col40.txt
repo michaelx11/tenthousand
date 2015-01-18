@@ -1,0 +1,4 @@
+Letters located in the top row on a QWERTY keyboard: between 38.8% and 40.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with: W
+Sum of letters (A=1, B=2, etc): 60

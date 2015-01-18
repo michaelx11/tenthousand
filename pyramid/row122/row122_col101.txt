@@ -1,0 +1,5 @@
+Base Scrabble score: 16 points
+Letters located in the middle row on a QWERTY keyboard: between 47.3% and 50.0% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 76 and 81 (inclusive)
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

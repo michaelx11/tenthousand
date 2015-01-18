@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Letters located in the middle row on a QWERTY keyboard: exactly 37.5% of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: 6
+Starts with: U
+Sum of letters (A=1, B=2, etc): between 59 and 78 (inclusive)

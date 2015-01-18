@@ -1,0 +1,3 @@
+Base Scrabble score: between 2 and 11 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 673
+Sum of letters (A=1, B=2, etc): between 139 and 143 (inclusive)

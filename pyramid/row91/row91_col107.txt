@@ -1,0 +1,7 @@
+Contains: OR
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 7 letters
+Letters located in the middle row on a QWERTY keyboard: between 21.4% and 22.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 038
+Starts with a vowel: YES
+
+This is a word with property KHUI.

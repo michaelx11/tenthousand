@@ -1,0 +1,4 @@
+Base Scrabble score: between 9 and 10 (inclusive) points
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 408
+Starts with: EN
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

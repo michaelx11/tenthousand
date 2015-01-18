@@ -1,0 +1,5 @@
+Contains: LI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 80.0% of the letters
+Letters located in the bottom row on a QWERTY keyboard: exactly 0.0% of the letters
+Most common letter(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc): 112

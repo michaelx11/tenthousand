@@ -1,0 +1,5 @@
+Base Scrabble score: between 12 and 14 (inclusive) points
+Contains: OMI
+Distinct vowels: between 5 and 6 (inclusive)
+
+This is a word with property UNAS.

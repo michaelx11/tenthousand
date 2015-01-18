@@ -1,0 +1,7 @@
+Base Scrabble score: between 3 and 11 (inclusive) points
+Distinct consonants: 4
+Has at least one anagram that is also in the word list: YES
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc): between 88 and 119 (inclusive)
+Vowels: between 16.6% and 16.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

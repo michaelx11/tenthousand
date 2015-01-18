@@ -1,0 +1,4 @@
+Contains at least one doubled letter: YES
+Contains: NED
+Letters located in the bottom row on a QWERTY keyboard: between 28.5% and 28.6% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 14

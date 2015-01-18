@@ -1,0 +1,6 @@
+Ends with: D
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 13A
+Vowels: between 33.3% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

@@ -1,0 +1,5 @@
+Base Scrabble score: 9 points
+Contains at least one doubled letter: YES
+Contains: RO
+Length: between 2 and 5 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 3 and 71 (inclusive)

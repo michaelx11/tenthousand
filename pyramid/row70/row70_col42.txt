@@ -1,0 +1,7 @@
+Distinct letters: 10
+Length: between 16 and 18 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 8
+Most common consonant(s) each appear(s): 2 times
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 165 and 182 (inclusive)
+Vowels: between 7 and 12 (inclusive)

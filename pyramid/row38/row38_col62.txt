@@ -1,0 +1,6 @@
+Contains: NIS
+Distinct consonants: 6
+Starts with a vowel: YES
+Vowels: between 40.9% and 42.2% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

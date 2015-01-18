@@ -1,0 +1,6 @@
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 9 and 10 (inclusive) letters
+Most common letter(s) each account(s) for: between 7.6% and 12.5% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 4F
+Vowels: between 38.4% and 40.0% (inclusive) of the letters
+
+This is NOT a word with property HAWARA.

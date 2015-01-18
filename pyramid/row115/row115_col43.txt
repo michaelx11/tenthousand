@@ -1,0 +1,4 @@
+Contains: BA
+Most common letter(s) each account(s) for: between 13.6% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Sum of letters (A=1, B=2, etc): 69

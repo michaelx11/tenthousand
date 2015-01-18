@@ -1,0 +1,5 @@
+Letters located in the top row on a QWERTY keyboard: exactly 100.0% of the letters
+Most common letter(s) each appear(s): 3 times
+Sum of letters (A=1, B=2, etc): 119
+
+This is a word with property NEFEREFRE.

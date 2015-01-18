@@ -1,0 +1,11 @@
+Base Scrabble score: between 11 and 19 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: TH
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 4 letters
+Most common consonant(s) each account(s) for: between 16.6% and 16.7% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc) is divisible by 2: NO
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc) is divisible by 7: NO
+Sum of letters (A=1, B=2, etc): between 81 and 98 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

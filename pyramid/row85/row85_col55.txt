@@ -1,0 +1,8 @@
+Contains at least one doubled letter: NO
+Distinct consonants: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc): between 108 and 112 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES
+
+This is NOT a word with property NEFEREFRE.

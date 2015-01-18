@@ -1,0 +1,4 @@
+Distinct letters: 4
+Has property MERENRE: YES
+Starts with: FUS
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

@@ -1,0 +1,6 @@
+Base Scrabble score: between 10 and 11 (inclusive) points
+Distinct vowels: 1
+Ends with: T
+Has at least one anagram that is also in the word list: YES
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: A8
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

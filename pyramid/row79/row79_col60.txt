@@ -1,0 +1,6 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 100.0% of the letters
+Letters located in the middle row on a QWERTY keyboard: between 5 and 12 (inclusive)
+Most common vowel(s) each account(s) for: between 23.0% and 23.1% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): between 132 and 133 (inclusive)
+
+This is NOT a word with property SETHKA.

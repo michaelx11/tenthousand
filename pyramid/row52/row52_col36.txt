@@ -1,0 +1,6 @@
+Base Scrabble score: 13 points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Letters located in the top row on a QWERTY keyboard: 6
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Sum of letters (A=1, B=2, etc): between 78 and 82 (inclusive)
+Vowels: 3

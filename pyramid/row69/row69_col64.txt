@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Distinct vowels: 1
+Letters located in the top row on a QWERTY keyboard: 1
+Starts with a vowel: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: NO

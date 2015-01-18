@@ -1,0 +1,6 @@
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 91.6% and 91.7% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: 8
+Sum of letters (A=1, B=2, etc): 163
+
+This is NOT a word with property MENKAURE.

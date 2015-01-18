@@ -1,0 +1,5 @@
+Contains at least one doubled letter: NO
+Contains: AP
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 2 letters
+Length: between 8 and 9 (inclusive) letters
+Vowels: between 1 and 2 (inclusive)

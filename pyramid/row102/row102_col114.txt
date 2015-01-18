@@ -1,0 +1,7 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: NO
+Contains: S
+Distinct letters: 7
+Has property AMENYQEMAU: YES
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 11 and 17 (inclusive) letters
+Length: between 11 and 12 (inclusive) letters

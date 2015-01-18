@@ -1,0 +1,5 @@
+Has property PEPI: YES
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 26.6% and 28.6% (inclusive) of the letters
+Length: between 11 and 28 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: E1
+Vowels: 4

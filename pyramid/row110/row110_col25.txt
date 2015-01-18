@@ -1,0 +1,4 @@
+Base Scrabble score: between 11 and 12 (inclusive) points
+Contains: ATE
+Most common letter(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 98

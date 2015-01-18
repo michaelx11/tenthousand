@@ -1,0 +1,4 @@
+Ends with: LE
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: exactly 37.5% of the letters
+Letters located in the middle row on a QWERTY keyboard: exactly 12.5% of the letters
+Sum of letters (A=1, B=2, etc): between 104 and 110 (inclusive)

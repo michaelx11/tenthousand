@@ -1,0 +1,6 @@
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: NI
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 8 and 9 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 7
+Vowels: between 47.0% and 50.0% (inclusive) of the letters

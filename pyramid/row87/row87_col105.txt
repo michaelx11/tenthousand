@@ -1,0 +1,6 @@
+Base Scrabble score: 7 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 71.4% and 71.5% (inclusive) of the letters
+Letters located in the top row on a QWERTY keyboard: 5
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: B5
+Starts with a vowel: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

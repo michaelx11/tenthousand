@@ -1,0 +1,5 @@
+Ends with: T
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 4 letters
+Length: between 3 and 4 (inclusive) letters
+Letters located in the top row on a QWERTY keyboard: between 3 and 4 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 9

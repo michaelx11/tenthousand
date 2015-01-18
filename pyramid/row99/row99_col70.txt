@@ -1,0 +1,5 @@
+Base Scrabble score: 20 points
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 83.3% and 83.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 149
+
+This is a word with property MAZGHUNA.

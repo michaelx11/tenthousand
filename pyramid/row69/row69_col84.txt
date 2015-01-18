@@ -1,0 +1,4 @@
+Base Scrabble score: between 19 and 20 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: NO
+Sum of letters (A=1, B=2, etc): 127
+Vowels: between 38.4% and 38.5% (inclusive) of the letters

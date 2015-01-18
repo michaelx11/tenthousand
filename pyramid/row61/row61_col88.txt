@@ -1,0 +1,4 @@
+Letters located in the bottom row on a QWERTY keyboard: between 13.6% and 14.3% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8013
+
+This is a word with property QAKAREIBI.

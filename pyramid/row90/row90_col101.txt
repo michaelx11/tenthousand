@@ -1,0 +1,6 @@
+Base Scrabble score: 10 points
+Has at least one anagram that is also in the word list: NO
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 0 and 4 (inclusive) letters
+Length: between 7 and 14 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: C
+Vowels: between 22.2% and 25.0% (inclusive) of the letters

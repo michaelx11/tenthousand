@@ -1,0 +1,7 @@
+Distinct vowels: 4
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: B3
+Sum of letters (A=1, B=2, etc): between 146 and 199 (inclusive)
+Vowels: 5
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 64-bit integer: NO
+
+This is NOT a word with property AMENEMHAT.

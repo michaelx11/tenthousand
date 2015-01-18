@@ -1,0 +1,4 @@
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between 63.6% and 66.7% (inclusive) of the letters
+Most common consonant(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: F6
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

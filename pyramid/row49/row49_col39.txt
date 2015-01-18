@@ -1,0 +1,7 @@
+Distinct letters: between 2 and 6 (inclusive)
+Ends with: NCES
+Letters located in the middle row on a QWERTY keyboard: between 3 and 6 (inclusive)
+Most common consonant(s) each appear(s): between 2 and 3 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 06
+
+This is a word with property DJOSER.

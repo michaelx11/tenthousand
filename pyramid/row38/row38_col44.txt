@@ -1,0 +1,6 @@
+Base Scrabble score: 9 points
+Contains at least one doubled letter: NO
+Contains: LE
+Letters located in the middle row on a QWERTY keyboard: between 64.2% and 71.5% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

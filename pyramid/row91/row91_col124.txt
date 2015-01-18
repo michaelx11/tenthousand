@@ -1,0 +1,5 @@
+Length: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: D
+Sum of letters (A=1, B=2, etc): between 48 and 58 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO

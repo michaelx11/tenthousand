@@ -1,0 +1,2 @@
+Ends with: NTIE
+Letters located in the bottom row on a QWERTY keyboard: exactly 20.0% of the letters

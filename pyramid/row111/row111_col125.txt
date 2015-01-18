@@ -1,0 +1,8 @@
+Base Scrabble score: between 16 and 17 (inclusive) points
+Contains at least one doubled letter: NO
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 4 letters
+Length: between 8 and 10 (inclusive) letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 00
+Starts with a vowel: YES
+Vowels: between 31.2% and 33.4% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: NO

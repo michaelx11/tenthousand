@@ -1,0 +1,4 @@
+Base Scrabble score: 22 points
+Distinct vowels: 3
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: between 32.0% and 33.4% (inclusive) of the letters
+Sum of letters (A=1, B=2, etc): 157

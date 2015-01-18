@@ -1,0 +1,4 @@
+Contains at least one doubled letter: NO
+Contains: AS
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 9 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: FAA

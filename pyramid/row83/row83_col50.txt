@@ -1,0 +1,8 @@
+Ends with: RER
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: 4 letters
+Length: between 6 and 7 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 3: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO
+
+This is NOT a word with property DJOSER.

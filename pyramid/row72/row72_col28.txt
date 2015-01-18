@@ -1,0 +1,7 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Contains: ED
+Letters located in the middle row on a QWERTY keyboard: 4
+Most common consonant(s) each account(s) for: between 21.4% and 25.0% (inclusive) of the letters
+Starts with a vowel: YES

@@ -1,0 +1,5 @@
+Base Scrabble score: between 2 and 6 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: between 80.0% and 100.0% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 5B
+Starts with: A
+Vowels: 1

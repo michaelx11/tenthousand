@@ -1,0 +1,7 @@
+Base Scrabble score: between 22 and 49 (inclusive) points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains at least one doubled letter: YES
+Letters located in the bottom row on a QWERTY keyboard: 2
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 47
+Sum of letters (A=1, B=2, etc) is divisible by 5: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES

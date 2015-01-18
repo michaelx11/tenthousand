@@ -1,0 +1,7 @@
+Base Scrabble score: between 20 and 24 (inclusive) points
+Contains at least one doubled letter: YES
+Contains: B
+Distinct letters: 8
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between 9 and 10 (inclusive) letters
+Sum of letters (A=1, B=2, etc): between 89 and 101 (inclusive)
+Vowels: between 31.2% and 33.4% (inclusive) of the letters

@@ -1,0 +1,7 @@
+Some statements that uniquely identify RIOTOUSNESS:
+
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Can be combined with two additional letters to produce an anagram of something in the word list: YES
+Ends with: NESS
+If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: 10 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: C

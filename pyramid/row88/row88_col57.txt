@@ -1,0 +1,9 @@
+Distinct letters: between 8 and 14 (inclusive)
+If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: 11 letters
+Length: 11 letters
+Letters located in the top row on a QWERTY keyboard: between 5 and 6 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 93
+Starts with a vowel: NO
+Vowels: between 5 and 6 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

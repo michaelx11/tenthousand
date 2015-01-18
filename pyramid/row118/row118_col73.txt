@@ -1,0 +1,11 @@
+Base Scrabble score: between 10 and 11 (inclusive) points
+Contains: E
+Distinct consonants: 4
+Letters located in the middle row on a QWERTY keyboard: between 5.5% and 11.8% (inclusive) of the letters
+Most common letter(s) each appear(s): 2 times
+Starts with a vowel: NO
+Sum of letters (A=1, B=2, etc) is divisible by 2: YES
+Sum of letters (A=1, B=2, etc): between 118 and 122 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 2: NO
+
+This is NOT a word with property PEPI.

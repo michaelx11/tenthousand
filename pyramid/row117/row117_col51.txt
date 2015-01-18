@@ -1,0 +1,5 @@
+Contains: Y
+Distinct vowels: between 0 and 1 (inclusive)
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: AD2
+Sum of letters (A=1, B=2, etc): between 68 and 71 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: YES

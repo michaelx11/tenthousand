@@ -1,0 +1,5 @@
+Base Scrabble score: 17 points
+Can be combined with one additional letter to produce an anagram of something in the word list: YES
+Contains: CA
+Letters located in the bottom row on a QWERTY keyboard: between 26.6% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

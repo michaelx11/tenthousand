@@ -1,0 +1,6 @@
+Base Scrabble score: 12 points
+Has property KHUI: YES
+If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: exactly 60.0% of the letters
+Most common consonant(s) each appear(s): 1 time
+Sum of letters (A=1, B=2, etc) is divisible by 3: NO
+Vowels: between 38.4% and 40.0% (inclusive) of the letters

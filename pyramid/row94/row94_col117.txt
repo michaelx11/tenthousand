@@ -1,0 +1,4 @@
+Base Scrabble score: 8 points
+Contains: IS
+If you marked nonoverlapping US state postal abbreviations, you could mark at most: 0 letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F64

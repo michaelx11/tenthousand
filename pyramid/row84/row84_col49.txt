@@ -1,0 +1,3 @@
+Length: between 10 and 12 (inclusive) letters
+Sum of letters (A=1, B=2, etc) is divisible by 7: YES
+Sum of letters (A=1, B=2, etc): between 49 and 62 (inclusive)

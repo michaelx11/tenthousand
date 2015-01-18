@@ -1,0 +1,6 @@
+Contains at least one doubled letter: YES
+Distinct consonants: 4
+Letters located in the bottom row on a QWERTY keyboard: between 33.3% and 33.4% (inclusive) of the letters
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 119 and 307 (inclusive)
+Vowels: between 41.1% and 41.7% (inclusive) of the letters

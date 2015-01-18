@@ -1,0 +1,5 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Has property PEPI: YES
+Letters located in the bottom row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Sum of letters (A=1, B=2, etc): 121
+Vowels: between 45.4% and 45.5% (inclusive) of the letters

@@ -1,0 +1,7 @@
+Base Scrabble score: between 12 and 13 (inclusive) points
+Contains at least one doubled letter: NO
+Contains: TER
+Has at least one anagram that is also in the word list: NO
+Letters located in the middle row on a QWERTY keyboard: between 14.2% and 14.3% (inclusive) of the letters
+Most common letter(s) each account(s) for: between 28.5% and 28.6% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: YES

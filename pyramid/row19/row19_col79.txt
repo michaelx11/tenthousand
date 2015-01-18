@@ -1,0 +1,3 @@
+Base Scrabble score: between 18 and 19 (inclusive) points
+Letters located in the middle row on a QWERTY keyboard: between 38.0% and 41.2% (inclusive) of the letters
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: F9A9

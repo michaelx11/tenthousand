@@ -1,0 +1,6 @@
+Base Scrabble score: between 18 and 49 (inclusive) points
+Contains: PER
+Sum of letters (A=1, B=2, etc): 128
+Vowels: between 3 and 4 (inclusive)
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

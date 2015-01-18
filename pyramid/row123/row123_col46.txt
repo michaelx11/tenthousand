@@ -1,0 +1,9 @@
+Base Scrabble score: 15 points
+Contains at least one doubled letter: NO
+Distinct vowels: 3
+Most common letter(s) each appear(s): between 2 and 4 (inclusive) times
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 2
+Vowels: 3
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 7: NO

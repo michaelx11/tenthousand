@@ -1,0 +1,6 @@
+Most common consonant(s) each appear(s): 3 times
+SHA-1 hash of lowercased word, expressed in hexadecimal, contains: 7AC
+Starts with a vowel: YES
+Sum of letters (A=1, B=2, etc): between 141 and 147 (inclusive)
+
+This is NOT a word with property QAKAREIBI.

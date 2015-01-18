@@ -1,0 +1,4 @@
+Distinct consonants: 3
+SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: 8178
+
+This is NOT a word with property PEPI.

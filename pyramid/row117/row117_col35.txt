@@ -1,0 +1,8 @@
+Base Scrabble score: 15 points
+Contains: ER
+Letters located in the middle row on a QWERTY keyboard: between 0 and 1 (inclusive)
+Most common letter(s) each account(s) for: between 16.0% and 16.7% (inclusive) of the letters
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 3: NO
+Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by 5: YES
+
+This is a word with property NEFEREFRE.
