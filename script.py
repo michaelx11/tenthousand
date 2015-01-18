@@ -93,6 +93,9 @@ def canAddTwoAnagram(word):
                 return True
     return False
 
+def distinctConsonants(word):
+    return len(set(letter for letter in word if letter in 'BCDFGHJKLMNPQRSTVWXYZ'))
+
 instructions = {
 'Contains: $word':
 lambda word, args: args[0] in word,
@@ -192,6 +195,9 @@ lambda word, args: canAddTwoAnagram(word) == args[0],
 
 'Length: $val':
 lambda word, args: len(word),
+
+'Distinct consonants: $val':
+lambda word, args: distinctConsonants(word) == args[0],
 }
 
 # Stores the filters, where the keys are compiled regex, and values are (args, func(word, args)->bool).
