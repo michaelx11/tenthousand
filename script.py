@@ -121,6 +121,9 @@ lambda word, args: between(100.0 * count(word, 'ASDFGHJKL') / len(word), args[0]
 'Letters located in the bottom row on a QWERTY keyboard: $val':
 lambda word, args: count(word, 'ZXCVBNM') == args[0],
 
+'Letters located in the top row on a QWERTY keyboard: $val':
+lambda word, args: count(word, 'QWERTYUIOP') == args[0],
+
 'Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by $val: $bool':
 lambda word, args: (to_base26(word) % args[0] == 0) == args[1],
 
@@ -143,7 +146,13 @@ lambda word, args: (to_base26(word) < (2 ** 32)) == args[0],
 lambda word, args: True,  # TODO
 
 'SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: $string':
-lambda word, args: (sha_1(word)[:2] == args[0]),
+lambda word, args: (sha_1(word).startswith(args[0])),
+
+'SHA-1 hash of lowercased word, expressed in hexadecimal, contains: $string':
+lambda word, args: (args[0] in sha_1(word)),
+
+'SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: $string':
+lambda word, args: (args[0].endswith(args[0])),
 
 'If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: $val letters':
 lambda word, args: (isoAlpha2(word) <= args[0]),
@@ -159,9 +168,6 @@ lambda word, args: True,  # TODO
 
 'Most common consonant(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countMostCommonNot(word, 'AEIOU') / len(word), args[0], args[1]),
-
-'SHA-1 hash of lowercased word, expressed in hexadecimal, contains: $string':
-lambda word, args: (args[0] in sha_1(word)),
 
 'This is NOT a word with property PEPI.':
 lambda word, args: True,  # TODO
