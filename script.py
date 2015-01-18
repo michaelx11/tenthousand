@@ -257,6 +257,8 @@ for row in range(125):
         for line in open(file_path).readlines():
             if line[-1] != '\n':
                 raise
+            if len(line.strip()) == 0:
+                continue
             print line[:-1]
             result = find_filter(line)
             if not result:
