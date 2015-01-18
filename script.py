@@ -59,6 +59,9 @@ def postalCodeCount(word):
       maxmarked[i + 3] = max(maxmarked[:i + 1]) + 2
   return max(maxmarked)
 
+def countNot(word, letters):
+  return sum([c not in letters for c in word])
+
 instructions = {
 'Contains: $word':
 lambda word, args: args[0] in word,
@@ -114,7 +117,7 @@ lambda word, args: (to_base26(word) < (2 ** 32)) == args[0],
 'Has property QAKAREIBI: $bool':
 lambda word, args: True,  # TODO
 
-'SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: $word':
+'SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: $string':
 lambda word, args: (sha_1(word)[:2] == args[0]),
 
 'If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: $val letters':
@@ -128,6 +131,16 @@ lambda word, args: (postalCodeCount(word) <= args[0]),
 
 'Has property PEPI: $bool':
 lambda word, args: True,  # TODO
+
+'Most common consonant(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
+lambda word, args: between(100.0 * countNot(word, 'AEIOU') / len(word), args[0], args[1]),
+
+'SHA-1 hash of lowercased word, expressed in hexadecimal, contains: $string':
+lambda word, args: (args[0] in sha_1(word)),
+
+'This is NOT a word with property PEPI.':
+lambda word, args: True,  # TODO
+
 }
 
 filters = {}
@@ -139,6 +152,7 @@ for instruct in instructions:
     s = s.replace('$word', '([A-Z]+)')
     s = s.replace('$val', '([0-9\.]+)')
     s = s.replace('$bool', '([A-Z]+)')
+    s = s.replace('$string', '([\w]+)')
     filters[re.compile(s)] = (args, instructions[instruct])
 
 def find_filter(instruct):
@@ -148,7 +162,7 @@ def find_filter(instruct):
         if match != None and len(match.groups()) == len(args):
             groups = list(match.groups())
             for i, arg in enumerate(args):
-                if arg == '$word':
+                if arg == '$word' or arg == '$string':
                     pass
                 elif arg == '$val':
                     groups[i] = float(groups[i])
@@ -174,6 +188,8 @@ for line in open('dircontents', 'r'):
         print filename
         valid_words = list(words)
         for line in open(filename).readlines():
+            if len(line.strip()) == 0:
+                continue
             result = find_filter(line)
             if not result:
                 print 'Error: not found', line
