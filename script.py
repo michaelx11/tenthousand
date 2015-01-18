@@ -242,14 +242,11 @@ for line in open('pyramid/words.txt'):
 
 sortedStrings = set(map(lambda x: ''.join(sorted(x)), words))
 
-for filename in os.listdir('pyramid'):
-    if filename in ('examples', 'words.txt'):
-        continue
-    row_path = 'pyramid/%s' % filename
-    for filename in os.listdir(row_path):
-        match = fname_r.search(filename)
-        row, col = match.group(1), match.group(2)
-        file_path = '%s/%s' % (row_path, filename)
+for row in range(125):
+    min_col = 62 - (row + 1) // 2
+    max_col = 79 + row // 2
+    for col in range(min_col, max_col + 1):
+        file_path = 'pyramid/row%d/row%d_col%d.txt' % (row, row, col)
         print file_path
 
         # Narrow down the valid words.
