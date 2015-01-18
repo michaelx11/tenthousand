@@ -17,7 +17,7 @@ def to_base26(word):
         val *= 26
     return val
 
-def count(word, letters):
+def countOccurences(word, letters):
     return sum([c in letters for c in word])
 
 def scrab_val(word):
@@ -85,7 +85,13 @@ def canAddOneAnagram(word):
     if ''.join(sorted(word + chr(i))) in sortedStrings:
       return True
   return False
-    
+
+def canAddTwoAnagram(word):
+    for i in range(65, 65 + 26):
+        for j in range(65, 65 + 26):
+            if ''.join(sorted(word + chr(i) + chr(j))) in sortedStrings:
+                return True
+    return False
 
 instructions = {
 'Contains: $word':
@@ -101,10 +107,10 @@ lambda word, args: between(find_lettersum(word), args[0], args[1]),
 lambda word, args: find_lettersum(word) == args[0],
 
 'Vowels: between $val% and $val% (inclusive)':
-lambda word, args: between(100.0 * count(word, 'AEIOU') / len(word), args[0], args[1]),
+lambda word, args: between(100.0 * countOccurences(word, 'AEIOU') / len(word), args[0], args[1]),
 
 'Vowels: between $val and $val (inclusive)':
-lambda word, args: between(count(word, 'AEIOU'), args[0], args[1]),
+lambda word, args: between(countOccurences(word, 'AEIOU'), args[0], args[1]),
 
 'Base Scrabble score: $val points':
 lambda word, args: scrab_val(word) == args[0],
@@ -113,16 +119,16 @@ lambda word, args: scrab_val(word) == args[0],
 lambda word, args: find_lettersum(word) % args[0] == args[1],
 
 'Most common vowel(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
-lambda word, args: between(100.0 * max([count(word, c) for c in 'AEIOU']) / len(word), args[0], args[1]),
+lambda word, args: between(100.0 * max([countOccurences(word, c) for c in 'AEIOU']) / len(word), args[0], args[1]),
 
 'Letters located in the middle row on a QWERTY keyboard: between $val% and $val% (inclusive) of the letters':
-lambda word, args: between(100.0 * count(word, 'ASDFGHJKL') / len(word), args[0], args[1]),
+lambda word, args: between(100.0 * countOccurences(word, 'ASDFGHJKL') / len(word), args[0], args[1]),
 
 'Letters located in the bottom row on a QWERTY keyboard: $val':
-lambda word, args: count(word, 'ZXCVBNM') == args[0],
+lambda word, args: countOccurences(word, 'ZXCVBNM') == args[0],
 
 'Letters located in the top row on a QWERTY keyboard: $val':
-lambda word, args: count(word, 'QWERTYUIOP') == args[0],
+lambda word, args: countOccurences(word, 'QWERTYUIOP') == args[0],
 
 'Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by $val: $bool':
 lambda word, args: (to_base26(word) % args[0] == 0) == args[1],
@@ -131,10 +137,10 @@ lambda word, args: (to_base26(word) % args[0] == 0) == args[1],
 lambda word, args: (word[0] in 'AEIOU') == args[0],
 
 'Vowels: $val':
-lambda word, args: count(word, 'AEIOU') == args[0],
+lambda word, args: countOccurences(word, 'AEIOU') == args[0],
 
 'Vowels: between $val and $val (inclusive) of the letters':
-lambda word, args: between(count(word, 'AEIOU'), args[0], args[1]),
+lambda word, args: between(countOccurences(word, 'AEIOU'), args[0], args[1]),
 
 'Contains at least one doubled letter: $bool':
 lambda word, args: has_double == args[0],
@@ -180,6 +186,9 @@ lambda word, args: True,  # TODO
 
 'Can be combined with one additional letter to produce an anagram of something in the word list: $bool':
 lambda word, args: canAddOneAnagram(word) == args[0],
+
+'Can be combined with two additional letters to produce an anagram of something in the word list: $bool':
+lambda word, args: canAddTwoAnagram(word) == args[0],
 
 'Length: $val':
 lambda word, args: len(word),
