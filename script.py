@@ -39,25 +39,25 @@ for line in f:
   code_dict.add(line.strip().upper())
 
 def isoAlpha2(word):
-  maxmarked = (len(word) + 2) * [0]
+  maxmarked = (len(word) + 4) * [0]
   for i in range(len(word)):
     if word[i:i + 2] in code_dict:
       maxmarked[i + 3] = max(maxmarked[:i + 1]) + 2
   return max(maxmarked)
 
 def isoAlpha2Percent(word):
-  maxmarked = (len(word) + 2) * [0]
+  maxmarked = (len(word) + 4) * [0]
   for i in range(len(word)):
     if word[i:i + 2] in code_dict:
       maxmarked[i + 3] = max(maxmarked[:i + 1]) + 2
   return 100.0 * max(maxmarked) / len(word)
 
 def postalCodeCount(word):
-  maxmarked = (len(word) + 2) * [0]
+  maxmarked = (len(word) + 4) * [0]
   for i in range(len(word)):
     if word[i:i + 2] in postalcodes:
       maxmarked[i + 3] = max(maxmarked[:i + 1]) + 2
-  return 1.0 * max(maxmarked) / len(word)
+  return max(maxmarked)
 
 instructions = {
 'Contains: $word':
@@ -74,6 +74,9 @@ lambda word, args: find_lettersum(word) == args[0],
 
 'Vowels: between $val% and $val% (inclusive)':
 lambda word, args: between(100.0 * count(word, 'AEIOU') / len(word), args[0], args[1]),
+
+'Vowels: between $val and $val (inclusive)':
+lambda word, args: between(count(word, 'AEIOU'), args[0], args[1]),
 
 'Base Scrabble score: $val points':
 lambda word, args: scrab_val(word) == args[0],
@@ -122,6 +125,9 @@ lambda word, args: (args[0] <= isoAlpha2Percent(word) and isoAlpha2Percent(word)
 
 'If you marked nonoverlapping US state postal abbreviations, you could mark at most: $val letters':
 lambda word, args: (postalCodeCount(word) <= args[0]),
+
+'Has property PEPI: $bool':
+lambda word, args: True,  # TODO
 }
 
 filters = {}
@@ -174,5 +180,6 @@ for line in open('dircontents', 'r'):
                 exit(1)
             groups, func = result
             valid_words = filter(lambda x: func(x, groups), valid_words)
+            print len(valid_words)
         print valid_words
     os.chdir('..')
