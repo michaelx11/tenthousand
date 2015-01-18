@@ -100,8 +100,11 @@ instructions = {
 'Contains: $word':
 lambda word, args: args[0] in word,
 
+'Starts with: $word':
+lambda word, args: word.startswith(args[0]),
+
 'Ends with: $word':
-lambda word, args: word[-len(args[0]):] == args[0],
+lambda word, args: word.endswith(args[0]),
 
 'Sum of letters (A=1, B=2, etc): between $val and $val (inclusive)':
 lambda word, args: between(find_lettersum(word), args[0], args[1]),
@@ -118,6 +121,9 @@ lambda word, args: between(countOccurences(word, 'AEIOU'), args[0], args[1]),
 'Base Scrabble score: $val points':
 lambda word, args: scrab_val(word) == args[0],
 
+'Base Scrabble score: between $val and $val (inclusive) points':
+lambda word, args: between(scrab_val(word), args[0], args[1]),
+
 'Sum of letters (A=1, B=2, etc) is divisible by $val: $bool':
 lambda word, args: find_lettersum(word) % args[0] == args[1],
 
@@ -132,6 +138,12 @@ lambda word, args: countOccurences(word, 'ZXCVBNM') == args[0],
 
 'Letters located in the top row on a QWERTY keyboard: $val':
 lambda word, args: countOccurences(word, 'QWERTYUIOP') == args[0],
+
+'Letters located in the top row on a QWERTY keyboard: between $val and $val (inclusive)':
+lambda word, args: between(countOccurences(word, 'QWERTYUIOP'), args[0], args[1]),
+
+'Letters located in the top row on a QWERTY keyboard: between $val% and $val% (inclusive) of the letters':
+lambda word, args: between(100.0 * countOccurences(word, 'QWERTYUIOP') / len(word), args[0], args[1]),
 
 'Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by $val: $bool':
 lambda word, args: (to_base26(word) % args[0] == 0) == args[1],
@@ -151,9 +163,6 @@ lambda word, args: has_double == args[0],
 'Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: $bool':
 lambda word, args: (to_base26(word) < (2 ** 32)) == args[0],
 
-'Has property QAKAREIBI: $bool':
-lambda word, args: True,  # TODO
-
 'SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: $string':
 lambda word, args: (sha_1(word).startswith(args[0])),
 
@@ -161,7 +170,7 @@ lambda word, args: (sha_1(word).startswith(args[0])),
 lambda word, args: (args[0] in sha_1(word)),
 
 'SHA-1 hash of lowercased word, expressed in hexadecimal, ends with: $string':
-lambda word, args: (args[0].endswith(args[0])),
+lambda word, args: (sha_1(word).endswith(args[0])),
 
 'If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: $val letters':
 lambda word, args: (isoAlpha2(word) <= args[0]),
@@ -172,20 +181,11 @@ lambda word, args: (args[0] <= isoAlpha2Percent(word) and isoAlpha2Percent(word)
 'If you marked nonoverlapping US state postal abbreviations, you could mark at most: $val letters':
 lambda word, args: (postalCodeCount(word) <= args[0]),
 
-'Has property PEPI: $bool':
-lambda word, args: True,  # TODO
-
 'Most common consonant(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countMostCommonNot(word, 'AEIOU') / len(word), args[0], args[1]),
 
-'This is NOT a word with property PEPI.':
-lambda word, args: True,  # TODO
-
 'Most common letter(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countMostCommonNot(word, '') / len(word), args[0], args[1]),
-
-'This is a word with property BIKHERIS.':
-lambda word, args: True,  # TODO
 
 'Can be combined with one additional letter to produce an anagram of something in the word list: $bool':
 lambda word, args: canAddOneAnagram(word) == args[0],
@@ -198,6 +198,25 @@ lambda word, args: len(word),
 
 'Distinct consonants: $val':
 lambda word, args: distinctConsonants(word) == args[0],
+
+'If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between $val% and $val% (inclusive) of the letters':
+lambda word, args: True,  # TODO
+
+'If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between $val% and $val% (inclusive) of the letters':
+lambda word, args: True,  # TODO
+
+'Has property $word: $bool':
+lambda word, args: True,  # TODO
+
+'This is NOT a word with property $word.':
+lambda word, args: True,  # TODO
+
+'This is a word with property $word.':
+lambda word, args: True,  # TODO
+
+'This word is associated with the concept $word.':
+lambda word, args: True,  # TODO
+
 }
 
 # Stores the filters, where the keys are compiled regex, and values are (args, func(word, args)->bool).
@@ -250,12 +269,15 @@ for filename in os.listdir('pyramid'):
         for line in open(file_path).readlines():
             if line[-1] != '\n':
                 raise
-            print line[:-1]
+            if not line.strip():
+                # blank line
+                continue
             result = find_filter(line)
             if not result:
                 print 'Error: not found', line
                 exit(1)
             groups, func = result
+            print line
             valid_words = filter(lambda x: func(x, groups), valid_words)
             print len(valid_words)
         print valid_words
