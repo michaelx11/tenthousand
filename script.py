@@ -62,6 +62,31 @@ def postalCodeCount(word):
 def countNot(word, letters):
   return sum([c not in letters for c in word])
 
+def countMostCommon(word, letters):
+  d = {}
+  for x in filter(lambda y: y in letters, set(word)):
+    if x not in d:
+      d[x] = 1
+    else:
+      d[x] += 1
+  return max(d.values() + [0])
+
+def countMostCommonNot(word, letters):
+  d = {}
+  for x in filter(lambda y: y not in letters, set(word)):
+    if x not in d:
+      d[x] = 1
+    else:
+      d[x] += 1
+  return max(d.values() + [0])
+
+def canAddOneAnagram(word):
+  for i in range(65, 65 + 26):
+    if ''.join(sorted(word + chr(i))) in sortedStrings:
+      return True
+  return False
+    
+
 instructions = {
 'Contains: $word':
 lambda word, args: args[0] in word,
@@ -133,7 +158,7 @@ lambda word, args: (postalCodeCount(word) <= args[0]),
 lambda word, args: True,  # TODO
 
 'Most common consonant(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
-lambda word, args: between(100.0 * countNot(word, 'AEIOU') / len(word), args[0], args[1]),
+lambda word, args: between(100.0 * countMostCommonNot(word, 'AEIOU') / len(word), args[0], args[1]),
 
 'SHA-1 hash of lowercased word, expressed in hexadecimal, contains: $string':
 lambda word, args: (args[0] in sha_1(word)),
@@ -141,6 +166,17 @@ lambda word, args: (args[0] in sha_1(word)),
 'This is NOT a word with property PEPI.':
 lambda word, args: True,  # TODO
 
+'Most common letter(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
+lambda word, args: between(100.0 * countMostCommonNot(word, '') / len(word), args[0], args[1]),
+
+'This is a word with property BIKHERIS.':
+lambda word, args: True,  # TODO
+
+'Can be combined with one additional letter to produce an anagram of something in the word list: $bool':
+lambda word, args: canAddOneAnagram(word) == args[0],
+
+'Length: $val':
+lambda word, args: len(word),
 }
 
 filters = {}
@@ -172,8 +208,12 @@ def find_filter(instruct):
             return groups, func
 
 words = set()
+
 for line in open('words.txt'):
     words.add(line.strip().upper())
+
+sortedStrings = set(map(lambda x: ''.join(sorted(x)), words))
+
 for line in open('dircontents', 'r'):
     os.chdir(line.strip())
     os.system('pwd')
