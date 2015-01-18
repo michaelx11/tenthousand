@@ -80,6 +80,9 @@ def countMostCommonNot(word, letters):
       d[x] += 1
   return max(d.values() + [0])
 
+def canAnagram(word):
+    return ''.join(sorted(word)) in sortedStrings
+
 def canAddOneAnagram(word):
   for i in range(65, 65 + 26):
     if ''.join(sorted(word + chr(i))) in sortedStrings:
@@ -93,8 +96,8 @@ def canAddTwoAnagram(word):
                 return True
     return False
 
-def distinctConsonants(word):
-    return len(set(letter for letter in word if letter in 'BCDFGHJKLMNPQRSTVWXYZ'))
+def distinctLetters(word, letters):
+    return len(set(letter for letter in word if letter in letters))
 
 instructions = {
 'Contains: $word':
@@ -105,6 +108,9 @@ lambda word, args: word.startswith(args[0]),
 
 'Ends with: $word':
 lambda word, args: word.endswith(args[0]),
+
+'Length: between $val and $val (inclusive) letters':
+lambda word, args: between(len(word), args[0], args[1]),
 
 'Sum of letters (A=1, B=2, etc): between $val and $val (inclusive)':
 lambda word, args: between(find_lettersum(word), args[0], args[1]),
@@ -142,6 +148,9 @@ lambda word, args: countOccurences(word, 'QWERTYUIOP') == args[0],
 'Letters located in the top row on a QWERTY keyboard: between $val and $val (inclusive)':
 lambda word, args: between(countOccurences(word, 'QWERTYUIOP'), args[0], args[1]),
 
+'Letters located in the top row on a QWERTY keyboard: exactly $val% of the letters':
+lambda word, args: 100.0 * countOccurences(word, 'QWERTYUIOP') / len(word) == args[0],
+
 'Letters located in the top row on a QWERTY keyboard: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countOccurences(word, 'QWERTYUIOP') / len(word), args[0], args[1]),
 
@@ -162,6 +171,9 @@ lambda word, args: has_double == args[0],
 
 'Word interpreted as a base 26 number (A=0, B=1, etc) is representable as an unsigned 32-bit integer: $bool':
 lambda word, args: (to_base26(word) < (2 ** 32)) == args[0],
+
+'Word interpreted as a base 26 number (A=0, B=1, etc) is exactly representable in IEEE 754 single-precision floating point format: $bool':
+lambda word, args: (to_base26(word) < (2 ** 53)) == args[0],
 
 'SHA-1 hash of lowercased word, expressed in hexadecimal, starts with: $string':
 lambda word, args: (sha_1(word).startswith(args[0])),
@@ -184,25 +196,43 @@ lambda word, args: (postalCodeCount(word) <= args[0]),
 'Most common consonant(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countMostCommonNot(word, 'AEIOU') / len(word), args[0], args[1]),
 
+'Most common consonant(s) each appear(s): $val times':
+lambda word, args: countMostCommonNot(word, 'AEIOU') == args[0],
+
 'Most common letter(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countMostCommonNot(word, '') / len(word), args[0], args[1]),
+
+'Has at least one anagram that is also in the word list: $bool':
+lambda word, args: canAnagram(word) == args[0],
 
 'Can be combined with one additional letter to produce an anagram of something in the word list: $bool':
 lambda word, args: canAddOneAnagram(word) == args[0],
 
 'Can be combined with two additional letters to produce an anagram of something in the word list: $bool':
-lambda word, args: canAddTwoAnagram(word) == args[0],
+lambda word, args: True,  # TODO
 
 'Length: $val':
 lambda word, args: len(word),
 
+'Distinct letters: $val':
+lambda word, arg: distinctLetters(word, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ') == args[0],
+
+'Distinct vowels: $val':
+lambda word, arg: distinctLetters(word, 'AEIOU') == args[0],
+
 'Distinct consonants: $val':
-lambda word, args: distinctConsonants(word) == args[0],
+lambda word, args: distinctLetters(word, 'BCDFGHJKLMNPQRSTVWXYZ') == args[0],
 
 'If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: between $val% and $val% (inclusive) of the letters':
 lambda word, args: True,  # TODO
 
+'If you marked nonoverlapping occurrences of words in the word list that are 3 or fewer letters long, you could mark at most: $val letters':
+lambda word, args: True,  # TODO
+
 'If you marked nonoverlapping chemical element symbols (atomic number 112 or below), you could mark at most: between $val% and $val% (inclusive) of the letters':
+lambda word, args: True,  # TODO
+
+'If you marked nonoverlapping officially-assigned ISO 3166-1 alpha-2 country codes, you could mark at most: between $val and $val (inclusive) letters':
 lambda word, args: True,  # TODO
 
 'Has property $word: $bool':
