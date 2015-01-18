@@ -4,6 +4,9 @@ fname_r = re.compile('row(\d+)_col(\d+)\.txt')
 
 postalcodes = set(['AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA','KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD','TN','TX','UT','VT','VA','WA','WV','WI','WY'])
 
+def exactPercentage(percentage, val):
+    return abs(percentage - val) < 1.0e-5
+
 def between(val, low, high):
     return val >= low and val <= high
 
@@ -124,14 +127,17 @@ lambda word, args: find_lettersum(word) % args[0] == args[1],
 'Most common vowel(s) each account(s) for: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * max([countOccurences(word, c) for c in 'AEIOU']) / len(word), args[0], args[1]),
 
+'Letters located in the top row on a QWERTY keyboard: exactly $val% of the letters':
+lambda word, args: exactPercentage(100.0 * countOccurences(word, 'QWERTYUIOP') / len(word), args[0]),
+
+'Letters located in the top row on a QWERTY keyboard: $val':
+lambda word, args: countOccurences(word, 'QWERTYUIOP') == args[0],
+
 'Letters located in the middle row on a QWERTY keyboard: between $val% and $val% (inclusive) of the letters':
 lambda word, args: between(100.0 * countOccurences(word, 'ASDFGHJKL') / len(word), args[0], args[1]),
 
 'Letters located in the bottom row on a QWERTY keyboard: $val':
 lambda word, args: countOccurences(word, 'ZXCVBNM') == args[0],
-
-'Letters located in the top row on a QWERTY keyboard: $val':
-lambda word, args: countOccurences(word, 'QWERTYUIOP') == args[0],
 
 'Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by $val: $bool':
 lambda word, args: (to_base26(word) % args[0] == 0) == args[1],
@@ -244,6 +250,7 @@ for filename in os.listdir('pyramid'):
         match = fname_r.search(filename)
         row, col = match.group(1), match.group(2)
         file_path = '%s/%s' % (row_path, filename)
+        print file_path
 
         # Narrow down the valid words.
         valid_words = list(words)
