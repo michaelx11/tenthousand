@@ -139,6 +139,9 @@ lambda word, args: between(100.0 * countOccurences(word, 'ASDFGHJKL') / len(word
 'Letters located in the bottom row on a QWERTY keyboard: $val':
 lambda word, args: countOccurences(word, 'ZXCVBNM') == args[0],
 
+'Letters located in the bottom row on a QWERTY keyboard: between $val% and $val% (inclusive) of the letters':
+lambda word, args: between(100.0 * countOccurences(word, 'ZXCVBNM') / len(word), args[0], args[1]),
+
 'Word interpreted as a base 26 number (A=0, B=1, etc) is divisible by $val: $bool':
 lambda word, args: (to_base26(word) % args[0] == 0) == args[1],
 
@@ -263,4 +266,3 @@ for row in range(125):
             valid_words = filter(lambda x: func(x, groups), valid_words)
             print len(valid_words)
         print valid_words
-        break
