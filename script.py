@@ -42,18 +42,18 @@ for line in f:
   code_dict.add(line.strip().upper())
 
 def isoAlpha2(word):
-  maxmarked = (len(word) + 4) * [0]
-  for i in range(len(word)):
-    if word[i:i + 2] in code_dict:
-      maxmarked[i + 3] = max(maxmarked[:i + 1]) + 2
-  return max(maxmarked)
+    # best[i] is the number of letters we can cover using indices at most i.
+    best = len(word) * [0]
+    for i in range(1, len(word)):
+        if word[i-1:i+1] in code_dict:
+            if i-1 > 0:
+                best[i] = max(best[:i-1]) + 2
+            else:
+                best[i] = 2
+    return max(best)
 
 def isoAlpha2Percent(word):
-  maxmarked = (len(word) + 4) * [0]
-  for i in range(len(word)):
-    if word[i:i + 2] in code_dict:
-      maxmarked[i + 3] = max(maxmarked[:i + 1]) + 2
-  return 100.0 * max(maxmarked) / len(word)
+  return 100.0 * isoAlpha2(word) / len(word)
 
 def postalCodeCount(word):
   maxmarked = (len(word) + 4) * [0]
